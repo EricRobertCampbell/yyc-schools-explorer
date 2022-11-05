@@ -4,7 +4,8 @@
 	border: solid 1px black;
 }
 .main {
-  display: flex;
-  flex-direction: row:
-  align-items: start;
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+	flex-grow: 1;
 }

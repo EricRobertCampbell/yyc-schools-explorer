@@ -1,5 +1,17 @@
 import { useCallback, useEffect, useState } from 'react';
 import { Home } from './Home';
+import {
+	Chart as ChartJS,
+	CategoryScale,
+	LinearScale,
+	PointElement,
+	LineElement,
+	Title,
+	Tooltip,
+	Legend
+} from 'chart.js';
+
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 // assets, &c.
 import './SideBar.css';
@@ -7,6 +19,7 @@ import testImage from '../assets/images/chris-liverani-ViEBSoZH6M4-unsplash.jpg'
 
 // types and classes
 import type { $TSFixMe } from '../types';
+import { Line } from 'react-chartjs-2';
 
 const FirstComponent = () => {
 	return (
@@ -58,9 +71,7 @@ const JsonLoadTest = () => {
 	useEffect(() => {
 		(async () => {
 			const result = await fetch('/data/test.json');
-			console.log({ result });
 			const json = await result.json();
-			console.log({ json });
 			setSchoolData(json);
 		})();
 	}, []);
@@ -72,10 +83,52 @@ const JsonLoadTest = () => {
 		</>
 	);
 };
+
+const GraphTest = () => {
+	const [schoolData, setSchoolData] = useState<null | SchoolData>(null);
+	const [data, setData] = useState<$TSFixMe>({ datasets: [] });
+
+	useEffect(() => {
+		(async () => {
+			const result = await fetch('/data/test.json');
+			const json = await result.json();
+			setSchoolData(json);
+		})();
+	}, []);
+
+	// when the data loads, create the graph
+	useEffect(() => {
+		if (schoolData) {
+			const labels = schoolData.results.map(({ year }) => year);
+			const dataset = {
+				label: schoolData.name,
+				data: labels.map(
+					(year) => schoolData.results.find((result) => result.year === year)?.average
+				),
+				borderColor: 'rgb(255, 99, 132)',
+				backgroundColor: 'rgba(255, 99, 132, 0.5)'
+			};
+			const parsedData = {
+				labels,
+				datasets: [dataset]
+			};
+			console.log({ parsedData });
+			setData(parsedData);
+		}
+	}, [schoolData]);
+
+	return (
+		<div style={{ flexGrow: 1 }}>
+			<h2>Graph Test</h2>
+			<Line data={data} options={{ responsive: true }} />
+		</div>
+	);
+};
 interface SideBarProps {
 	setComponent: $TSFixMe;
 }
 export const SideBar = ({ setComponent }: SideBarProps) => {
+	const [selectedOption, setSelectedOption] = useState<string>('Home');
 	const actualSetComponent = useCallback(
 		(func: () => any) => {
 			setComponent(() => func);
@@ -83,62 +136,32 @@ export const SideBar = ({ setComponent }: SideBarProps) => {
 
 		[setComponent]
 	);
-	const oldactualSetComponent = (func: () => any) => {
-		setComponent(() => func);
-	};
 	return (
 		<div className="sidebar">
 			<ul>
-				<li key="home">
-					<button
-						type="button"
-						onClick={() => {
-							actualSetComponent(Home);
-						}}
-					>
-						Home
-					</button>
-				</li>
-				<li key="first">
-					<button
-						type="button"
-						onClick={() => {
-							actualSetComponent(FirstComponent);
-						}}
-					>
-						First Component
-					</button>
-				</li>
-				<li key="second">
-					<button
-						type="button"
-						onClick={() => {
-							actualSetComponent(SecondComponent);
-						}}
-					>
-						Second Component
-					</button>
-				</li>
-				<li key="third">
-					<button
-						type="button"
-						onClick={() => {
-							actualSetComponent(ThirdComponent);
-						}}
-					>
-						Third Component
-					</button>
-				</li>
-				<li key="jsonTest">
-					<button
-						type="button"
-						onClick={() => {
-							actualSetComponent(JsonLoadTest);
-						}}
-					>
-						JSON Load Test
-					</button>
-				</li>
+				{(
+					[
+						['Home', Home],
+						['First Component', FirstComponent],
+						['Second Component', SecondComponent],
+						['Third Component', ThirdComponent],
+						['JSON Load Test', JsonLoadTest],
+						['Graph Test', GraphTest]
+					] as Array<[string, $TSFixMe]>
+				).map(([label, Component]) => (
+					<li key={label}>
+						<button
+							type="button"
+							className={label === selectedOption ? 'selected' : ''}
+							onClick={() => {
+								setSelectedOption(label);
+								actualSetComponent(Component);
+							}}
+						>
+							{label}
+						</button>
+					</li>
+				))}
 			</ul>
 		</div>
 	);
