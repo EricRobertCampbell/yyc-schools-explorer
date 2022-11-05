@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4015997-e5a0-46dc-a633-595e36d6d62a/deploy-status)](https://app.netlify.com/sites/yycschools/deploys)
+
 # YYC Schools Explorer
 
 ## Outline
@@ -30,4 +32,5 @@ This sections includes some ideas of who the user of the site might be and what 
 -   [ ] Connect to a development database (perhaps Fauna?) populated with fake data with the same shape as the production one
 -   [ ] Render a map of the Calgary area with the schools (fake data) populated
 -   [ ] Be able to click on the schools to display general information about that school
+-   [ ] Add in an `address` field to allow the user to enter their address and select schools within a certain radius. Perhaps have this displayed on the map?
 -   [ ] Add in an `address` field to allow the user to enter their address and select schools within a certain radius. Perhaps have this displayed on the map?
