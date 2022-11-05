@@ -2,9 +2,10 @@ import { useState } from 'react';
 import './App.css';
 import { $TSFixMe } from './types';
 import { SideBar } from './components';
+import { Home } from './components';
 
 function App() {
-	const [Component, setComponent] = useState<$TSFixMe>(null);
+	const [Component, setComponent] = useState<$TSFixMe>(() => () => <Home />);
 	return (
 		<div className="App">
 			<header>
@@ -12,7 +13,11 @@ function App() {
 			</header>
 			<div className="main">
 				<SideBar setComponent={setComponent} />
-				{Component ? <Component /> : null}
+				{Component ? (
+					<div>
+						<Component />
+					</div>
+				) : null}
 			</div>
 		</div>
 	);
