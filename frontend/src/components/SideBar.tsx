@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import { Home } from './Home';
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import {
 	Chart as ChartJS,
 	CategoryScale,
@@ -124,6 +125,50 @@ const GraphTest = () => {
 		</div>
 	);
 };
+
+const MapTest = () => {
+	const [schoolLocationData, setSchoolLocationData] = useState<$TSFixMe>(null);
+
+	useEffect(() => {
+		(async () => {
+			const result = await fetch('/data/locations_test.json');
+			const json = await result.json();
+			setSchoolLocationData(json);
+		})();
+	}, []);
+	return (
+		<div style={{ flexGrow: 1 }}>
+			<h2>Map Test</h2>
+			{schoolLocationData ? (
+				<MapContainer
+					center={[
+						schoolLocationData.schools[0].location.lat,
+						schoolLocationData.schools[0].location.lng
+					]}
+					zoom={13}
+					scrollWheelZoom={false}
+					style={{ height: '500px', width: '85vw' }}
+				>
+					{' '}
+					<TileLayer
+						attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+						url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+					/>{' '}
+					{schoolLocationData.schools.map((school: $TSFixMe) => (
+						<Marker position={[school.location.lat, school.location.lng]}>
+							<Popup>
+								<h3>{school.name}</h3>
+								<p>{school.info}</p>
+							</Popup>
+						</Marker>
+					))}
+				</MapContainer>
+			) : (
+				<p>No location data found</p>
+			)}
+		</div>
+	);
+};
 interface SideBarProps {
 	setComponent: $TSFixMe;
 }
@@ -146,7 +191,8 @@ export const SideBar = ({ setComponent }: SideBarProps) => {
 						['Second Component', SecondComponent],
 						['Third Component', ThirdComponent],
 						['JSON Load Test', JsonLoadTest],
-						['Graph Test', GraphTest]
+						['Graph Test', GraphTest],
+						['Map Test', MapTest]
 					] as Array<[string, $TSFixMe]>
 				).map(([label, Component]) => (
 					<li key={label}>

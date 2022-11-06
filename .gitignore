@@ -1,4 +1,11 @@
 .env
+venv
+
+# frontend files
+node_modules/
+
+# backend files
+**/*.pyc
 
 # vim files
 *.swp

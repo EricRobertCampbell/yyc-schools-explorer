@@ -8,4 +8,5 @@
 	flex-direction: row;
 	align-items: start;
 	flex-grow: 1;
+	min-height: 500px;
 }
