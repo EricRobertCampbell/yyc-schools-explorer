@@ -3,3 +3,6 @@
 	padding: 4px;
 	margin-right: 4px;
 }
+.selected {
+	text-decoration: red overline underline;
+}
