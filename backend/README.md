@@ -9,9 +9,10 @@ In the future, this may become an actual backend - for now this is probably OK.
 ### Working in Python
 
 -   Create a virtual environment: `python -m venv venv`
-    -   Note that this is in the `.gitignore`
+    -   Note that this is in the `.gitignore`, so you'll need to create your own, as above
+-   To enter the environment: `source venv/scripts/activate` (Linux and Mac) or `.\venv\Scripts\activate` (Windows)
 -   To leave: `deactivate`
--   Install any necessary requirements: `pip install -r requirements.txt`
+-   Install any necessary requirements from the requirements file: `pip install -r requirements.txt`
 -   If you need to include any packages, install them and add them to the `requirements.txt` file:
 
 ```bash
