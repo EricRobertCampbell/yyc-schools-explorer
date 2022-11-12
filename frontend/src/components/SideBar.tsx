@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useState, useContext } from 'react';
 import { Home } from './Home';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import {
@@ -11,6 +11,8 @@ import {
 	Tooltip,
 	Legend
 } from 'chart.js';
+import { useJsonFile } from '../hooks';
+import { BasicSchoolInformationContext } from '../contexts';
 
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
@@ -62,29 +64,32 @@ const ThirdComponent = () => {
 	);
 };
 
-interface SchoolData {
-	name: string;
-	results: Array<{ year: number; average: number }>;
-}
 const JsonLoadTest = () => {
-	const [schoolData, setSchoolData] = useState<null | SchoolData>(null);
+	const [schoolData, setSchoolData] = useState<null | unknown>(null);
+	// @ts-expect-error
+	const [loadData, { loading, error, data }] = useJsonFile('test.json');
 
 	useEffect(() => {
 		(async () => {
-			const result = await fetch('/data/test.json');
-			const json = await result.json();
-			setSchoolData(json);
+			// @ts-expect-error
+			await loadData();
 		})();
+		/* (async () => { */
+		/* 	const result = await fetch('/data/test.json'); */
+		/* 	const json = await result.json(); */
+		/* 	setSchoolData(json); */
+		/* })(); */
 	}, []);
 
 	return (
 		<>
 			<h2>Testing Ability to Load JSON Data</h2>
-			{schoolData ? <pre>{JSON.stringify(schoolData, null, 4)}</pre> : <p>No Data Loaded</p>}
+			<pre>{JSON.stringify({ loading, error, data }, null, 4)}</pre>
 		</>
 	);
 };
 
+type SchoolData = any;
 const GraphTest = () => {
 	const [schoolData, setSchoolData] = useState<null | SchoolData>(null);
 	const [data, setData] = useState<$TSFixMe>({ datasets: [] });
@@ -169,6 +174,77 @@ const MapTest = () => {
 		</div>
 	);
 };
+
+const ContextTest = () => {
+	const data = useContext(BasicSchoolInformationContext);
+	if (!data) {
+		return (
+			<>
+				<h2>Basic School Information</h2>
+				<p>No school information found</p>
+			</>
+		);
+	}
+	return (
+		<>
+			<h2>Basic School Information</h2>
+			<table>
+				<thead>
+					<tr>
+						{[
+							'School Code',
+							'Name',
+							'Address 1',
+							'Address 2',
+							'City',
+							'Province',
+							'Postal Code',
+							'Phone'
+						].map((header) => (
+							<th>{header}</th>
+						))}
+					</tr>
+				</thead>
+				<tbody>
+					{Object.entries(data).map(
+						([
+							schoolCode,
+							{
+								// @ts-expect-error
+								schoolName,
+								// @ts-expect-error
+								schoolAddress1,
+								// @ts-expect-error
+								schoolAddress2,
+								// @ts-expect-error
+								schoolCity,
+								// @ts-expect-error
+								schoolProvince,
+								// @ts-expect-error
+								schoolPostalCode,
+								// @ts-expect-error
+								schoolPhone
+							}
+						]) => {
+							return (
+								<tr>
+									<td>{schoolCode}</td>
+									<td>{schoolName}</td>
+									<td>{schoolAddress1}</td>
+									<td>{schoolAddress2}</td>
+									<td>{schoolCity}</td>
+									<td>{schoolProvince}</td>
+									<td>{schoolPostalCode}</td>
+									<td>{schoolPhone}</td>
+								</tr>
+							);
+						}
+					)}
+				</tbody>
+			</table>
+		</>
+	);
+};
 interface SideBarProps {
 	setComponent: $TSFixMe;
 }
@@ -192,7 +268,8 @@ export const SideBar = ({ setComponent }: SideBarProps) => {
 						['Third Component', ThirdComponent],
 						['JSON Load Test', JsonLoadTest],
 						['Graph Test', GraphTest],
-						['Map Test', MapTest]
+						['Map Test', MapTest],
+						['Basic School Information', ContextTest]
 					] as Array<[string, $TSFixMe]>
 				).map(([label, Component]) => (
 					<li key={label}>
