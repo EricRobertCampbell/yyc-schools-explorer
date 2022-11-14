@@ -1,5 +1,5 @@
 {
-	"1": {
+	"0001": {
 		"schoolName": "Special Centre",
 		"schoolAddress1": "10044 - 108 Street",
 		"schoolAddress2": "",
@@ -8,7 +8,7 @@
 		"schoolPostalCode": "T5J5E6",
 		"schoolPhone": ""
 	},
-	"9": {
+	"0009": {
 		"schoolName": "Prairiehome Colony School",
 		"schoolAddress1": "6302 - 56 Street",
 		"schoolAddress2": "",
@@ -17,7 +17,7 @@
 		"schoolPostalCode": "T1G1Z9",
 		"schoolPhone": "(403) 222-2075"
 	},
-	"11": {
+	"0011": {
 		"schoolName": "Spring Valley Colony School",
 		"schoolAddress1": "Box 10",
 		"schoolAddress2": "",
@@ -26,7 +26,7 @@
 		"schoolPostalCode": "T0K0K0",
 		"schoolPhone": "(403) 758-0006"
 	},
-	"12": {
+	"0012": {
 		"schoolName": "FFCA High School Campus",
 		"schoolAddress1": "2116 McKay Road N.W.",
 		"schoolAddress2": "",
@@ -35,7 +35,7 @@
 		"schoolPostalCode": "T3B1C7",
 		"schoolPhone": "(403) 243-3316"
 	},
-	"13": {
+	"0013": {
 		"schoolName": "The Chinese Academy",
 		"schoolAddress1": "#191, 1518",
 		"schoolAddress2": "\nCentre Street N.E.",
@@ -44,7 +44,7 @@
 		"schoolPostalCode": "T2E2R9",
 		"schoolPhone": "(403) 777-7663"
 	},
-	"14": {
+	"0014": {
 		"schoolName": "Tompkins Mennonite School",
 		"schoolAddress1": "P.O. Box 988",
 		"schoolAddress2": "",
@@ -53,7 +53,7 @@
 		"schoolPostalCode": "T0H2H0",
 		"schoolPhone": "(780) 928-2242"
 	},
-	"17": {
+	"0017": {
 		"schoolName": "Centre High",
 		"schoolAddress1": "10050 Macdonald Drive",
 		"schoolAddress2": "",
@@ -62,7 +62,7 @@
 		"schoolPostalCode": "T5J2B7",
 		"schoolPhone": "(780) 425-6753"
 	},
-	"18": {
+	"0018": {
 		"schoolName": "The Academy at King Edward",
 		"schoolAddress1": "8525 - 101 Street",
 		"schoolAddress2": "",
@@ -71,7 +71,7 @@
 		"schoolPostalCode": "T6E3Z4",
 		"schoolPhone": "(780) 439-1368"
 	},
-	"19": {
+	"0019": {
 		"schoolName": "Westlock Outreach",
 		"schoolAddress1": "#1, 9919 - 106 Street",
 		"schoolAddress2": "",
@@ -80,7 +80,7 @@
 		"schoolPostalCode": "T7P2K1",
 		"schoolPhone": "(780) 349-7100"
 	},
-	"20": {
+	"0020": {
 		"schoolName": "Trinity Learning Centre",
 		"schoolAddress1": "405 - 18 Street S.",
 		"schoolAddress2": "",
@@ -89,7 +89,7 @@
 		"schoolPostalCode": "T1J3E5",
 		"schoolPhone": "(403) 327-0714"
 	},
-	"21": {
+	"0021": {
 		"schoolName": "Webber Academy",
 		"schoolAddress1": "1515 - 93 Street SW",
 		"schoolAddress2": "",
@@ -98,7 +98,7 @@
 		"schoolPostalCode": "T3H4A8",
 		"schoolPhone": "(403) 277-4700"
 	},
-	"22": {
+	"0022": {
 		"schoolName": "Tween Valley Christian School",
 		"schoolAddress1": "P.O. Box 4297",
 		"schoolAddress2": "",
@@ -107,7 +107,7 @@
 		"schoolPostalCode": "T1G2C7",
 		"schoolPhone": "(403) 223-9571"
 	},
-	"23": {
+	"0023": {
 		"schoolName": "Academy of Learning",
 		"schoolAddress1": "Box 100",
 		"schoolAddress2": "\n301, 10205 - 101 Street",
@@ -116,7 +116,7 @@
 		"schoolPostalCode": "T5J4H5",
 		"schoolPhone": "(780) 424-1144"
 	},
-	"24": {
+	"0024": {
 		"schoolName": "Quest High School",
 		"schoolAddress1": "8 Page Avenue",
 		"schoolAddress2": "",
@@ -125,7 +125,7 @@
 		"schoolPostalCode": "T4P2T2",
 		"schoolPhone": "(403) 343-1354"
 	},
-	"26": {
+	"0026": {
 		"schoolName": "Ecole Publique Gabrielle-Roy",
 		"schoolAddress1": "8728 - 93 Avenue",
 		"schoolAddress2": "",
@@ -134,7 +134,7 @@
 		"schoolPostalCode": "T6C1T8",
 		"schoolPhone": "(780) 457-2100"
 	},
-	"28": {
+	"0028": {
 		"schoolName": "Phoenix Academy",
 		"schoolAddress1": "Centre 170, Suite 145",
 		"schoolAddress2": "\n10403 - 172 St",
@@ -143,7 +143,7 @@
 		"schoolPostalCode": "T5S1K9",
 		"schoolPhone": "(780) 440-0708"
 	},
-	"30": {
+	"0030": {
 		"schoolName": "Master's Academy",
 		"schoolAddress1": "4414 Crowchild Trail S.W.",
 		"schoolAddress2": "",
@@ -152,7 +152,7 @@
 		"schoolPostalCode": "T2T5J4",
 		"schoolPhone": "(403) 242-7034"
 	},
-	"31": {
+	"0031": {
 		"schoolName": "The Third Academy",
 		"schoolAddress1": "3311-49 Street SW",
 		"schoolAddress2": "",
@@ -161,7 +161,7 @@
 		"schoolPostalCode": "T3E6M6",
 		"schoolPhone": "(403) 288-5335"
 	},
-	"32": {
+	"0032": {
 		"schoolName": "Janus Academy",
 		"schoolAddress1": "200 - 403 33 Street NE",
 		"schoolAddress2": "",
@@ -170,7 +170,7 @@
 		"schoolPostalCode": "T2A1X5",
 		"schoolPhone": "(403) 262-3333"
 	},
-	"64": {
+	"0064": {
 		"schoolName": "Hilltop Education Centre",
 		"schoolAddress1": "Drumheller Institution",
 		"schoolAddress2": "\nBox 3000",
@@ -179,7 +179,7 @@
 		"schoolPostalCode": "T0J0Y0",
 		"schoolPhone": "(403) 227-7328"
 	},
-	"67": {
+	"0067": {
 		"schoolName": "Peace River Correctional Centre",
 		"schoolAddress1": "P.O. Bag 900 40",
 		"schoolAddress2": "",
@@ -188,7 +188,7 @@
 		"schoolPostalCode": "T8S1T4",
 		"schoolPhone": "(780) 624-3811"
 	},
-	"95": {
+	"0095": {
 		"schoolName": "Private Study",
 		"schoolAddress1": "10044 - 108 Street",
 		"schoolAddress2": "",
@@ -197,7 +197,7 @@
 		"schoolPostalCode": "T5J5E6",
 		"schoolPhone": ""
 	},
-	"98": {
+	"0098": {
 		"schoolName": "Harvest Baptist Academy",
 		"schoolAddress1": "26404 Highway 16, West",
 		"schoolAddress2": "",
@@ -206,7 +206,7 @@
 		"schoolPostalCode": "T7X3H5",
 		"schoolPhone": "(780) 960-0235"
 	},
-	"99": {
+	"0099": {
 		"schoolName": "Alberta Distance Learning Centre",
 		"schoolAddress1": "P.O. Box 4000",
 		"schoolAddress2": "\n4601 - 63 Avenue",
@@ -215,7 +215,7 @@
 		"schoolPostalCode": "T7N1P4",
 		"schoolPhone": "(780) 674-5333"
 	},
-	"119": {
+	"0119": {
 		"schoolName": "Britannia Children's Center",
 		"schoolAddress1": "3 Windsor Crescent S.W.",
 		"schoolAddress2": "",
@@ -224,7 +224,7 @@
 		"schoolPostalCode": "T2V1V4",
 		"schoolPhone": "(403) 255-8664"
 	},
-	"123": {
+	"0123": {
 		"schoolName": "Irricana Community Hall ECS",
 		"schoolAddress1": "P.O. Box 305",
 		"schoolAddress2": "",
@@ -233,7 +233,7 @@
 		"schoolPostalCode": "T0M1B0",
 		"schoolPhone": "(403) 935-4727"
 	},
-	"124": {
+	"0124": {
 		"schoolName": "Youngstown School Early Childhood Services",
 		"schoolAddress1": "P.O. Box 124",
 		"schoolAddress2": "",
@@ -242,7 +242,7 @@
 		"schoolPostalCode": "T0J3P0",
 		"schoolPhone": "(403) 854-6197"
 	},
-	"135": {
+	"0135": {
 		"schoolName": "Providence Children's Centre",
 		"schoolAddress1": "5232 - 4 Street SW",
 		"schoolAddress2": "",
@@ -251,7 +251,7 @@
 		"schoolPostalCode": "T2V0Z4",
 		"schoolPhone": "(403) 255-5577"
 	},
-	"136": {
+	"0136": {
 		"schoolName": "Grit Program",
 		"schoolAddress1": "12852 141 Street NW",
 		"schoolAddress2": "",
@@ -260,7 +260,7 @@
 		"schoolPostalCode": "T5L4N8",
 		"schoolPhone": "(780) 454-9910"
 	},
-	"140": {
+	"0140": {
 		"schoolName": "Student's Union & Community Day Care Centre",
 		"schoolAddress1": "8917 - 112 Street",
 		"schoolAddress2": "",
@@ -269,7 +269,7 @@
 		"schoolPostalCode": "T6G2C5",
 		"schoolPhone": "(780) 492-2245"
 	},
-	"151": {
+	"0151": {
 		"schoolName": "Community Preschool Education",
 		"schoolAddress1": "12122-68 Street",
 		"schoolAddress2": "",
@@ -278,7 +278,7 @@
 		"schoolPostalCode": "T5B1R1",
 		"schoolPhone": "(780) 455-1818"
 	},
-	"167": {
+	"0167": {
 		"schoolName": "New Brigden School Portable ECS",
 		"schoolAddress1": "Box 414",
 		"schoolAddress2": "",
@@ -287,7 +287,7 @@
 		"schoolPostalCode": "T0J1H0",
 		"schoolPhone": "(403) 664-2490"
 	},
-	"170": {
+	"0170": {
 		"schoolName": "Milo ECS School",
 		"schoolAddress1": "P.O. Box 9",
 		"schoolAddress2": "",
@@ -296,7 +296,7 @@
 		"schoolPostalCode": "T0L1L0",
 		"schoolPhone": "(403) 394-3688"
 	},
-	"173": {
+	"0173": {
 		"schoolName": "Jasper Place Child Care/ECS Program",
 		"schoolAddress1": "16811-88 Avenue-Main Floor",
 		"schoolAddress2": "\nCabrini Centre",
@@ -305,7 +305,7 @@
 		"schoolPostalCode": "T5R5Y6",
 		"schoolPhone": "(780) 489-2243"
 	},
-	"179": {
+	"0179": {
 		"schoolName": "It Takes a Village Kindergarten",
 		"schoolAddress1": "P.O. Box 1116",
 		"schoolAddress2": "",
@@ -314,7 +314,7 @@
 		"schoolPostalCode": "T4C1B2",
 		"schoolPhone": "(403) 932-6501"
 	},
-	"209": {
+	"0209": {
 		"schoolName": "Foothills Creative Beginnings",
 		"schoolAddress1": "#129, 2640-52nd Street NE ",
 		"schoolAddress2": "",
@@ -323,7 +323,7 @@
 		"schoolPostalCode": "T1Y3R6",
 		"schoolPhone": "(403) 300-5543"
 	},
-	"212": {
+	"0212": {
 		"schoolName": "Society for Treatment of Autism",
 		"schoolAddress1": "404 - 94 Avenue S.E.",
 		"schoolAddress2": "",
@@ -332,7 +332,7 @@
 		"schoolPostalCode": "T2J0E8",
 		"schoolPhone": "(403) 253-2291"
 	},
-	"218": {
+	"0218": {
 		"schoolName": "Arrowwood School",
 		"schoolAddress1": "Box 238",
 		"schoolAddress2": "",
@@ -341,7 +341,7 @@
 		"schoolPostalCode": "T0L0B0",
 		"schoolPhone": "(403) 534-3825"
 	},
-	"230": {
+	"0230": {
 		"schoolName": "The PREP Society",
 		"schoolAddress1": "2004 - 12 Avenue N.W.",
 		"schoolAddress2": "",
@@ -350,7 +350,7 @@
 		"schoolPostalCode": "T2N1J7",
 		"schoolPhone": "(403) 282-5011"
 	},
-	"234": {
+	"0234": {
 		"schoolName": "Champion School ECS",
 		"schoolAddress1": "P.O. Box 233",
 		"schoolAddress2": "",
@@ -359,7 +359,7 @@
 		"schoolPostalCode": "T0L0R0",
 		"schoolPhone": "(403) 897-3831"
 	},
-	"243": {
+	"0243": {
 		"schoolName": "Lethbridge Montessori Kindergarten",
 		"schoolAddress1": "Lethbridge Montessori School",
 		"schoolAddress2": "\n915 - 6 Street S.",
@@ -368,7 +368,7 @@
 		"schoolPostalCode": "T1J2E9",
 		"schoolPhone": "(403) 327-5271"
 	},
-	"249": {
+	"0249": {
 		"schoolName": "Renfrew Educational Services-Janice McTighe Centre",
 		"schoolAddress1": "2050 - 21 Street N.E.",
 		"schoolAddress2": "",
@@ -377,7 +377,7 @@
 		"schoolPostalCode": "T2E6S5",
 		"schoolPhone": "(403) 291-5038"
 	},
-	"250": {
+	"0250": {
 		"schoolName": "Renfrew Thomas W. Buchanan Centre",
 		"schoolAddress1": "2050 - 21 Street N.E.",
 		"schoolAddress2": "",
@@ -386,7 +386,7 @@
 		"schoolPostalCode": "T2E6S5",
 		"schoolPhone": "(403) 291-5038"
 	},
-	"251": {
+	"0251": {
 		"schoolName": "University Day Care Centre",
 		"schoolAddress1": "450 Campus Place NW",
 		"schoolAddress2": "",
@@ -395,7 +395,7 @@
 		"schoolPostalCode": "T2N1N4",
 		"schoolPhone": "(403) 210-7682"
 	},
-	"254": {
+	"0254": {
 		"schoolName": "Montessori School of Calgary",
 		"schoolAddress1": "2201 Cliff Street S.W.",
 		"schoolAddress2": "",
@@ -404,7 +404,7 @@
 		"schoolPostalCode": "T2S2G4",
 		"schoolPhone": "(403) 229-1011"
 	},
-	"263": {
+	"0263": {
 		"schoolName": "Foothills Alliance ECS",
 		"schoolAddress1": "333 Edgepark Boulevard N.W.",
 		"schoolAddress2": "",
@@ -413,7 +413,7 @@
 		"schoolPostalCode": "T3A4K4",
 		"schoolPhone": "(403) 547-2193"
 	},
-	"264": {
+	"0264": {
 		"schoolName": "Marlborough Day Nursery Ltd.",
 		"schoolAddress1": "200 Rivercrest Dr.  Unit 201",
 		"schoolAddress2": "\n",
@@ -422,7 +422,7 @@
 		"schoolPostalCode": "T2C2X5",
 		"schoolPhone": "(403) 818-4128"
 	},
-	"270": {
+	"0270": {
 		"schoolName": "Agape Early Childhood Services",
 		"schoolAddress1": "P.O. Box 1780",
 		"schoolAddress2": "",
@@ -431,7 +431,7 @@
 		"schoolPostalCode": "T1J4K4",
 		"schoolPhone": "(403) 320-2772"
 	},
-	"274": {
+	"0274": {
 		"schoolName": "Cause & Effect Early Intervention Services",
 		"schoolAddress1": "#134, 6170 - 12 Street SE",
 		"schoolAddress2": "",
@@ -440,7 +440,7 @@
 		"schoolPostalCode": "T2H2X2",
 		"schoolPhone": "(403) 523-0150"
 	},
-	"280": {
+	"0280": {
 		"schoolName": "Renfrew Educational Services - Child Development Centre",
 		"schoolAddress1": "2050 - 21 Street N.E.",
 		"schoolAddress2": "",
@@ -449,7 +449,7 @@
 		"schoolPostalCode": "T2E6S5",
 		"schoolPhone": "(403) 291-5038"
 	},
-	"281": {
+	"0281": {
 		"schoolName": "Renfrew Educational Services - Park Place Centre",
 		"schoolAddress1": "2050 - 21 Street N.E.",
 		"schoolAddress2": "",
@@ -458,7 +458,7 @@
 		"schoolPostalCode": "T2E6S5",
 		"schoolPhone": "(403) 291-5038"
 	},
-	"284": {
+	"0284": {
 		"schoolName": "Getting Ready For Inclusion To",
 		"schoolAddress1": "#117- 4615 112th Ave. SE",
 		"schoolAddress2": "",
@@ -467,7 +467,7 @@
 		"schoolPostalCode": "T2C5J3",
 		"schoolPhone": "(403) 215-2444"
 	},
-	"285": {
+	"0285": {
 		"schoolName": "The Heartland Agency",
 		"schoolAddress1": "P.O. Box 73153",
 		"schoolAddress2": "\nWoodbine Postal Outlet",
@@ -476,7 +476,7 @@
 		"schoolPostalCode": "T2W6E4",
 		"schoolPhone": "(403) 541-0277"
 	},
-	"289": {
+	"0289": {
 		"schoolName": "Aspire Special Needs Resource Centre",
 		"schoolAddress1": "4826 - 47 Street",
 		"schoolAddress2": "",
@@ -485,7 +485,7 @@
 		"schoolPostalCode": "T4N1R2",
 		"schoolPhone": "(403) 340-2606"
 	},
-	"290": {
+	"0290": {
 		"schoolName": "Horse Lake School",
 		"schoolAddress1": "P.O. Box 303",
 		"schoolAddress2": "",
@@ -494,7 +494,7 @@
 		"schoolPostalCode": "T0H2C0",
 		"schoolPhone": "(780) 356-3101"
 	},
-	"297": {
+	"0297": {
 		"schoolName": "Oliver Centre",
 		"schoolAddress1": "10227 - 118 Street",
 		"schoolAddress2": "",
@@ -503,7 +503,7 @@
 		"schoolPostalCode": "T5K2V4",
 		"schoolPhone": "(780) 482-2116"
 	},
-	"298": {
+	"0298": {
 		"schoolName": "Innisfree School",
 		"schoolAddress1": "P.O. Box 85",
 		"schoolAddress2": "",
@@ -512,7 +512,7 @@
 		"schoolPostalCode": "T0B2G0",
 		"schoolPhone": "(780) 603-1080"
 	},
-	"299": {
+	"0299": {
 		"schoolName": "Community Association for Lasting Success",
 		"schoolAddress1": "P.O. Box 766",
 		"schoolAddress2": "",
@@ -521,7 +521,7 @@
 		"schoolPostalCode": "T9C1R9",
 		"schoolPhone": "(780) 632-3225"
 	},
-	"302": {
+	"0302": {
 		"schoolName": "Pacekids Programs South",
 		"schoolAddress1": "23 Sunpark Drive SE",
 		"schoolAddress2": "",
@@ -530,7 +530,7 @@
 		"schoolPostalCode": "T2X3V1",
 		"schoolPhone": "(403) 234-7876"
 	},
-	"305": {
+	"0305": {
 		"schoolName": "Immanuel Christian Elementary School",
 		"schoolAddress1": "2010 - 5 Avenue N.",
 		"schoolAddress2": "",
@@ -539,7 +539,7 @@
 		"schoolPostalCode": "T1H0N5",
 		"schoolPhone": "(403) 317-7860"
 	},
-	"308": {
+	"0308": {
 		"schoolName": "Mountain View Academy",
 		"schoolAddress1": "3915 34 Street NE",
 		"schoolAddress2": "",
@@ -548,7 +548,7 @@
 		"schoolPostalCode": "T1Y6Z8",
 		"schoolPhone": "(403) 217-4346"
 	},
-	"311": {
+	"0311": {
 		"schoolName": "Holy Family Cyber High School",
 		"schoolAddress1": "8801 - 96 Street",
 		"schoolAddress2": "",
@@ -557,7 +557,7 @@
 		"schoolPostalCode": "T8S1R6",
 		"schoolPhone": "(780) 624-5659"
 	},
-	"312": {
+	"0312": {
 		"schoolName": "Pine Haven School",
 		"schoolAddress1": "R.R. 2",
 		"schoolAddress2": "",
@@ -566,7 +566,7 @@
 		"schoolPostalCode": "T9A1W9",
 		"schoolPhone": "(780) 352-2757"
 	},
-	"313": {
+	"0313": {
 		"schoolName": "Monsignor J. S. Smith School",
 		"schoolAddress1": "2919 Douglasdale Boulevard S.E",
 		"schoolAddress2": "",
@@ -575,7 +575,7 @@
 		"schoolPostalCode": "T2Z2H9",
 		"schoolPhone": "(403) 500-2069"
 	},
-	"314": {
+	"0314": {
 		"schoolName": "Morinville Learning Centre",
 		"schoolAddress1": "9820 - 104 Street",
 		"schoolAddress2": "",
@@ -584,7 +584,7 @@
 		"schoolPostalCode": "T8R1L8",
 		"schoolPhone": "(780) 939-4341"
 	},
-	"319": {
+	"0319": {
 		"schoolName": "Peace Academy of Virtual Education",
 		"schoolAddress1": "#105 10720  117 Avenue ",
 		"schoolAddress2": "\n",
@@ -593,7 +593,7 @@
 		"schoolPostalCode": "T8V7N7",
 		"schoolPhone": "(780) 864-3741"
 	},
-	"323": {
+	"0323": {
 		"schoolName": "Yellowhead Koinonia Christian School",
 		"schoolAddress1": "430 - 72 Street",
 		"schoolAddress2": "",
@@ -602,7 +602,7 @@
 		"schoolPostalCode": "T7E1N3",
 		"schoolPhone": "(780) 723-3850"
 	},
-	"324": {
+	"0324": {
 		"schoolName": "Chipewyan Prairie Dene High School",
 		"schoolAddress1": "General Delivery",
 		"schoolAddress2": "",
@@ -611,7 +611,7 @@
 		"schoolPostalCode": "T0P1G0",
 		"schoolPhone": "(780) 559-2478"
 	},
-	"325": {
+	"0325": {
 		"schoolName": "Transitions at the Y",
 		"schoolAddress1": "11832 103 Street NW",
 		"schoolAddress2": "",
@@ -620,7 +620,7 @@
 		"schoolPostalCode": "T5J2J2",
 		"schoolPhone": "(780) 451-8190"
 	},
-	"326": {
+	"0326": {
 		"schoolName": "Battle River Online",
 		"schoolAddress1": "Suite 2, 4412 56 St",
 		"schoolAddress2": "",
@@ -629,7 +629,7 @@
 		"schoolPostalCode": "T4V5K4",
 		"schoolPhone": "(780) 672-2205"
 	},
-	"327": {
+	"0327": {
 		"schoolName": "The Learning Connection - Grande Cache",
 		"schoolAddress1": "P.O. Box 1050",
 		"schoolAddress2": "",
@@ -638,7 +638,7 @@
 		"schoolPostalCode": "T0E0Y0",
 		"schoolPhone": "(780) 827-5228"
 	},
-	"333": {
+	"0333": {
 		"schoolName": "Ascension of Our Lord",
 		"schoolAddress1": "509 Harvest Hills Drive N.E.",
 		"schoolAddress2": "",
@@ -647,7 +647,7 @@
 		"schoolPostalCode": "T3K4G9",
 		"schoolPhone": "(403) 500-2075"
 	},
-	"334": {
+	"0334": {
 		"schoolName": "Lightning Ridge Education Centre",
 		"schoolAddress1": "Grande Cache Institution",
 		"schoolAddress2": "\nBag 4000",
@@ -656,7 +656,7 @@
 		"schoolPostalCode": "T0E0Y0",
 		"schoolPhone": "(780) 827-4200"
 	},
-	"335": {
+	"0335": {
 		"schoolName": "Connect Charter School",
 		"schoolAddress1": "5915 Lewis Drive S.W.",
 		"schoolAddress2": "",
@@ -665,7 +665,7 @@
 		"schoolPostalCode": "T3E5Z4",
 		"schoolPhone": "(403) 282-2890"
 	},
-	"336": {
+	"0336": {
 		"schoolName": "Ralph McCall School",
 		"schoolAddress1": "1505 - 1 Avenue N.W.",
 		"schoolAddress2": "",
@@ -674,7 +674,7 @@
 		"schoolPostalCode": "T4B2L9",
 		"schoolPhone": "(403) 948-7030"
 	},
-	"338": {
+	"0338": {
 		"schoolName": "J. J. Nearing Catholic Elementary School",
 		"schoolAddress1": "196 Deer Ridge Drive",
 		"schoolAddress2": "",
@@ -683,7 +683,7 @@
 		"schoolPostalCode": "T8N6T6",
 		"schoolPhone": "(780) 418-6330"
 	},
-	"339": {
+	"0339": {
 		"schoolName": "Red Earth Creek School",
 		"schoolAddress1": "P.O. Bag 6000",
 		"schoolAddress2": "",
@@ -692,7 +692,7 @@
 		"schoolPostalCode": "T0G1X0",
 		"schoolPhone": "(780) 649-3898"
 	},
-	"340": {
+	"0340": {
 		"schoolName": "Palliser Beyond Borders at Coaldale",
 		"schoolAddress1": "Box 1237",
 		"schoolAddress2": "\n1915 - 20 Avenue",
@@ -701,7 +701,7 @@
 		"schoolPostalCode": "T1M1L8",
 		"schoolPhone": "(403) 345-4421"
 	},
-	"341": {
+	"0341": {
 		"schoolName": "Glenrose Colony School",
 		"schoolAddress1": "435A Highway 1",
 		"schoolAddress2": "",
@@ -710,7 +710,7 @@
 		"schoolPostalCode": "T1P1J4",
 		"schoolPhone": "(403) 934-5121"
 	},
-	"342": {
+	"0342": {
 		"schoolName": "Twin Creeks School",
 		"schoolAddress1": "435A Highway 1",
 		"schoolAddress2": "",
@@ -719,7 +719,7 @@
 		"schoolPostalCode": "T1P1J4",
 		"schoolPhone": "(403) 934-5121"
 	},
-	"344": {
+	"0344": {
 		"schoolName": "Personalized Learning Activities and Community Education",
 		"schoolAddress1": "9353 50th street",
 		"schoolAddress2": "",
@@ -728,7 +728,7 @@
 		"schoolPostalCode": "T6B2L5",
 		"schoolPhone": "(780) 488-6600"
 	},
-	"346": {
+	"0346": {
 		"schoolName": "St. Martin De Porres High School",
 		"schoolAddress1": "410 Yankee Valley Boulevard SW",
 		"schoolAddress2": "",
@@ -737,7 +737,7 @@
 		"schoolPostalCode": "T4B2M1",
 		"schoolPhone": "(403) 500-2041"
 	},
-	"348": {
+	"0348": {
 		"schoolName": "Midsun School",
 		"schoolAddress1": "660 Sunmills Dr SE",
 		"schoolAddress2": "",
@@ -746,7 +746,7 @@
 		"schoolPostalCode": "T2X3R5",
 		"schoolPhone": "(403) 777-6430"
 	},
-	"349": {
+	"0349": {
 		"schoolName": "Argyll Home School Centre",
 		"schoolAddress1": "6859 - 100 Avenue",
 		"schoolAddress2": "",
@@ -755,7 +755,7 @@
 		"schoolPostalCode": "T6A0G3",
 		"schoolPhone": "(780) 465-1299"
 	},
-	"367": {
+	"0367": {
 		"schoolName": "Ecole Nouvelle Frontiere",
 		"schoolAddress1": "11201- Pinnacle Boulevard",
 		"schoolAddress2": "",
@@ -764,7 +764,7 @@
 		"schoolPostalCode": "T8W0C6",
 		"schoolPhone": "(780) 814-7945"
 	},
-	"369": {
+	"0369": {
 		"schoolName": "Tofield Colony School",
 		"schoolAddress1": "5402 - 48A Avenue",
 		"schoolAddress2": "",
@@ -773,7 +773,7 @@
 		"schoolPostalCode": "T4V0L3",
 		"schoolPhone": "(780) 672-6131"
 	},
-	"374": {
+	"0374": {
 		"schoolName": "Carousel Children's Centre",
 		"schoolAddress1": "3 Windsor Crescent S.W.",
 		"schoolAddress2": "",
@@ -782,7 +782,7 @@
 		"schoolPostalCode": "T2V1V4",
 		"schoolPhone": "(403) 255-8664"
 	},
-	"375": {
+	"0375": {
 		"schoolName": "Lakeside Outreach School",
 		"schoolAddress1": "Box 127",
 		"schoolAddress2": "",
@@ -791,7 +791,7 @@
 		"schoolPostalCode": "T0G2A0",
 		"schoolPhone": "(780) 849-2992"
 	},
-	"378": {
+	"0378": {
 		"schoolName": "St. Gabriel Education Centre",
 		"schoolAddress1": "6 St. Vital Avenue",
 		"schoolAddress2": "\nLower Level",
@@ -800,7 +800,7 @@
 		"schoolPostalCode": "T8N1K2",
 		"schoolPhone": "(780) 459-6616"
 	},
-	"379": {
+	"0379": {
 		"schoolName": "Burman University",
 		"schoolAddress1": "5415 College Avenue",
 		"schoolAddress2": "",
@@ -809,7 +809,7 @@
 		"schoolPostalCode": "T4L2E5",
 		"schoolPhone": "(403) 342-5044"
 	},
-	"380": {
+	"0380": {
 		"schoolName": "Portage College - St. Paul Campus",
 		"schoolAddress1": "Box 1471",
 		"schoolAddress2": "\n5205-50 Avenue",
@@ -818,7 +818,7 @@
 		"schoolPostalCode": "T0A3A0",
 		"schoolPhone": "(780) 645-5223"
 	},
-	"381": {
+	"0381": {
 		"schoolName": "Portage College-Cold Lake Campus",
 		"schoolAddress1": "101-7825-51 Street",
 		"schoolAddress2": "",
@@ -827,7 +827,7 @@
 		"schoolPostalCode": "T9M0B6",
 		"schoolPhone": "(780) 623-5532"
 	},
-	"383": {
+	"0383": {
 		"schoolName": "Red Deer College",
 		"schoolAddress1": "P.O. Box 5005",
 		"schoolAddress2": "",
@@ -836,7 +836,7 @@
 		"schoolPostalCode": "T4N5H5",
 		"schoolPhone": ""
 	},
-	"384": {
+	"0384": {
 		"schoolName": "Golden Hills Learning Academy",
 		"schoolAddress1": "116 3rd Avenue",
 		"schoolAddress2": "",
@@ -845,7 +845,7 @@
 		"schoolPostalCode": "T1P1B9",
 		"schoolPhone": "(403) 934-5179"
 	},
-	"385": {
+	"0385": {
 		"schoolName": "Rainbow Colony School",
 		"schoolAddress1": "C/O Chinook's Edge School Divi",
 		"schoolAddress2": "\n4904 50St",
@@ -854,7 +854,7 @@
 		"schoolPostalCode": "T4G1W4",
 		"schoolPhone": "(403) 227-4611"
 	},
-	"386": {
+	"0386": {
 		"schoolName": "Learning Store on Whyte",
 		"schoolAddress1": "10007 - 82 Avenue",
 		"schoolAddress2": "",
@@ -863,7 +863,7 @@
 		"schoolPostalCode": "T6E1Z2",
 		"schoolPhone": "(780) 437-8119"
 	},
-	"387": {
+	"0387": {
 		"schoolName": "The Hamptons School",
 		"schoolAddress1": "10330 Hamptons Blvd NW",
 		"schoolAddress2": "",
@@ -872,7 +872,7 @@
 		"schoolPostalCode": "T3A6G2",
 		"schoolPhone": "(403) 777-7300"
 	},
-	"389": {
+	"0389": {
 		"schoolName": "Holy Angels School",
 		"schoolAddress1": "275 Riverglen Drive SE",
 		"schoolAddress2": "",
@@ -881,7 +881,7 @@
 		"schoolPostalCode": "T2C3T5",
 		"schoolPhone": "(403) 500-2101"
 	},
-	"390": {
+	"0390": {
 		"schoolName": "St. Ambrose School",
 		"schoolAddress1": "1500 Arbour Lake Road N.W.",
 		"schoolAddress2": "",
@@ -890,7 +890,7 @@
 		"schoolPostalCode": "T3G4X9",
 		"schoolPhone": "(403) 500-2100"
 	},
-	"391": {
+	"0391": {
 		"schoolName": "St. Mary's School",
 		"schoolAddress1": "42 Cimarron Trail",
 		"schoolAddress2": "",
@@ -899,7 +899,7 @@
 		"schoolPostalCode": "T1S2A8",
 		"schoolPhone": "(403) 938-8048"
 	},
-	"392": {
+	"0392": {
 		"schoolName": "Lone Pine Colony School",
 		"schoolAddress1": "5031 - 50 Street",
 		"schoolAddress2": "\nBox 1720",
@@ -908,7 +908,7 @@
 		"schoolPostalCode": "T0C2L0",
 		"schoolPhone": "(403) 741-9342"
 	},
-	"393": {
+	"0393": {
 		"schoolName": "Silver Sage Colony School",
 		"schoolAddress1": "918 - 2nd Ave.",
 		"schoolAddress2": "",
@@ -917,7 +917,7 @@
 		"schoolPostalCode": "T1B0K3",
 		"schoolPhone": "(403) 666-2006"
 	},
-	"401": {
+	"0401": {
 		"schoolName": "Vegreville Next Step III Outreach School",
 		"schoolAddress1": "Box 696",
 		"schoolAddress2": "",
@@ -926,7 +926,7 @@
 		"schoolPostalCode": "T9C1R7",
 		"schoolPhone": "(780) 632-7998"
 	},
-	"404": {
+	"0404": {
 		"schoolName": "Airdrie Learning Connection",
 		"schoolAddress1": "120 Main Street SE",
 		"schoolAddress2": "",
@@ -935,7 +935,7 @@
 		"schoolPostalCode": "T4B0P8",
 		"schoolPhone": "(403) 948-4360"
 	},
-	"405": {
+	"0405": {
 		"schoolName": "Sun Country Christian School",
 		"schoolAddress1": "Bag 6000",
 		"schoolAddress2": "",
@@ -944,7 +944,7 @@
 		"schoolPostalCode": "T0K0G0",
 		"schoolPhone": "(403) 545-4244"
 	},
-	"424": {
+	"0424": {
 		"schoolName": "Playcare ECS",
 		"schoolAddress1": "92 Canova Road S.W.",
 		"schoolAddress2": "",
@@ -953,7 +953,7 @@
 		"schoolPostalCode": "T2W2A7",
 		"schoolPhone": "(403) 590-0814"
 	},
-	"428": {
+	"0428": {
 		"schoolName": "Edge School",
 		"schoolAddress1": "33055 Township Road 250",
 		"schoolAddress2": "",
@@ -962,7 +962,7 @@
 		"schoolPostalCode": "T3Z1L4",
 		"schoolPhone": "(403) 246-6432"
 	},
-	"430": {
+	"0430": {
 		"schoolName": "Greenwood Colony School",
 		"schoolAddress1": "P.O. Box 1510",
 		"schoolAddress2": "\n",
@@ -971,7 +971,7 @@
 		"schoolPostalCode": "T0L0Z0",
 		"schoolPhone": "(403) 553-4750"
 	},
-	"431": {
+	"0431": {
 		"schoolName": "Rosedale Christian School",
 		"schoolAddress1": "RR #1, Box 10, Site 5",
 		"schoolAddress2": "",
@@ -980,7 +980,7 @@
 		"schoolPostalCode": "T0H0Y0",
 		"schoolPhone": "(780) 957-2362"
 	},
-	"432": {
+	"0432": {
 		"schoolName": "New Heights School and Learning Services",
 		"schoolAddress1": "2521 Dieppe Ave SW",
 		"schoolAddress2": "",
@@ -989,7 +989,7 @@
 		"schoolPostalCode": "T3E7J9",
 		"schoolPhone": "(403) 240-1312"
 	},
-	"433": {
+	"0433": {
 		"schoolName": "Blessed Sacrament Outreach School",
 		"schoolAddress1": "801 - 2 Avenue",
 		"schoolAddress2": "",
@@ -998,7 +998,7 @@
 		"schoolPostalCode": "T9W1C4",
 		"schoolPhone": "(780) 842-3944"
 	},
-	"434": {
+	"0434": {
 		"schoolName": "Ecole des Quatre-Vents",
 		"schoolAddress1": "7401 - 99 Street",
 		"schoolAddress2": "",
@@ -1007,7 +1007,7 @@
 		"schoolPostalCode": "T8S1R4",
 		"schoolPhone": "(780) 624-3015"
 	},
-	"435": {
+	"0435": {
 		"schoolName": "Prairie View Outreach School",
 		"schoolAddress1": "P.O. Box 1447",
 		"schoolAddress2": "",
@@ -1016,7 +1016,7 @@
 		"schoolPostalCode": "T0G1E0",
 		"schoolPhone": "(780) 523-4200"
 	},
-	"437": {
+	"0437": {
 		"schoolName": "Renfrew Educational Services-Bowness Centre",
 		"schoolAddress1": "2050 - 21 Street N.E.",
 		"schoolAddress2": "",
@@ -1025,7 +1025,7 @@
 		"schoolPostalCode": "T2E6S5",
 		"schoolPhone": "(403) 291-5038"
 	},
-	"438": {
+	"0438": {
 		"schoolName": "Ecole Saint-Christophe",
 		"schoolAddress1": "214 - 8 Street",
 		"schoolAddress2": "",
@@ -1034,7 +1034,7 @@
 		"schoolPostalCode": "T9W2R2",
 		"schoolPhone": "(780) 842-2827"
 	},
-	"439": {
+	"0439": {
 		"schoolName": "St. Joseph's Collegiate",
 		"schoolAddress1": "408 - 1st Street West",
 		"schoolAddress2": "",
@@ -1043,7 +1043,7 @@
 		"schoolPostalCode": "T1R0V8",
 		"schoolPhone": "(403) 362-5989"
 	},
-	"441": {
+	"0441": {
 		"schoolName": "Kayas Cultural College",
 		"schoolAddress1": "P.O. Box 99",
 		"schoolAddress2": "",
@@ -1052,7 +1052,7 @@
 		"schoolPostalCode": "T0H3X0",
 		"schoolPhone": "(780) 659-3760"
 	},
-	"442": {
+	"0442": {
 		"schoolName": "Alpine Children's Centre",
 		"schoolAddress1": "3 Windsor Crescent S.W.",
 		"schoolAddress2": "",
@@ -1061,7 +1061,7 @@
 		"schoolPostalCode": "T2V1V4",
 		"schoolPhone": "(403) 255-8664"
 	},
-	"443": {
+	"0443": {
 		"schoolName": "Bonavista Children's Centre",
 		"schoolAddress1": "3 Windsor Crescent S.W.",
 		"schoolAddress2": "",
@@ -1070,7 +1070,7 @@
 		"schoolPostalCode": "T2V1V4",
 		"schoolPhone": "(403) 255-8664"
 	},
-	"444": {
+	"0444": {
 		"schoolName": "Bow Valley High School",
 		"schoolAddress1": "2000 River Heights Drive",
 		"schoolAddress2": "",
@@ -1079,7 +1079,7 @@
 		"schoolPostalCode": "T4C1Y8",
 		"schoolPhone": "(403) 932-9005"
 	},
-	"474": {
+	"0474": {
 		"schoolName": "Garden River School",
 		"schoolAddress1": "Box 29",
 		"schoolAddress2": "",
@@ -1088,7 +1088,7 @@
 		"schoolPostalCode": "T0H3X0",
 		"schoolPhone": "(780) 659-2117"
 	},
-	"475": {
+	"0475": {
 		"schoolName": "John D'Or School",
 		"schoolAddress1": "Box 99",
 		"schoolAddress2": "",
@@ -1097,7 +1097,7 @@
 		"schoolPostalCode": "T0H3X0",
 		"schoolPhone": "(780) 759-2030"
 	},
-	"478": {
+	"0478": {
 		"schoolName": "Eastside Christian Academy",
 		"schoolAddress1": "1320 Abbeydale Drive SE",
 		"schoolAddress2": "",
@@ -1106,7 +1106,7 @@
 		"schoolPostalCode": "T2A7L8",
 		"schoolPhone": "(403) 569-1003"
 	},
-	"481": {
+	"0481": {
 		"schoolName": "I.V. Macklin Public School",
 		"schoolAddress1": "8876 - 108 Avenue",
 		"schoolAddress2": "",
@@ -1115,7 +1115,7 @@
 		"schoolPostalCode": "T8X1N7",
 		"schoolPhone": "(780) 513-3391"
 	},
-	"482": {
+	"0482": {
 		"schoolName": "Heart Valley Christian School",
 		"schoolAddress1": "R.R. 1",
 		"schoolAddress2": "",
@@ -1124,7 +1124,7 @@
 		"schoolPostalCode": "T0H3P0",
 		"schoolPhone": "(780) 694-2609"
 	},
-	"483": {
+	"0483": {
 		"schoolName": "Thomas More Academy",
 		"schoolAddress1": "Centre 170, Suite 145",
 		"schoolAddress2": "\n10403 - 172 St",
@@ -1133,7 +1133,7 @@
 		"schoolPostalCode": "T5S1K9",
 		"schoolPhone": "(780) 440-0708"
 	},
-	"484": {
+	"0484": {
 		"schoolName": "Amiskwaciy Academy",
 		"schoolAddress1": "101 Airport Road",
 		"schoolAddress2": "",
@@ -1142,7 +1142,7 @@
 		"schoolPostalCode": "T5G3K2",
 		"schoolPhone": ""
 	},
-	"485": {
+	"0485": {
 		"schoolName": "Newman Theological College",
 		"schoolAddress1": "c/o School of Hope",
 		"schoolAddress2": "\n10012 - 84 Street",
@@ -1151,7 +1151,7 @@
 		"schoolPostalCode": "T6A0B2",
 		"schoolPhone": "(780) 477-2993"
 	},
-	"486": {
+	"0486": {
 		"schoolName": "Prairie Land Outreach School",
 		"schoolAddress1": "P.O. Box 1270",
 		"schoolAddress2": "",
@@ -1160,7 +1160,7 @@
 		"schoolPostalCode": "T0J1P0",
 		"schoolPhone": "(403) 854-3642"
 	},
-	"487": {
+	"0487": {
 		"schoolName": "Spirit of the North Community School",
 		"schoolAddress1": "10801 - 102 Street",
 		"schoolAddress2": "",
@@ -1169,7 +1169,7 @@
 		"schoolPostalCode": "T0H1Z0",
 		"schoolPhone": ""
 	},
-	"488": {
+	"0488": {
 		"schoolName": "West Country Outreach School",
 		"schoolAddress1": "Box 375",
 		"schoolAddress2": "",
@@ -1178,7 +1178,7 @@
 		"schoolPostalCode": "T0C2J0",
 		"schoolPhone": "(403) 843-4447"
 	},
-	"489": {
+	"0489": {
 		"schoolName": "Mother Teresa",
 		"schoolAddress1": "79 Old Boomer Road",
 		"schoolAddress2": "",
@@ -1187,7 +1187,7 @@
 		"schoolPostalCode": "T4S1Z4",
 		"schoolPhone": "(403) 887-6371"
 	},
-	"519": {
+	"0519": {
 		"schoolName": "Notre Dame Collegiate",
 		"schoolAddress1": "1500 High Country Drive N.W.",
 		"schoolAddress2": "",
@@ -1196,7 +1196,7 @@
 		"schoolPostalCode": "T1V1T7",
 		"schoolPhone": "(403) 652-2231"
 	},
-	"520": {
+	"0520": {
 		"schoolName": "Ecole Les Cypres",
 		"schoolAddress1": "945 1st Avenue, SE",
 		"schoolAddress2": "",
@@ -1205,7 +1205,7 @@
 		"schoolPostalCode": "T1A2K6",
 		"schoolPhone": "(403) 528-2881"
 	},
-	"521": {
+	"0521": {
 		"schoolName": "Tiny Treasures Ellenwood",
 		"schoolAddress1": "200 Rivercrest Dr. SE",
 		"schoolAddress2": "\nUnit 201",
@@ -1214,7 +1214,7 @@
 		"schoolPostalCode": "T2C2X5",
 		"schoolPhone": "(403) 818-4128"
 	},
-	"524": {
+	"0524": {
 		"schoolName": "\u00c9cole Fox Run School",
 		"schoolAddress1": "2 Falcon Ridge Drive",
 		"schoolAddress2": "",
@@ -1223,7 +1223,7 @@
 		"schoolPostalCode": "T4S2H1",
 		"schoolPhone": "(403) 887-0491"
 	},
-	"528": {
+	"0528": {
 		"schoolName": "Aboriginal Head Start - St. Francis Site",
 		"schoolAddress1": "6770-129th Avenue",
 		"schoolAddress2": "",
@@ -1232,7 +1232,7 @@
 		"schoolPostalCode": "T5C1V7",
 		"schoolPhone": "(780) 640-9799"
 	},
-	"531": {
+	"0531": {
 		"schoolName": "Visions West School",
 		"schoolAddress1": "4934 - 50 Street",
 		"schoolAddress2": "",
@@ -1241,7 +1241,7 @@
 		"schoolPostalCode": "T4T1A5",
 		"schoolPhone": "(403) 844-2355"
 	},
-	"532": {
+	"0532": {
 		"schoolName": "Two Hills Mennonite School",
 		"schoolAddress1": "P.O. Box 720",
 		"schoolAddress2": "",
@@ -1250,7 +1250,7 @@
 		"schoolPostalCode": "T0B4K0",
 		"schoolPhone": "(780) 657-2434"
 	},
-	"533": {
+	"0533": {
 		"schoolName": "Vermilion Outreach School",
 		"schoolAddress1": "5110 46 Street",
 		"schoolAddress2": "",
@@ -1259,7 +1259,7 @@
 		"schoolPostalCode": "T9X1G5",
 		"schoolPhone": "(780) 853-2111"
 	},
-	"534": {
+	"0534": {
 		"schoolName": "Livingstone Colony School",
 		"schoolAddress1": "PO Box 129",
 		"schoolAddress2": "\n",
@@ -1268,7 +1268,7 @@
 		"schoolPostalCode": "T0K1H0",
 		"schoolPhone": ""
 	},
-	"535": {
+	"0535": {
 		"schoolName": "Hidden Valley School",
 		"schoolAddress1": "10959 Hidden Valley Dr  NW",
 		"schoolAddress2": "",
@@ -1277,7 +1277,7 @@
 		"schoolPostalCode": "T3A6J2",
 		"schoolPhone": "(403) 777-7236"
 	},
-	"536": {
+	"0536": {
 		"schoolName": "Crossing Park School",
 		"schoolAddress1": "500 Martindale Blvd NE",
 		"schoolAddress2": "",
@@ -1286,7 +1286,7 @@
 		"schoolPostalCode": "T3J4W8",
 		"schoolPhone": "(403) 777-7195"
 	},
-	"537": {
+	"0537": {
 		"schoolName": "Battalion Park School",
 		"schoolAddress1": "369 Sienna Park Dr SW",
 		"schoolAddress2": "",
@@ -1295,7 +1295,7 @@
 		"schoolPostalCode": "T3H4S2",
 		"schoolPhone": "(403) 777-7187"
 	},
-	"538": {
+	"0538": {
 		"schoolName": "Monterey Park School",
 		"schoolAddress1": "7400 California Blvd NE",
 		"schoolAddress2": "",
@@ -1304,7 +1304,7 @@
 		"schoolPostalCode": "T1Y6R2",
 		"schoolPhone": "(403) 777-7233"
 	},
-	"574": {
+	"0574": {
 		"schoolName": "Red Deer Regional Hospital Education Program",
 		"schoolAddress1": "4747 - 53 Street",
 		"schoolAddress2": " ",
@@ -1313,7 +1313,7 @@
 		"schoolPostalCode": "T4N2E6",
 		"schoolPhone": "(403) 343-4639"
 	},
-	"575": {
+	"0575": {
 		"schoolName": "Wintering Hills",
 		"schoolAddress1": "435A Highway 1",
 		"schoolAddress2": "",
@@ -1322,7 +1322,7 @@
 		"schoolPostalCode": "T1P1J4",
 		"schoolPhone": "(403) 934-5121"
 	},
-	"576": {
+	"0576": {
 		"schoolName": "Westwind Alternate School",
 		"schoolAddress1": "P.O. Box 2129",
 		"schoolAddress2": "",
@@ -1331,7 +1331,7 @@
 		"schoolPostalCode": "T0K0K0",
 		"schoolPhone": "(403) 653-1547"
 	},
-	"577": {
+	"0577": {
 		"schoolName": "Columbus Academy",
 		"schoolAddress1": "Centre 170, Suite 145",
 		"schoolAddress2": "\n10403 - 172 St",
@@ -1340,7 +1340,7 @@
 		"schoolPostalCode": "T5S1K9",
 		"schoolPhone": "(780) 440-0708"
 	},
-	"580": {
+	"0580": {
 		"schoolName": "Neu Muehl Colony School",
 		"schoolAddress1": "c/o Box 670",
 		"schoolAddress2": "",
@@ -1349,7 +1349,7 @@
 		"schoolPostalCode": "T0J1P0",
 		"schoolPhone": "(403) 820-1336"
 	},
-	"581": {
+	"0581": {
 		"schoolName": "Bishop O'Byrne High School",
 		"schoolAddress1": "Suite 500",
 		"schoolAddress2": "\n333 Shawville Boulevard S.E.",
@@ -1358,7 +1358,7 @@
 		"schoolPostalCode": "T2Y4H3",
 		"schoolPhone": "(403) 500-2103"
 	},
-	"585": {
+	"0585": {
 		"schoolName": "Palliser Beyond Borders at Vulcan",
 		"schoolAddress1": "PO Box 1149",
 		"schoolAddress2": "",
@@ -1367,7 +1367,7 @@
 		"schoolPostalCode": "T0L2B0",
 		"schoolPhone": "(403) 485-6180"
 	},
-	"586": {
+	"0586": {
 		"schoolName": "Bentley Colony School",
 		"schoolAddress1": "28414 TWP Rd 400",
 		"schoolAddress2": "",
@@ -1376,7 +1376,7 @@
 		"schoolPostalCode": "T4M0S6",
 		"schoolPhone": "(403) 885-5245"
 	},
-	"587": {
+	"0587": {
 		"schoolName": "St. Mary's College",
 		"schoolAddress1": "c/o Linda Jacejko",
 		"schoolAddress2": "\n4820 - 46 Street",
@@ -1385,7 +1385,7 @@
 		"schoolPostalCode": "T9X1G2",
 		"schoolPhone": ""
 	},
-	"588": {
+	"0588": {
 		"schoolName": "St. Elizabeth Seton",
 		"schoolAddress1": "10845 Hidden Valley Drive",
 		"schoolAddress2": "",
@@ -1394,7 +1394,7 @@
 		"schoolPostalCode": "T3A6K3",
 		"schoolPhone": "(403) 500-2105"
 	},
-	"589": {
+	"0589": {
 		"schoolName": "Monsignor J. J. O'Brien",
 		"schoolAddress1": "99 Bridlewood Road SW",
 		"schoolAddress2": "",
@@ -1403,7 +1403,7 @@
 		"schoolPostalCode": "T2Y4J5",
 		"schoolPhone": "(403) 500-2104"
 	},
-	"590": {
+	"0590": {
 		"schoolName": "Peace Wapiti Academy",
 		"schoolAddress1": "11410 - 104 Street",
 		"schoolAddress2": "",
@@ -1412,7 +1412,7 @@
 		"schoolPostalCode": "T8V2Z1",
 		"schoolPhone": "(780) 513-9504"
 	},
-	"591": {
+	"0591": {
 		"schoolName": "Codesa Hutterite Colony School",
 		"schoolAddress1": "P.O. Box 210",
 		"schoolAddress2": "",
@@ -1421,7 +1421,7 @@
 		"schoolPostalCode": "T0H1H0",
 		"schoolPhone": "(780) 864-5305"
 	},
-	"592": {
+	"0592": {
 		"schoolName": "Mountainview School",
 		"schoolAddress1": "435A Highway1",
 		"schoolAddress2": "",
@@ -1430,7 +1430,7 @@
 		"schoolPostalCode": "T1P1J4",
 		"schoolPhone": "(403) 934-5121"
 	},
-	"593": {
+	"0593": {
 		"schoolName": "Sacred Heart Academy",
 		"schoolAddress1": "709 - 2nd Street",
 		"schoolAddress2": "",
@@ -1439,7 +1439,7 @@
 		"schoolPostalCode": "T1P1B8",
 		"schoolPhone": "(403) 901-1544"
 	},
-	"594": {
+	"0594": {
 		"schoolName": "Our Lady of the Snows Catholic Academy",
 		"schoolAddress1": "3100A Stewart Creek Drive",
 		"schoolAddress2": "",
@@ -1448,7 +1448,7 @@
 		"schoolPostalCode": "T1W3M6",
 		"schoolPhone": "(403) 609-3699"
 	},
-	"595": {
+	"0595": {
 		"schoolName": "St. Mary's Elementary School",
 		"schoolAddress1": "5207 42 St",
 		"schoolAddress2": "",
@@ -1457,7 +1457,7 @@
 		"schoolPostalCode": "T9V1M8",
 		"schoolPhone": "(780) 808-8600"
 	},
-	"596": {
+	"0596": {
 		"schoolName": "Douglasdale School",
 		"schoolAddress1": "400 Douglas Park Blvd SE",
 		"schoolAddress2": "",
@@ -1466,7 +1466,7 @@
 		"schoolPostalCode": "T2Z4A3",
 		"schoolPhone": "(403) 777-6177"
 	},
-	"597": {
+	"0597": {
 		"schoolName": "Scenic Acres School",
 		"schoolAddress1": "50 Scurfield Way NW",
 		"schoolAddress2": "",
@@ -1475,7 +1475,7 @@
 		"schoolPostalCode": "T3L1T2",
 		"schoolPhone": "(403) 777-6193"
 	},
-	"598": {
+	"0598": {
 		"schoolName": "Our Lady of Lourdes",
 		"schoolAddress1": "1916 2nd Street SW",
 		"schoolAddress2": "",
@@ -1484,7 +1484,7 @@
 		"schoolPostalCode": "T2S1S3",
 		"schoolPhone": "(403) 500-2002"
 	},
-	"655": {
+	"0655": {
 		"schoolName": "Elves Adult & Youth Centre",
 		"schoolAddress1": "10825 - 142 Street",
 		"schoolAddress2": "",
@@ -1493,7 +1493,7 @@
 		"schoolPostalCode": "T5N3Y7",
 		"schoolPhone": "(780) 454-5310"
 	},
-	"658": {
+	"0658": {
 		"schoolName": "Connect Society's Early Childhood Services",
 		"schoolAddress1": "6240-113 Street, N.W.",
 		"schoolAddress2": "",
@@ -1502,7 +1502,7 @@
 		"schoolPostalCode": "T6H3L2",
 		"schoolPhone": "(780) 454-9581"
 	},
-	"660": {
+	"0660": {
 		"schoolName": "Strathmore High School",
 		"schoolAddress1": "100 Brent Boulevard",
 		"schoolAddress2": "",
@@ -1511,7 +1511,7 @@
 		"schoolPostalCode": "T1P1V2",
 		"schoolPhone": "(403) 934-3135"
 	},
-	"665": {
+	"0665": {
 		"schoolName": "Dewberry School ECS",
 		"schoolAddress1": "Box 1286",
 		"schoolAddress2": "",
@@ -1520,7 +1520,7 @@
 		"schoolPostalCode": "T0B1G0",
 		"schoolPhone": "(780) 847-3051"
 	},
-	"677": {
+	"0677": {
 		"schoolName": "Kitscoty & District Early Childhood Education Kindergarten",
 		"schoolAddress1": "P.O. Box 405",
 		"schoolAddress2": "",
@@ -1529,7 +1529,7 @@
 		"schoolPostalCode": "T0B2P0",
 		"schoolPhone": "(780) 846-2212"
 	},
-	"681": {
+	"0681": {
 		"schoolName": "Londonderry Child Development Society",
 		"schoolAddress1": "13931-140 Street",
 		"schoolAddress2": "",
@@ -1538,7 +1538,7 @@
 		"schoolPostalCode": "T6V1J7",
 		"schoolPhone": "(780) 473-7216"
 	},
-	"684": {
+	"0684": {
 		"schoolName": "Southview Child Care",
 		"schoolAddress1": "3650 - 91 Street NW",
 		"schoolAddress2": "",
@@ -1547,7 +1547,7 @@
 		"schoolPostalCode": "T6E6P1",
 		"schoolPhone": "(780) 436-1823"
 	},
-	"688": {
+	"0688": {
 		"schoolName": "Norwood Child & Family Resource Centre",
 		"schoolAddress1": "9516 114 Avenue",
 		"schoolAddress2": "",
@@ -1556,7 +1556,7 @@
 		"schoolPostalCode": "T5G0K7",
 		"schoolPhone": "(780) 471-3737"
 	},
-	"700": {
+	"0700": {
 		"schoolName": "Sherwood Park Kindergarten",
 		"schoolAddress1": "105 Main Terrace",
 		"schoolAddress2": "",
@@ -1565,7 +1565,7 @@
 		"schoolPostalCode": "T8A0R7",
 		"schoolPhone": "(780) 467-5644"
 	},
-	"747": {
+	"0747": {
 		"schoolName": "Hay Lakes School ECS",
 		"schoolAddress1": "P.O. Box 224",
 		"schoolAddress2": "",
@@ -1574,7 +1574,7 @@
 		"schoolPostalCode": "T0B1W0",
 		"schoolPhone": "(780) 878-3368"
 	},
-	"765": {
+	"0765": {
 		"schoolName": "Sedgewick ECS Portable",
 		"schoolAddress1": "P.O. Box 466",
 		"schoolAddress2": "",
@@ -1583,7 +1583,7 @@
 		"schoolPostalCode": "T0B4C0",
 		"schoolPhone": "(780) 385-1610"
 	},
-	"770": {
+	"0770": {
 		"schoolName": "K-C Community Services",
 		"schoolAddress1": "4725 - 43 Street",
 		"schoolAddress2": "",
@@ -1592,7 +1592,7 @@
 		"schoolPostalCode": "T4S1M3",
 		"schoolPhone": "(403) 887-5330"
 	},
-	"777": {
+	"0777": {
 		"schoolName": "Children's House Day Care",
 		"schoolAddress1": "1215 - 4 Avenue S.",
 		"schoolAddress2": "",
@@ -1601,7 +1601,7 @@
 		"schoolPostalCode": "T1J0P9",
 		"schoolPhone": "(403) 328-5553"
 	},
-	"793": {
+	"0793": {
 		"schoolName": "The Little Schoolhouse",
 		"schoolAddress1": "P.O. Box 226",
 		"schoolAddress2": "",
@@ -1610,7 +1610,7 @@
 		"schoolPostalCode": "T0L0K0",
 		"schoolPhone": "(403) 949-3939"
 	},
-	"796": {
+	"0796": {
 		"schoolName": "Calgary French & International School",
 		"schoolAddress1": "700 - 77 Street S.W.",
 		"schoolAddress2": "",
@@ -1619,7 +1619,7 @@
 		"schoolPostalCode": "T3H5R1",
 		"schoolPhone": "(403) 240-1500"
 	},
-	"850": {
+	"0850": {
 		"schoolName": "Glamorgan Community Kindergarten Society",
 		"schoolAddress1": "4715 - 45 Street SW",
 		"schoolAddress2": "",
@@ -1628,7 +1628,7 @@
 		"schoolPostalCode": "T3E3W5",
 		"schoolPhone": "(403) 249-5275"
 	},
-	"889": {
+	"0889": {
 		"schoolName": "Lomond School ECS",
 		"schoolAddress1": "P.O. Box 177",
 		"schoolAddress2": "",
@@ -1637,7 +1637,7 @@
 		"schoolPostalCode": "T0L1G0",
 		"schoolPhone": "(403) 394-3688"
 	},
-	"913": {
+	"0913": {
 		"schoolName": "Schuler School Early Childhood Services",
 		"schoolAddress1": "20 1st Avenue W",
 		"schoolAddress2": "",
@@ -1646,7 +1646,7 @@
 		"schoolPostalCode": "T0J3B0",
 		"schoolPhone": "(403) 839-3732"
 	},
-	"941": {
+	"0941": {
 		"schoolName": "Thornhill Community Building Early Childhood Society",
 		"schoolAddress1": "6617 Centre Street N.",
 		"schoolAddress2": "",
@@ -1655,7 +1655,7 @@
 		"schoolPostalCode": "T2K4Y5",
 		"schoolPhone": "(403) 274-2335"
 	},
-	"955": {
+	"0955": {
 		"schoolName": "Jenner School",
 		"schoolAddress1": "Box 64",
 		"schoolAddress2": "",
@@ -1664,7 +1664,7 @@
 		"schoolPostalCode": "T0J1W0",
 		"schoolPhone": "(403) 898-3926"
 	},
-	"975": {
+	"0975": {
 		"schoolName": "Warren Peer School ECS",
 		"schoolAddress1": "P.O Box 132",
 		"schoolAddress2": "",
@@ -1673,7 +1673,7 @@
 		"schoolPostalCode": "T0J0A0",
 		"schoolPhone": "(403) 972-2163"
 	},
-	"992": {
+	"0992": {
 		"schoolName": "Early Discoveries Childhood Services",
 		"schoolAddress1": "PO BOX 27074 Tuscany PO ",
 		"schoolAddress2": "",
@@ -1682,7 +1682,7 @@
 		"schoolPostalCode": "T3L2Y1",
 		"schoolPhone": "(403) 239-3444"
 	},
-	"994": {
+	"0994": {
 		"schoolName": "Blue Ridge Colony School",
 		"schoolAddress1": "Box 10",
 		"schoolAddress2": "",
@@ -1691,7 +1691,7 @@
 		"schoolPostalCode": "T0K0K0",
 		"schoolPhone": "(403) 626-2397"
 	},
-	"995": {
+	"0995": {
 		"schoolName": "History Re-Registration",
 		"schoolAddress1": "10044 - 108 Street",
 		"schoolAddress2": "",
@@ -1700,7 +1700,7 @@
 		"schoolPostalCode": "T5J5E6",
 		"schoolPhone": ""
 	},
-	"996": {
+	"0996": {
 		"schoolName": "August Departmental Exam",
 		"schoolAddress1": "10044 - 108 Street",
 		"schoolAddress2": "",
@@ -1709,7 +1709,7 @@
 		"schoolPostalCode": "T5J5E6",
 		"schoolPhone": ""
 	},
-	"999": {
+	"0999": {
 		"schoolName": "Departmental Evaluation",
 		"schoolAddress1": "10044 - 108 Street",
 		"schoolAddress2": "",

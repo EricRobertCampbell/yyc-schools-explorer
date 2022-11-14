@@ -10,7 +10,7 @@ def replace_na(arg, replacement_value=""):
     return arg if not pd.isnull(arg) else replacement_value
 
 def main() -> None:
-    df = pd.read_excel("../sources/authority_and_school.xlsx", header=2, na_values="")
+    df = pd.read_excel("../sources/authority_and_school.xlsx", header=2, na_values="", dtype=str)
     relevant_school_information = df[["School Code", "School Name", "School Address1", "School Address2", "School City", "School Province", "School Postal Code", "School Phone"]]
     print(relevant_school_information["School Phone"])
 

@@ -1,219 +1,219 @@
 School Code,School Name,School Address1,School Address2,School City,School Province,School Postal Code,School Phone
-1,Special Centre,10044 - 108 Street,,Edmonton,AB,T5J5E6,
-9,Prairiehome Colony School,6302 - 56 Street,,Taber,AB,T1G1Z9,(403) 222-2075
-11,Spring Valley Colony School,Box 10,,Cardston,AB,T0K0K0,(403) 758-0006
-12,FFCA High School Campus,2116 McKay Road N.W.,,Calgary,AB,T3B1C7,(403) 243-3316
-13,The Chinese Academy,"#191, 1518","
+0001,Special Centre,10044 - 108 Street,,Edmonton,AB,T5J5E6,
+0009,Prairiehome Colony School,6302 - 56 Street,,Taber,AB,T1G1Z9,(403) 222-2075
+0011,Spring Valley Colony School,Box 10,,Cardston,AB,T0K0K0,(403) 758-0006
+0012,FFCA High School Campus,2116 McKay Road N.W.,,Calgary,AB,T3B1C7,(403) 243-3316
+0013,The Chinese Academy,"#191, 1518","
 Centre Street N.E.",Calgary,AB,T2E2R9,(403) 777-7663
-14,Tompkins Mennonite School,P.O. Box 988,,La Crete,AB,T0H2H0,(780) 928-2242
-17,Centre High,10050 Macdonald Drive,,Edmonton,AB,T5J2B7,(780) 425-6753
-18,The Academy at King Edward,8525 - 101 Street,,Edmonton,AB,T6E3Z4,(780) 439-1368
-19,Westlock Outreach,"#1, 9919 - 106 Street",,Westlock,AB,T7P2K1,(780) 349-7100
-20,Trinity Learning Centre,405 - 18 Street S.,,Lethbridge,AB,T1J3E5,(403) 327-0714
-21,Webber Academy,1515 - 93 Street SW,,Calgary,AB,T3H4A8,(403) 277-4700
-22,Tween Valley Christian School,P.O. Box 4297,,Taber,AB,T1G2C7,(403) 223-9571
-23,Academy of Learning,Box 100,"
+0014,Tompkins Mennonite School,P.O. Box 988,,La Crete,AB,T0H2H0,(780) 928-2242
+0017,Centre High,10050 Macdonald Drive,,Edmonton,AB,T5J2B7,(780) 425-6753
+0018,The Academy at King Edward,8525 - 101 Street,,Edmonton,AB,T6E3Z4,(780) 439-1368
+0019,Westlock Outreach,"#1, 9919 - 106 Street",,Westlock,AB,T7P2K1,(780) 349-7100
+0020,Trinity Learning Centre,405 - 18 Street S.,,Lethbridge,AB,T1J3E5,(403) 327-0714
+0021,Webber Academy,1515 - 93 Street SW,,Calgary,AB,T3H4A8,(403) 277-4700
+0022,Tween Valley Christian School,P.O. Box 4297,,Taber,AB,T1G2C7,(403) 223-9571
+0023,Academy of Learning,Box 100,"
 301, 10205 - 101 Street",Edmonton,AB,T5J4H5,(780) 424-1144
-24,Quest High School,8 Page Avenue,,Red Deer,AB,T4P2T2,(403) 343-1354
-26,Ecole Publique Gabrielle-Roy,8728 - 93 Avenue,,Edmonton,AB,T6C1T8,(780) 457-2100
-28,Phoenix Academy,"Centre 170, Suite 145","
+0024,Quest High School,8 Page Avenue,,Red Deer,AB,T4P2T2,(403) 343-1354
+0026,Ecole Publique Gabrielle-Roy,8728 - 93 Avenue,,Edmonton,AB,T6C1T8,(780) 457-2100
+0028,Phoenix Academy,"Centre 170, Suite 145","
 10403 - 172 St",Edmonton,AB,T5S1K9,(780) 440-0708
-30,Master's Academy,4414 Crowchild Trail S.W.,,Calgary,AB,T2T5J4,(403) 242-7034
-31,The Third Academy,3311-49 Street SW,,Calgary,AB,T3E6M6,(403) 288-5335
-32,Janus Academy,200 - 403 33 Street NE,,Calgary,AB,T2A1X5,(403) 262-3333
-64,Hilltop Education Centre,Drumheller Institution,"
+0030,Master's Academy,4414 Crowchild Trail S.W.,,Calgary,AB,T2T5J4,(403) 242-7034
+0031,The Third Academy,3311-49 Street SW,,Calgary,AB,T3E6M6,(403) 288-5335
+0032,Janus Academy,200 - 403 33 Street NE,,Calgary,AB,T2A1X5,(403) 262-3333
+0064,Hilltop Education Centre,Drumheller Institution,"
 Box 3000",Drumheller,AB,T0J0Y0,(403) 227-7328
-67,Peace River Correctional Centre,P.O. Bag 900 40,,Peace River,AB,T8S1T4,(780) 624-3811
-95,Private Study,10044 - 108 Street,,Edmonton,AB,T5J5E6,
-98,Harvest Baptist Academy,"26404 Highway 16, West",,Spruce Grove,AB,T7X3H5,(780) 960-0235
-99,Alberta Distance Learning Centre,P.O. Box 4000,"
+0067,Peace River Correctional Centre,P.O. Bag 900 40,,Peace River,AB,T8S1T4,(780) 624-3811
+0095,Private Study,10044 - 108 Street,,Edmonton,AB,T5J5E6,
+0098,Harvest Baptist Academy,"26404 Highway 16, West",,Spruce Grove,AB,T7X3H5,(780) 960-0235
+0099,Alberta Distance Learning Centre,P.O. Box 4000,"
 4601 - 63 Avenue",Barrhead,AB,T7N1P4,(780) 674-5333
-119,Britannia Children's Center,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
-123,Irricana Community Hall ECS,P.O. Box 305,,Irricana,AB,T0M1B0,(403) 935-4727
-124,Youngstown School Early Childhood Services,P.O. Box 124,,Youngstown,AB,T0J3P0,(403) 854-6197
-135,Providence Children's Centre,5232 - 4 Street SW,,Calgary,AB,T2V0Z4,(403) 255-5577
-136,Grit Program,12852 141 Street NW,,Edmonton,AB,T5L4N8,(780) 454-9910
-140,Student's Union & Community Day Care Centre,8917 - 112 Street,,Edmonton,AB,T6G2C5,(780) 492-2245
-151,Community Preschool Education,12122-68 Street,,Edmonton,AB,T5B1R1,(780) 455-1818
-167,New Brigden School Portable ECS,Box 414,,Esther,AB,T0J1H0,(403) 664-2490
-170,Milo ECS School,P.O. Box 9,,Milo,AB,T0L1L0,(403) 394-3688
-173,Jasper Place Child Care/ECS Program,16811-88 Avenue-Main Floor,"
+0119,Britannia Children's Center,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
+0123,Irricana Community Hall ECS,P.O. Box 305,,Irricana,AB,T0M1B0,(403) 935-4727
+0124,Youngstown School Early Childhood Services,P.O. Box 124,,Youngstown,AB,T0J3P0,(403) 854-6197
+0135,Providence Children's Centre,5232 - 4 Street SW,,Calgary,AB,T2V0Z4,(403) 255-5577
+0136,Grit Program,12852 141 Street NW,,Edmonton,AB,T5L4N8,(780) 454-9910
+0140,Student's Union & Community Day Care Centre,8917 - 112 Street,,Edmonton,AB,T6G2C5,(780) 492-2245
+0151,Community Preschool Education,12122-68 Street,,Edmonton,AB,T5B1R1,(780) 455-1818
+0167,New Brigden School Portable ECS,Box 414,,Esther,AB,T0J1H0,(403) 664-2490
+0170,Milo ECS School,P.O. Box 9,,Milo,AB,T0L1L0,(403) 394-3688
+0173,Jasper Place Child Care/ECS Program,16811-88 Avenue-Main Floor,"
 Cabrini Centre",Edmonton,AB,T5R5Y6,(780) 489-2243
-179,It Takes a Village Kindergarten,P.O. Box 1116,,Cochrane,AB,T4C1B2,(403) 932-6501
-209,Foothills Creative Beginnings,"#129, 2640-52nd Street NE ",,Calgary,AB,T1Y3R6,(403) 300-5543
-212,Society for Treatment of Autism,404 - 94 Avenue S.E.,,Calgary,AB,T2J0E8,(403) 253-2291
-218,Arrowwood School,Box 238,,Arrowwood,AB,T0L0B0,(403) 534-3825
-230,The PREP Society,2004 - 12 Avenue N.W.,,Calgary,AB,T2N1J7,(403) 282-5011
-234,Champion School ECS,P.O. Box 233,,Champion,AB,T0L0R0,(403) 897-3831
-243,Lethbridge Montessori Kindergarten,Lethbridge Montessori School,"
+0179,It Takes a Village Kindergarten,P.O. Box 1116,,Cochrane,AB,T4C1B2,(403) 932-6501
+0209,Foothills Creative Beginnings,"#129, 2640-52nd Street NE ",,Calgary,AB,T1Y3R6,(403) 300-5543
+0212,Society for Treatment of Autism,404 - 94 Avenue S.E.,,Calgary,AB,T2J0E8,(403) 253-2291
+0218,Arrowwood School,Box 238,,Arrowwood,AB,T0L0B0,(403) 534-3825
+0230,The PREP Society,2004 - 12 Avenue N.W.,,Calgary,AB,T2N1J7,(403) 282-5011
+0234,Champion School ECS,P.O. Box 233,,Champion,AB,T0L0R0,(403) 897-3831
+0243,Lethbridge Montessori Kindergarten,Lethbridge Montessori School,"
 915 - 6 Street S.",Lethbridge,AB,T1J2E9,(403) 327-5271
-249,Renfrew Educational Services-Janice McTighe Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
-250,Renfrew Thomas W. Buchanan Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
-251,University Day Care Centre,450 Campus Place NW,,Calgary,AB,T2N1N4,(403) 210-7682
-254,Montessori School of Calgary,2201 Cliff Street S.W.,,Calgary,AB,T2S2G4,(403) 229-1011
-263,Foothills Alliance ECS,333 Edgepark Boulevard N.W.,,Calgary,AB,T3A4K4,(403) 547-2193
-264,Marlborough Day Nursery Ltd.,200 Rivercrest Dr.  Unit 201,"
+0249,Renfrew Educational Services-Janice McTighe Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
+0250,Renfrew Thomas W. Buchanan Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
+0251,University Day Care Centre,450 Campus Place NW,,Calgary,AB,T2N1N4,(403) 210-7682
+0254,Montessori School of Calgary,2201 Cliff Street S.W.,,Calgary,AB,T2S2G4,(403) 229-1011
+0263,Foothills Alliance ECS,333 Edgepark Boulevard N.W.,,Calgary,AB,T3A4K4,(403) 547-2193
+0264,Marlborough Day Nursery Ltd.,200 Rivercrest Dr.  Unit 201,"
 ",Calgary,AB,T2C2X5,(403) 818-4128
-270,Agape Early Childhood Services,P.O. Box 1780,,Lethbridge,AB,T1J4K4,(403) 320-2772
-274,Cause & Effect Early Intervention Services,"#134, 6170 - 12 Street SE",,Calgary,AB,T2H2X2,(403) 523-0150
-280,Renfrew Educational Services - Child Development Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
-281,Renfrew Educational Services - Park Place Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
-284,Getting Ready For Inclusion To,#117- 4615 112th Ave. SE,,Calgary,AB,T2C5J3,(403) 215-2444
-285,The Heartland Agency,P.O. Box 73153,"
+0270,Agape Early Childhood Services,P.O. Box 1780,,Lethbridge,AB,T1J4K4,(403) 320-2772
+0274,Cause & Effect Early Intervention Services,"#134, 6170 - 12 Street SE",,Calgary,AB,T2H2X2,(403) 523-0150
+0280,Renfrew Educational Services - Child Development Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
+0281,Renfrew Educational Services - Park Place Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
+0284,Getting Ready For Inclusion To,#117- 4615 112th Ave. SE,,Calgary,AB,T2C5J3,(403) 215-2444
+0285,The Heartland Agency,P.O. Box 73153,"
 Woodbine Postal Outlet",Calgary,AB,T2W6E4,(403) 541-0277
-289,Aspire Special Needs Resource Centre,4826 - 47 Street,,Red Deer,AB,T4N1R2,(403) 340-2606
-290,Horse Lake School,P.O. Box 303,,Hythe,AB,T0H2C0,(780) 356-3101
-297,Oliver Centre,10227 - 118 Street,,Edmonton,AB,T5K2V4,(780) 482-2116
-298,Innisfree School,P.O. Box 85,,Innisfree,AB,T0B2G0,(780) 603-1080
-299,Community Association for Lasting Success,P.O. Box 766,,Vegreville,AB,T9C1R9,(780) 632-3225
-302,Pacekids Programs South,23 Sunpark Drive SE,,Calgary,AB,T2X3V1,(403) 234-7876
-305,Immanuel Christian Elementary School,2010 - 5 Avenue N.,,Lethbridge,AB,T1H0N5,(403) 317-7860
-308,Mountain View Academy,3915 34 Street NE,,Calgary,AB,T1Y6Z8,(403) 217-4346
-311,Holy Family Cyber High School,8801 - 96 Street,,Peace River,AB,T8S1R6,(780) 624-5659
-312,Pine Haven School,R.R. 2,,Wetaskiwin,AB,T9A1W9,(780) 352-2757
-313,Monsignor J. S. Smith School,2919 Douglasdale Boulevard S.E,,Calgary,AB,T2Z2H9,(403) 500-2069
-314,Morinville Learning Centre,9820 - 104 Street,,Morinville,AB,T8R1L8,(780) 939-4341
-319,Peace Academy of Virtual Education,#105 10720  117 Avenue ,"
+0289,Aspire Special Needs Resource Centre,4826 - 47 Street,,Red Deer,AB,T4N1R2,(403) 340-2606
+0290,Horse Lake School,P.O. Box 303,,Hythe,AB,T0H2C0,(780) 356-3101
+0297,Oliver Centre,10227 - 118 Street,,Edmonton,AB,T5K2V4,(780) 482-2116
+0298,Innisfree School,P.O. Box 85,,Innisfree,AB,T0B2G0,(780) 603-1080
+0299,Community Association for Lasting Success,P.O. Box 766,,Vegreville,AB,T9C1R9,(780) 632-3225
+0302,Pacekids Programs South,23 Sunpark Drive SE,,Calgary,AB,T2X3V1,(403) 234-7876
+0305,Immanuel Christian Elementary School,2010 - 5 Avenue N.,,Lethbridge,AB,T1H0N5,(403) 317-7860
+0308,Mountain View Academy,3915 34 Street NE,,Calgary,AB,T1Y6Z8,(403) 217-4346
+0311,Holy Family Cyber High School,8801 - 96 Street,,Peace River,AB,T8S1R6,(780) 624-5659
+0312,Pine Haven School,R.R. 2,,Wetaskiwin,AB,T9A1W9,(780) 352-2757
+0313,Monsignor J. S. Smith School,2919 Douglasdale Boulevard S.E,,Calgary,AB,T2Z2H9,(403) 500-2069
+0314,Morinville Learning Centre,9820 - 104 Street,,Morinville,AB,T8R1L8,(780) 939-4341
+0319,Peace Academy of Virtual Education,#105 10720  117 Avenue ,"
 ",Grande Prairie,AB,T8V7N7,(780) 864-3741
-323,Yellowhead Koinonia Christian School,430 - 72 Street,,Edson,AB,T7E1N3,(780) 723-3850
-324,Chipewyan Prairie Dene High School,General Delivery,,Chard,AB,T0P1G0,(780) 559-2478
-325,Transitions at the Y,11832 103 Street NW,,Edmonton,AB,T5J2J2,(780) 451-8190
-326,Battle River Online,"Suite 2, 4412 56 St",,Camrose,AB,T4V5K4,(780) 672-2205
-327,The Learning Connection - Grande Cache,P.O. Box 1050,,Grande Cache,AB,T0E0Y0,(780) 827-5228
-333,Ascension of Our Lord,509 Harvest Hills Drive N.E.,,Calgary,AB,T3K4G9,(403) 500-2075
-334,Lightning Ridge Education Centre,Grande Cache Institution,"
+0323,Yellowhead Koinonia Christian School,430 - 72 Street,,Edson,AB,T7E1N3,(780) 723-3850
+0324,Chipewyan Prairie Dene High School,General Delivery,,Chard,AB,T0P1G0,(780) 559-2478
+0325,Transitions at the Y,11832 103 Street NW,,Edmonton,AB,T5J2J2,(780) 451-8190
+0326,Battle River Online,"Suite 2, 4412 56 St",,Camrose,AB,T4V5K4,(780) 672-2205
+0327,The Learning Connection - Grande Cache,P.O. Box 1050,,Grande Cache,AB,T0E0Y0,(780) 827-5228
+0333,Ascension of Our Lord,509 Harvest Hills Drive N.E.,,Calgary,AB,T3K4G9,(403) 500-2075
+0334,Lightning Ridge Education Centre,Grande Cache Institution,"
 Bag 4000",Grande Cache,AB,T0E0Y0,(780) 827-4200
-335,Connect Charter School,5915 Lewis Drive S.W.,,Calgary,AB,T3E5Z4,(403) 282-2890
-336,Ralph McCall School,1505 - 1 Avenue N.W.,,Airdrie,AB,T4B2L9,(403) 948-7030
-338,J. J. Nearing Catholic Elementary School,196 Deer Ridge Drive,,St. Albert,AB,T8N6T6,(780) 418-6330
-339,Red Earth Creek School,P.O. Bag 6000,,Red Earth Creek,AB,T0G1X0,(780) 649-3898
-340,Palliser Beyond Borders at Coaldale,Box 1237,"
+0335,Connect Charter School,5915 Lewis Drive S.W.,,Calgary,AB,T3E5Z4,(403) 282-2890
+0336,Ralph McCall School,1505 - 1 Avenue N.W.,,Airdrie,AB,T4B2L9,(403) 948-7030
+0338,J. J. Nearing Catholic Elementary School,196 Deer Ridge Drive,,St. Albert,AB,T8N6T6,(780) 418-6330
+0339,Red Earth Creek School,P.O. Bag 6000,,Red Earth Creek,AB,T0G1X0,(780) 649-3898
+0340,Palliser Beyond Borders at Coaldale,Box 1237,"
 1915 - 20 Avenue",Coaldale,AB,T1M1L8,(403) 345-4421
-341,Glenrose Colony School,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
-342,Twin Creeks School,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
-344,Personalized Learning Activities and Community Education,9353 50th street,,Edmonton,AB,T6B2L5,(780) 488-6600
-346,St. Martin De Porres High School,410 Yankee Valley Boulevard SW,,Airdrie,AB,T4B2M1,(403) 500-2041
-348,Midsun School,660 Sunmills Dr SE,,Calgary,AB,T2X3R5,(403) 777-6430
-349,Argyll Home School Centre,6859 - 100 Avenue,,Edmonton,AB,T6A0G3,(780) 465-1299
-367,Ecole Nouvelle Frontiere,11201- Pinnacle Boulevard,,Grande Prairie,AB,T8W0C6,(780) 814-7945
-369,Tofield Colony School,5402 - 48A Avenue,,Camrose,AB,T4V0L3,(780) 672-6131
-374,Carousel Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
-375,Lakeside Outreach School,Box 127,,Slave Lake,AB,T0G2A0,(780) 849-2992
-378,St. Gabriel Education Centre,6 St. Vital Avenue,"
+0341,Glenrose Colony School,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
+0342,Twin Creeks School,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
+0344,Personalized Learning Activities and Community Education,9353 50th street,,Edmonton,AB,T6B2L5,(780) 488-6600
+0346,St. Martin De Porres High School,410 Yankee Valley Boulevard SW,,Airdrie,AB,T4B2M1,(403) 500-2041
+0348,Midsun School,660 Sunmills Dr SE,,Calgary,AB,T2X3R5,(403) 777-6430
+0349,Argyll Home School Centre,6859 - 100 Avenue,,Edmonton,AB,T6A0G3,(780) 465-1299
+0367,Ecole Nouvelle Frontiere,11201- Pinnacle Boulevard,,Grande Prairie,AB,T8W0C6,(780) 814-7945
+0369,Tofield Colony School,5402 - 48A Avenue,,Camrose,AB,T4V0L3,(780) 672-6131
+0374,Carousel Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
+0375,Lakeside Outreach School,Box 127,,Slave Lake,AB,T0G2A0,(780) 849-2992
+0378,St. Gabriel Education Centre,6 St. Vital Avenue,"
 Lower Level",St. Albert,AB,T8N1K2,(780) 459-6616
-379,Burman University,5415 College Avenue,,Lacombe,AB,T4L2E5,(403) 342-5044
-380,Portage College - St. Paul Campus,Box 1471,"
+0379,Burman University,5415 College Avenue,,Lacombe,AB,T4L2E5,(403) 342-5044
+0380,Portage College - St. Paul Campus,Box 1471,"
 5205-50 Avenue",St. Paul,AB,T0A3A0,(780) 645-5223
-381,Portage College-Cold Lake Campus,101-7825-51 Street,,Cold Lake,AB,T9M0B6,(780) 623-5532
-383,Red Deer College,P.O. Box 5005,,Red Deer,AB,T4N5H5,
-384,Golden Hills Learning Academy,116 3rd Avenue,,Strathmore,AB,T1P1B9,(403) 934-5179
-385,Rainbow Colony School,C/O Chinook's Edge School Divi,"
+0381,Portage College-Cold Lake Campus,101-7825-51 Street,,Cold Lake,AB,T9M0B6,(780) 623-5532
+0383,Red Deer College,P.O. Box 5005,,Red Deer,AB,T4N5H5,
+0384,Golden Hills Learning Academy,116 3rd Avenue,,Strathmore,AB,T1P1B9,(403) 934-5179
+0385,Rainbow Colony School,C/O Chinook's Edge School Divi,"
 4904 50St",Innisfail ,AB,T4G1W4,(403) 227-4611
-386,Learning Store on Whyte,10007 - 82 Avenue,,Edmonton,AB,T6E1Z2,(780) 437-8119
-387,The Hamptons School,10330 Hamptons Blvd NW,,Calgary,AB,T3A6G2,(403) 777-7300
-389,Holy Angels School,275 Riverglen Drive SE,,Calgary,AB,T2C3T5,(403) 500-2101
-390,St. Ambrose School,1500 Arbour Lake Road N.W.,,Calgary,AB,T3G4X9,(403) 500-2100
-391,St. Mary's School,42 Cimarron Trail,,Okotoks,AB,T1S2A8,(403) 938-8048
-392,Lone Pine Colony School,5031 - 50 Street,"
+0386,Learning Store on Whyte,10007 - 82 Avenue,,Edmonton,AB,T6E1Z2,(780) 437-8119
+0387,The Hamptons School,10330 Hamptons Blvd NW,,Calgary,AB,T3A6G2,(403) 777-7300
+0389,Holy Angels School,275 Riverglen Drive SE,,Calgary,AB,T2C3T5,(403) 500-2101
+0390,St. Ambrose School,1500 Arbour Lake Road N.W.,,Calgary,AB,T3G4X9,(403) 500-2100
+0391,St. Mary's School,42 Cimarron Trail,,Okotoks,AB,T1S2A8,(403) 938-8048
+0392,Lone Pine Colony School,5031 - 50 Street,"
 Box 1720",Stettler,AB,T0C2L0,(403) 741-9342
-393,Silver Sage Colony School,918 - 2nd Ave.,,Dunmore,AB,T1B0K3,(403) 666-2006
-401,Vegreville Next Step III Outreach School,Box 696,,Vegreville,AB,T9C1R7,(780) 632-7998
-404,Airdrie Learning Connection,120 Main Street SE,,Airdrie,AB,T4B0P8,(403) 948-4360
-405,Sun Country Christian School,Bag 6000,,Bow Island,AB,T0K0G0,(403) 545-4244
-424,Playcare ECS,92 Canova Road S.W.,,Calgary,AB,T2W2A7,(403) 590-0814
-428,Edge School,33055 Township Road 250,,Calgary,AB,T3Z1L4,(403) 246-6432
-430,Greenwood Colony School,P.O. Box 1510,"
+0393,Silver Sage Colony School,918 - 2nd Ave.,,Dunmore,AB,T1B0K3,(403) 666-2006
+0401,Vegreville Next Step III Outreach School,Box 696,,Vegreville,AB,T9C1R7,(780) 632-7998
+0404,Airdrie Learning Connection,120 Main Street SE,,Airdrie,AB,T4B0P8,(403) 948-4360
+0405,Sun Country Christian School,Bag 6000,,Bow Island,AB,T0K0G0,(403) 545-4244
+0424,Playcare ECS,92 Canova Road S.W.,,Calgary,AB,T2W2A7,(403) 590-0814
+0428,Edge School,33055 Township Road 250,,Calgary,AB,T3Z1L4,(403) 246-6432
+0430,Greenwood Colony School,P.O. Box 1510,"
 ",Fort Macleod,AB,T0L0Z0,(403) 553-4750
-431,Rosedale Christian School,"RR #1, Box 10, Site 5",,Crooked Creek,AB,T0H0Y0,(780) 957-2362
-432,New Heights School and Learning Services,2521 Dieppe Ave SW,,Calgary,AB,T3E7J9,(403) 240-1312
-433,Blessed Sacrament Outreach School,801 - 2 Avenue,,Wainwright,AB,T9W1C4,(780) 842-3944
-434,Ecole des Quatre-Vents,7401 - 99 Street,,Peace River,AB,T8S1R4,(780) 624-3015
-435,Prairie View Outreach School,P.O. Box 1447,,High Prairie,AB,T0G1E0,(780) 523-4200
-437,Renfrew Educational Services-Bowness Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
-438,Ecole Saint-Christophe,214 - 8 Street,,Wainwright,AB,T9W2R2,(780) 842-2827
-439,St. Joseph's Collegiate,408 - 1st Street West,,Brooks,AB,T1R0V8,(403) 362-5989
-441,Kayas Cultural College,P.O. Box 99,,John D'or Prairie,AB,T0H3X0,(780) 659-3760
-442,Alpine Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
-443,Bonavista Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
-444,Bow Valley High School,2000 River Heights Drive,,Cochrane,AB,T4C1Y8,(403) 932-9005
-474,Garden River School,Box 29,,John D'or Prairie,AB,T0H3X0,(780) 659-2117
-475,John D'Or School,Box 99,,John D'or Prairie,AB,T0H3X0,(780) 759-2030
-478,Eastside Christian Academy,1320 Abbeydale Drive SE,,Calgary,AB,T2A7L8,(403) 569-1003
-481,I.V. Macklin Public School,8876 - 108 Avenue,,Grande Prairie,AB,T8X1N7,(780) 513-3391
-482,Heart Valley Christian School,R.R. 1,,Wanham,AB,T0H3P0,(780) 694-2609
-483,Thomas More Academy,"Centre 170, Suite 145","
+0431,Rosedale Christian School,"RR #1, Box 10, Site 5",,Crooked Creek,AB,T0H0Y0,(780) 957-2362
+0432,New Heights School and Learning Services,2521 Dieppe Ave SW,,Calgary,AB,T3E7J9,(403) 240-1312
+0433,Blessed Sacrament Outreach School,801 - 2 Avenue,,Wainwright,AB,T9W1C4,(780) 842-3944
+0434,Ecole des Quatre-Vents,7401 - 99 Street,,Peace River,AB,T8S1R4,(780) 624-3015
+0435,Prairie View Outreach School,P.O. Box 1447,,High Prairie,AB,T0G1E0,(780) 523-4200
+0437,Renfrew Educational Services-Bowness Centre,2050 - 21 Street N.E.,,Calgary,AB,T2E6S5,(403) 291-5038
+0438,Ecole Saint-Christophe,214 - 8 Street,,Wainwright,AB,T9W2R2,(780) 842-2827
+0439,St. Joseph's Collegiate,408 - 1st Street West,,Brooks,AB,T1R0V8,(403) 362-5989
+0441,Kayas Cultural College,P.O. Box 99,,John D'or Prairie,AB,T0H3X0,(780) 659-3760
+0442,Alpine Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
+0443,Bonavista Children's Centre,3 Windsor Crescent S.W.,,Calgary,AB,T2V1V4,(403) 255-8664
+0444,Bow Valley High School,2000 River Heights Drive,,Cochrane,AB,T4C1Y8,(403) 932-9005
+0474,Garden River School,Box 29,,John D'or Prairie,AB,T0H3X0,(780) 659-2117
+0475,John D'Or School,Box 99,,John D'or Prairie,AB,T0H3X0,(780) 759-2030
+0478,Eastside Christian Academy,1320 Abbeydale Drive SE,,Calgary,AB,T2A7L8,(403) 569-1003
+0481,I.V. Macklin Public School,8876 - 108 Avenue,,Grande Prairie,AB,T8X1N7,(780) 513-3391
+0482,Heart Valley Christian School,R.R. 1,,Wanham,AB,T0H3P0,(780) 694-2609
+0483,Thomas More Academy,"Centre 170, Suite 145","
 10403 - 172 St",Edmonton,AB,T5S1K9,(780) 440-0708
-484,Amiskwaciy Academy,101 Airport Road,,Edmonton,AB,T5G3K2,
-485,Newman Theological College,c/o School of Hope,"
+0484,Amiskwaciy Academy,101 Airport Road,,Edmonton,AB,T5G3K2,
+0485,Newman Theological College,c/o School of Hope,"
 10012 - 84 Street",Edmonton,AB,T6A0B2,(780) 477-2993
-486,Prairie Land Outreach School,P.O. Box 1270,,Hanna,AB,T0J1P0,(403) 854-3642
-487,Spirit of the North Community School,10801 - 102 Street,,High Level,AB,T0H1Z0,
-488,West Country Outreach School,Box 375,,Rimbey,AB,T0C2J0,(403) 843-4447
-489,Mother Teresa,79 Old Boomer Road,,Sylvan Lake,AB,T4S1Z4,(403) 887-6371
-519,Notre Dame Collegiate,1500 High Country Drive N.W.,,High River,AB,T1V1T7,(403) 652-2231
-520,Ecole Les Cypres,"945 1st Avenue, SE",,Medicine Hat,AB,T1A2K6,(403) 528-2881
-521,Tiny Treasures Ellenwood,200 Rivercrest Dr. SE,"
+0486,Prairie Land Outreach School,P.O. Box 1270,,Hanna,AB,T0J1P0,(403) 854-3642
+0487,Spirit of the North Community School,10801 - 102 Street,,High Level,AB,T0H1Z0,
+0488,West Country Outreach School,Box 375,,Rimbey,AB,T0C2J0,(403) 843-4447
+0489,Mother Teresa,79 Old Boomer Road,,Sylvan Lake,AB,T4S1Z4,(403) 887-6371
+0519,Notre Dame Collegiate,1500 High Country Drive N.W.,,High River,AB,T1V1T7,(403) 652-2231
+0520,Ecole Les Cypres,"945 1st Avenue, SE",,Medicine Hat,AB,T1A2K6,(403) 528-2881
+0521,Tiny Treasures Ellenwood,200 Rivercrest Dr. SE,"
 Unit 201",Calgary,AB,T2C2X5,(403) 818-4128
-524,École Fox Run School,2 Falcon Ridge Drive,,Sylvan Lake,AB,T4S2H1,(403) 887-0491
-528,Aboriginal Head Start - St. Francis Site,6770-129th Avenue,,Edmonton,AB,T5C1V7,(780) 640-9799
-531,Visions West School,4934 - 50 Street,,Rocky Mountain House,AB,T4T1A5,(403) 844-2355
-532,Two Hills Mennonite School,P.O. Box 720,,Two Hills,AB,T0B4K0,(780) 657-2434
-533,Vermilion Outreach School,5110 46 Street,,Vermilion,AB,T9X1G5,(780) 853-2111
-534,Livingstone Colony School,PO Box 129,"
+0524,École Fox Run School,2 Falcon Ridge Drive,,Sylvan Lake,AB,T4S2H1,(403) 887-0491
+0528,Aboriginal Head Start - St. Francis Site,6770-129th Avenue,,Edmonton,AB,T5C1V7,(780) 640-9799
+0531,Visions West School,4934 - 50 Street,,Rocky Mountain House,AB,T4T1A5,(403) 844-2355
+0532,Two Hills Mennonite School,P.O. Box 720,,Two Hills,AB,T0B4K0,(780) 657-2434
+0533,Vermilion Outreach School,5110 46 Street,,Vermilion,AB,T9X1G5,(780) 853-2111
+0534,Livingstone Colony School,PO Box 129,"
 ",Lundbreck,AB,T0K1H0,
-535,Hidden Valley School,10959 Hidden Valley Dr  NW,,Calgary,AB,T3A6J2,(403) 777-7236
-536,Crossing Park School,500 Martindale Blvd NE,,Calgary,AB,T3J4W8,(403) 777-7195
-537,Battalion Park School,369 Sienna Park Dr SW,,Calgary,AB,T3H4S2,(403) 777-7187
-538,Monterey Park School,7400 California Blvd NE,,Calgary,AB,T1Y6R2,(403) 777-7233
-574,Red Deer Regional Hospital Education Program,4747 - 53 Street, ,Red Deer,AB,T4N2E6,(403) 343-4639
-575,Wintering Hills,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
-576,Westwind Alternate School,P.O. Box 2129,,Cardston,AB,T0K0K0,(403) 653-1547
-577,Columbus Academy,"Centre 170, Suite 145","
+0535,Hidden Valley School,10959 Hidden Valley Dr  NW,,Calgary,AB,T3A6J2,(403) 777-7236
+0536,Crossing Park School,500 Martindale Blvd NE,,Calgary,AB,T3J4W8,(403) 777-7195
+0537,Battalion Park School,369 Sienna Park Dr SW,,Calgary,AB,T3H4S2,(403) 777-7187
+0538,Monterey Park School,7400 California Blvd NE,,Calgary,AB,T1Y6R2,(403) 777-7233
+0574,Red Deer Regional Hospital Education Program,4747 - 53 Street, ,Red Deer,AB,T4N2E6,(403) 343-4639
+0575,Wintering Hills,435A Highway 1,,Strathmore,AB,T1P1J4,(403) 934-5121
+0576,Westwind Alternate School,P.O. Box 2129,,Cardston,AB,T0K0K0,(403) 653-1547
+0577,Columbus Academy,"Centre 170, Suite 145","
 10403 - 172 St",Edmonton,AB,T5S1K9,(780) 440-0708
-580,Neu Muehl Colony School,c/o Box 670,,Hanna,AB,T0J1P0,(403) 820-1336
-581,Bishop O'Byrne High School,Suite 500,"
+0580,Neu Muehl Colony School,c/o Box 670,,Hanna,AB,T0J1P0,(403) 820-1336
+0581,Bishop O'Byrne High School,Suite 500,"
 333 Shawville Boulevard S.E.",Calgary,AB,T2Y4H3,(403) 500-2103
-585,Palliser Beyond Borders at Vulcan,PO Box 1149,,Vulcan,AB,T0L2B0,(403) 485-6180
-586,Bentley Colony School,28414 TWP Rd 400,,Lacombe County,AB,T4M0S6,(403) 885-5245
-587,St. Mary's College,c/o Linda Jacejko,"
+0585,Palliser Beyond Borders at Vulcan,PO Box 1149,,Vulcan,AB,T0L2B0,(403) 485-6180
+0586,Bentley Colony School,28414 TWP Rd 400,,Lacombe County,AB,T4M0S6,(403) 885-5245
+0587,St. Mary's College,c/o Linda Jacejko,"
 4820 - 46 Street",Vermilion,AB,T9X1G2,
-588,St. Elizabeth Seton,10845 Hidden Valley Drive,,Calgary,AB,T3A6K3,(403) 500-2105
-589,Monsignor J. J. O'Brien,99 Bridlewood Road SW,,Calgary,AB,T2Y4J5,(403) 500-2104
-590,Peace Wapiti Academy,11410 - 104 Street,,Grande Prairie,AB,T8V2Z1,(780) 513-9504
-591,Codesa Hutterite Colony School,P.O. Box 210,,Eaglesham,AB,T0H1H0,(780) 864-5305
-592,Mountainview School,435A Highway1,,Strathmore,AB,T1P1J4,(403) 934-5121
-593,Sacred Heart Academy,709 - 2nd Street,,Strathmore,AB,T1P1B8,(403) 901-1544
-594,Our Lady of the Snows Catholic Academy,3100A Stewart Creek Drive,,Canmore,AB,T1W3M6,(403) 609-3699
-595,St. Mary's Elementary School,5207 42 St,,Lloydminster,AB,T9V1M8,(780) 808-8600
-596,Douglasdale School,400 Douglas Park Blvd SE,,Calgary,AB,T2Z4A3,(403) 777-6177
-597,Scenic Acres School,50 Scurfield Way NW,,Calgary,AB,T3L1T2,(403) 777-6193
-598,Our Lady of Lourdes,1916 2nd Street SW,,Calgary,AB,T2S1S3,(403) 500-2002
-655,Elves Adult & Youth Centre,10825 - 142 Street,,Edmonton,AB,T5N3Y7,(780) 454-5310
-658,Connect Society's Early Childhood Services,"6240-113 Street, N.W.",,Edmonton,AB,T6H3L2,(780) 454-9581
-660,Strathmore High School,100 Brent Boulevard,,Strathmore,AB,T1P1V2,(403) 934-3135
-665,Dewberry School ECS,Box 1286,,Dewberry,AB,T0B1G0,(780) 847-3051
-677,Kitscoty & District Early Childhood Education Kindergarten,P.O. Box 405,,Kitscoty,AB,T0B2P0,(780) 846-2212
-681,Londonderry Child Development Society,13931-140 Street,,Edmonton,AB,T6V1J7,(780) 473-7216
-684,Southview Child Care,3650 - 91 Street NW,,Edmonton,AB,T6E6P1,(780) 436-1823
-688,Norwood Child & Family Resource Centre,9516 114 Avenue,,Edmonton,AB,T5G0K7,(780) 471-3737
-700,Sherwood Park Kindergarten,105 Main Terrace,,Sherwood Park,AB,T8A0R7,(780) 467-5644
-747,Hay Lakes School ECS,P.O. Box 224,,Hay Lakes,AB,T0B1W0,(780) 878-3368
-765,Sedgewick ECS Portable,P.O. Box 466,,Sedgewick,AB,T0B4C0,(780) 385-1610
-770,K-C Community Services,4725 - 43 Street,,Sylvan Lake,AB,T4S1M3,(403) 887-5330
-777,Children's House Day Care,1215 - 4 Avenue S.,,Lethbridge,AB,T1J0P9,(403) 328-5553
-793,The Little Schoolhouse,P.O. Box 226,,Bragg Creek,AB,T0L0K0,(403) 949-3939
-796,Calgary French & International School,700 - 77 Street S.W.,,Calgary,AB,T3H5R1,(403) 240-1500
-850,Glamorgan Community Kindergarten Society,4715 - 45 Street SW,,Calgary,AB,T3E3W5,(403) 249-5275
-889,Lomond School ECS,P.O. Box 177,,Lomond,AB,T0L1G0,(403) 394-3688
-913,Schuler School Early Childhood Services,20 1st Avenue W,,Schuler,AB,T0J3B0,(403) 839-3732
-941,Thornhill Community Building Early Childhood Society,6617 Centre Street N.,,Calgary,AB,T2K4Y5,(403) 274-2335
-955,Jenner School,Box 64,,Jenner,AB,T0J1W0,(403) 898-3926
-975,Warren Peer School ECS,P.O Box 132,,Acadia Valley,AB,T0J0A0,(403) 972-2163
-992,Early Discoveries Childhood Services,PO BOX 27074 Tuscany PO ,,Calgary,AB,T3L2Y1,(403) 239-3444
-994,Blue Ridge Colony School,Box 10,,Cardston,AB,T0K0K0,(403) 626-2397
-995,History Re-Registration,10044 - 108 Street,,Edmonton,AB,T5J5E6,
-996,August Departmental Exam,10044 - 108 Street,,Edmonton,AB,T5J5E6,
-999,Departmental Evaluation,10044 - 108 Street,,Edmonton,AB,T5J5E6,
+0588,St. Elizabeth Seton,10845 Hidden Valley Drive,,Calgary,AB,T3A6K3,(403) 500-2105
+0589,Monsignor J. J. O'Brien,99 Bridlewood Road SW,,Calgary,AB,T2Y4J5,(403) 500-2104
+0590,Peace Wapiti Academy,11410 - 104 Street,,Grande Prairie,AB,T8V2Z1,(780) 513-9504
+0591,Codesa Hutterite Colony School,P.O. Box 210,,Eaglesham,AB,T0H1H0,(780) 864-5305
+0592,Mountainview School,435A Highway1,,Strathmore,AB,T1P1J4,(403) 934-5121
+0593,Sacred Heart Academy,709 - 2nd Street,,Strathmore,AB,T1P1B8,(403) 901-1544
+0594,Our Lady of the Snows Catholic Academy,3100A Stewart Creek Drive,,Canmore,AB,T1W3M6,(403) 609-3699
+0595,St. Mary's Elementary School,5207 42 St,,Lloydminster,AB,T9V1M8,(780) 808-8600
+0596,Douglasdale School,400 Douglas Park Blvd SE,,Calgary,AB,T2Z4A3,(403) 777-6177
+0597,Scenic Acres School,50 Scurfield Way NW,,Calgary,AB,T3L1T2,(403) 777-6193
+0598,Our Lady of Lourdes,1916 2nd Street SW,,Calgary,AB,T2S1S3,(403) 500-2002
+0655,Elves Adult & Youth Centre,10825 - 142 Street,,Edmonton,AB,T5N3Y7,(780) 454-5310
+0658,Connect Society's Early Childhood Services,"6240-113 Street, N.W.",,Edmonton,AB,T6H3L2,(780) 454-9581
+0660,Strathmore High School,100 Brent Boulevard,,Strathmore,AB,T1P1V2,(403) 934-3135
+0665,Dewberry School ECS,Box 1286,,Dewberry,AB,T0B1G0,(780) 847-3051
+0677,Kitscoty & District Early Childhood Education Kindergarten,P.O. Box 405,,Kitscoty,AB,T0B2P0,(780) 846-2212
+0681,Londonderry Child Development Society,13931-140 Street,,Edmonton,AB,T6V1J7,(780) 473-7216
+0684,Southview Child Care,3650 - 91 Street NW,,Edmonton,AB,T6E6P1,(780) 436-1823
+0688,Norwood Child & Family Resource Centre,9516 114 Avenue,,Edmonton,AB,T5G0K7,(780) 471-3737
+0700,Sherwood Park Kindergarten,105 Main Terrace,,Sherwood Park,AB,T8A0R7,(780) 467-5644
+0747,Hay Lakes School ECS,P.O. Box 224,,Hay Lakes,AB,T0B1W0,(780) 878-3368
+0765,Sedgewick ECS Portable,P.O. Box 466,,Sedgewick,AB,T0B4C0,(780) 385-1610
+0770,K-C Community Services,4725 - 43 Street,,Sylvan Lake,AB,T4S1M3,(403) 887-5330
+0777,Children's House Day Care,1215 - 4 Avenue S.,,Lethbridge,AB,T1J0P9,(403) 328-5553
+0793,The Little Schoolhouse,P.O. Box 226,,Bragg Creek,AB,T0L0K0,(403) 949-3939
+0796,Calgary French & International School,700 - 77 Street S.W.,,Calgary,AB,T3H5R1,(403) 240-1500
+0850,Glamorgan Community Kindergarten Society,4715 - 45 Street SW,,Calgary,AB,T3E3W5,(403) 249-5275
+0889,Lomond School ECS,P.O. Box 177,,Lomond,AB,T0L1G0,(403) 394-3688
+0913,Schuler School Early Childhood Services,20 1st Avenue W,,Schuler,AB,T0J3B0,(403) 839-3732
+0941,Thornhill Community Building Early Childhood Society,6617 Centre Street N.,,Calgary,AB,T2K4Y5,(403) 274-2335
+0955,Jenner School,Box 64,,Jenner,AB,T0J1W0,(403) 898-3926
+0975,Warren Peer School ECS,P.O Box 132,,Acadia Valley,AB,T0J0A0,(403) 972-2163
+0992,Early Discoveries Childhood Services,PO BOX 27074 Tuscany PO ,,Calgary,AB,T3L2Y1,(403) 239-3444
+0994,Blue Ridge Colony School,Box 10,,Cardston,AB,T0K0K0,(403) 626-2397
+0995,History Re-Registration,10044 - 108 Street,,Edmonton,AB,T5J5E6,
+0996,August Departmental Exam,10044 - 108 Street,,Edmonton,AB,T5J5E6,
+0999,Departmental Evaluation,10044 - 108 Street,,Edmonton,AB,T5J5E6,
 1003,Jackson Heights Elementary,"311 Jackson Rd., N.W.",,Edmonton,AB,T6L7H2,(780) 465-9797
 1004,George P. Nicholson School,1120 - 113 Street,,Edmonton,AB,T6J7J4,(780) 439-9314
 1006,Edmonton Khalsa School,3945 34 Street NW,"

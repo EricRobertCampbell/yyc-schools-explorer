@@ -245,6 +245,145 @@ const ContextTest = () => {
 		</>
 	);
 };
+
+const DiplomaExamResults = () => {
+	const basicSchoolInformation = useContext(BasicSchoolInformationContext);
+	// @ts-expect-error
+	const [makeCall, { data }] = useJsonFile('diploma_information_by_school.json');
+	const [schoolOptions, setSchoolOptions] = useState<Array<{ code: number; name: string }>>([]);
+	const [selectedSchoolCode, setSelectedSchoolCode] = useState<string>('');
+	const [examOptions, setExamOptions] = useState<Array<string>>([]);
+	const [selectedExam, setSelectedExam] = useState<string>('');
+	const [graphData, setGraphData] = useState<{ [year: string]: string }>({});
+
+	// When the data is loaded, set the schools as the options in the dropdown
+	useEffect(() => {
+		if (!basicSchoolInformation || !data) {
+			return;
+		}
+		setSchoolOptions(
+			// @ts-expect-error
+			Object.keys(data)
+				.map((schoolCode) => {
+					const schoolInfo = basicSchoolInformation[schoolCode];
+					const schoolName = schoolInfo ? schoolInfo['schoolName'] : undefined;
+
+					const option = {
+						code: schoolCode,
+						name: schoolName
+					};
+					console.log({ option });
+					return option;
+				})
+				.filter((option) => !!option.name)
+		);
+	}, [basicSchoolInformation, data]);
+
+	// once they select a school, set the exams that they have written
+	useEffect(() => {
+		if (!selectedSchoolCode) {
+			setExamOptions([]);
+			return;
+		}
+		const schoolInfo = data[selectedSchoolCode];
+		if (!schoolInfo) {
+			setExamOptions([]);
+			return;
+		}
+		console.log({ schoolInfo });
+		setExamOptions(Object.keys(schoolInfo));
+	}, [selectedSchoolCode]);
+
+	// once they have selected a school and exam, load in the data
+	useEffect(() => {
+		if (!basicSchoolInformation || !selectedSchoolCode || !selectedExam) {
+			setGraphData({});
+			return;
+		}
+		const examInfo = data[selectedSchoolCode][selectedExam];
+		console.log(selectedExam, data[selectedSchoolCode]);
+		setGraphData(
+			Object.entries(examInfo).reduce((acc, [year, average]) => {
+				// @ts-expect-error
+				acc[year] = average === '' ? undefined : average;
+				return acc;
+			}, {})
+		);
+	}, [selectedSchoolCode, selectedExam]);
+
+	// load the diploma exam data
+	useEffect(() => {
+		(async () => {
+			// @ts-expect-error
+			makeCall();
+		})();
+	}, []);
+
+	if (!basicSchoolInformation || !data) {
+		return null;
+	}
+	return (
+		<>
+			<h2>Diploma Exam Results</h2>
+			<label>
+				Choose School <br />
+				<select
+					name="school"
+					id="school"
+					onChange={(e) => {
+						setSelectedExam('');
+						setSelectedSchoolCode(e.target.value);
+					}}
+					value={selectedSchoolCode}
+				>
+					<option value="" key="null">
+						None
+					</option>
+					{schoolOptions.map((option) => (
+						<option key={option.code} value={option.code}>
+							{option.name}
+						</option>
+					))}
+				</select>
+			</label>
+			<br />
+			<label>
+				Choose Exam <br />
+				<select
+					id="exam"
+					name="exam"
+					onChange={(e) => {
+						setSelectedExam(e.target.value);
+					}}
+					value={selectedExam}
+				>
+					<option key="null" value={''}>
+						None
+					</option>
+					{examOptions.map((option) => (
+						<option key={option} value={option}>
+							{option}
+						</option>
+					))}
+				</select>
+			</label>
+			<Line
+				data={{
+					labels: Object.keys(graphData),
+					datasets: [
+						{
+							label: 'Exam Results',
+							data: Object.values(graphData).map((avg) => Number(avg)),
+							borderColor: 'rgb(255, 99, 132)',
+							backgroundColor: 'rgba(255, 99, 132, 0.5)'
+						}
+					]
+				}}
+				options={{ responsive: true }}
+			/>
+		</>
+	);
+};
 interface SideBarProps {
 	setComponent: $TSFixMe;
 }
@@ -269,7 +408,8 @@ export const SideBar = ({ setComponent }: SideBarProps) => {
 						['JSON Load Test', JsonLoadTest],
 						['Graph Test', GraphTest],
 						['Map Test', MapTest],
-						['Basic School Information', ContextTest]
+						['Basic School Information', ContextTest],
+						['Diploma Exam Results', DiplomaExamResults]
 					] as Array<[string, $TSFixMe]>
 				).map(([label, Component]) => (
 					<li key={label}>
