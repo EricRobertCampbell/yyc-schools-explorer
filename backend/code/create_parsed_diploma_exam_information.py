@@ -7,8 +7,7 @@ import numpy as np
 import json
 import re
 
-def replace_na(arg, replacement_value=""):
-    return arg if not pd.isnull(arg) else replacement_value
+from utilities import replace_na
 
 def main() -> None:
     df = pd.read_excel('../sources/diploma-multiyear-sch-list-annual.xlsx', dtype=str)
