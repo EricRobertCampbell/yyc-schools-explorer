@@ -131,46 +131,78 @@ const GraphTest = () => {
 	);
 };
 
-const MapTest = () => {
-	const [schoolLocationData, setSchoolLocationData] = useState<$TSFixMe>(null);
+const SchoolMapDisplay = () => {
+	const basicSchoolInformation = useContext(BasicSchoolInformationContext);
+	// @ts-expect-error
+	const [makeCall, { data }] = useJsonFile('school_location_information.json');
+	const [schoolsWithLatLng, setSchoolsWithLatLng] = useState<$TSFixMe>();
 
+	// load the location data
 	useEffect(() => {
 		(async () => {
-			const result = await fetch('/data/locations_test.json');
-			const json = await result.json();
-			setSchoolLocationData(json);
+			// @ts-expect-error
+			makeCall();
 		})();
 	}, []);
+
+	// get the school data once everything else is loaded
+	useEffect(() => {
+		if (!data || !basicSchoolInformation) {
+			return;
+		}
+		console.log({ data });
+		const latLngInfo = Object.entries(data)
+			.map(([locationSchoolCode, otherLocationInfo]) => {
+				const matchingBasicInformation = Object.entries(basicSchoolInformation).find(
+					([basicSchoolInformationSchoolCode, basicInformation]: Array<$TSFixMe>) => {
+						return locationSchoolCode === basicSchoolInformationSchoolCode;
+					}
+				);
+				if (!matchingBasicInformation) {
+					return null;
+				}
+				console.log({ matchingBasicInformation });
+				return {
+					// @ts-expect-error
+					name: matchingBasicInformation[1].schoolName,
+					// @ts-expect-error
+					lat: otherLocationInfo.lat,
+					// @ts-expect-error
+					lng: otherLocationInfo.lng
+				};
+			})
+			.filter((elem) => !!elem);
+		console.log({ latLngInfo });
+		setSchoolsWithLatLng(latLngInfo);
+	}, [data, basicSchoolInformation]);
+
 	return (
 		<div style={{ flexGrow: 1 }}>
 			<h2>Map Test</h2>
-			{schoolLocationData ? (
-				<MapContainer
-					center={[
-						schoolLocationData.schools[0].location.lat,
-						schoolLocationData.schools[0].location.lng
-					]}
-					zoom={13}
-					scrollWheelZoom={false}
-					style={{ height: '500px', width: '85vw' }}
-				>
-					{' '}
-					<TileLayer
-						attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-						url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-					/>{' '}
-					{schoolLocationData.schools.map((school: $TSFixMe) => (
-						<Marker position={[school.location.lat, school.location.lng]}>
-							<Popup>
-								<h3>{school.name}</h3>
-								<p>{school.info}</p>
-							</Popup>
-						</Marker>
-					))}
-				</MapContainer>
-			) : (
-				<p>No location data found</p>
-			)}
+			<MapContainer
+				center={[51.0447, -114.0719]}
+				zoom={13}
+				scrollWheelZoom={false}
+				style={{ height: '500px', width: '85vw' }}
+			>
+				{' '}
+				<TileLayer
+					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+				/>{' '}
+				{schoolsWithLatLng
+					? Object.values(schoolsWithLatLng).map((school: $TSFixMe) => {
+							return (
+								<Marker position={[school.lat, school.lng]}>
+									<Popup>
+										<h3>{school.name}</h3>
+										<p>Other info here</p>
+									</Popup>
+								</Marker>
+							);
+					  })
+					: null}
+			</MapContainer>
 		</div>
 	);
 };
@@ -407,7 +439,7 @@ export const SideBar = ({ setComponent }: SideBarProps) => {
 						['Third Component', ThirdComponent],
 						['JSON Load Test', JsonLoadTest],
 						['Graph Test', GraphTest],
-						['Map Test', MapTest],
+						['School Map', SchoolMapDisplay],
 						['Basic School Information', ContextTest],
 						['Diploma Exam Results', DiplomaExamResults]
 					] as Array<[string, $TSFixMe]>
