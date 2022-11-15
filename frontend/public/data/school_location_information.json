@@ -1,0 +1,32 @@
+{
+	"0001": {
+		"formatted_address": "44 Capital Boulevard, 10044 108 St NW, Edmonton, AB T5J, Canada",
+		"lat": 53.53997409999999,
+		"lng": -113.5072378
+	},
+	"0009": {
+		"formatted_address": "6302 56 St, Taber, AB T1G 1Z9, Canada",
+		"lat": 49.79999,
+		"lng": -112.13994
+	},
+	"0011": {
+		"formatted_address": "10 St W, Cardston, AB T0K 0K0, Canada",
+		"lat": 49.1991402,
+		"lng": -113.3263692
+	},
+	"0012": {
+		"formatted_address": "2116 MacKay Rd NW, Calgary, AB T3B 1C7, Canada",
+		"lat": 51.0694041,
+		"lng": -114.1522477
+	},
+	"0013": {
+		"formatted_address": "1518 Centre St N #191, Calgary, AB T2E 2R9, Canada",
+		"lat": 51.0655414,
+		"lng": -114.0616729
+	},
+	"0014": {
+		"formatted_address": "La Crate, AB T0G, Canada",
+		"lat": 58.187466,
+		"lng": -116.4069991
+	}
+}
