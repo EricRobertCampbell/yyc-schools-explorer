@@ -105,10 +105,12 @@ const GraphTest = () => {
 	// when the data loads, create the graph
 	useEffect(() => {
 		if (schoolData) {
+			// @ts-expect-error
 			const labels = schoolData.results.map(({ year }) => year);
 			const dataset = {
 				label: schoolData.name,
 				data: labels.map(
+					// @ts-expect-error
 					(year) => schoolData.results.find((result) => result.year === year)?.average
 				),
 				borderColor: 'rgb(255, 99, 132)',
