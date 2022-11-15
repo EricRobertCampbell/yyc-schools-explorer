@@ -8,10 +8,12 @@ import { useJsonFile } from './hooks';
 
 function App() {
 	const [Component, setComponent] = useState<$TSFixMe>(() => () => <Home />);
+	// @ts-expect-error
 	const [makeCall, { data }] = useJsonFile('basic_school_information.json');
 
 	useEffect(() => {
 		(async () => {
+			// @ts-expect-error
 			await makeCall();
 		})();
 	}, []);
