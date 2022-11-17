@@ -1,0 +1,2579 @@
+,YEAR WON,SPORT,LEVEL,GENDER,DIVISION,WINNER
+1,1913-14,Football,Sr. Varsity,Boys,Div I,Mount Royal College
+2,1914-15,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+3,1915-16,Football,Sr. Varsity,Boys,Div I,Not Awarded
+4,1916-17,Football,Sr. Varsity,Boys,Div I,Not Awarded
+5,1917-18,Football,Sr. Varsity,Boys,Div I,Not Awarded
+6,1918-19,Football,Sr. Varsity,Boys,Div I,Not Awarded
+7,1919-20,Football,Sr. Varsity,Boys,Div I,Not Awarded
+8,1920-21,Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+9,1920-21,Football,Sr. Varsity,Boys,Div I,South Calgary High School
+10,1921-22,Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+11,1921-22,Football,Sr. Varsity,Boys,Div I,South Calgary High School
+12,1922-23,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+13,1922-23,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+14,1923-24,Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+15,1923-24,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+16,1924-25,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+17,1924-25,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+18,1925-26,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+19,1925-26,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+20,1926-27,Football,Jr. Varsity,Boys,Div I,East Calgary High
+21,1926-27,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+22,1927-28,Football,Jr. Varsity,Boys,Div I,Not Awarded
+23,1927-28,Football,Sr. Varsity,Boys,Div I,South Calgary High School
+24,1928-29,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+25,1928-29,Football,Sr. Varsity,Boys,Div I,South Calgary High School
+26,1929-30,Football,Jr. Varsity,Boys,Div I,St. Mary's College
+27,1929-30,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+28,1930-31,Football,Jr. Varsity,Boys,Div I,Western Canada
+29,1930-31,Football,Sr. Varsity,Boys,Div I,Western Canada
+30,1931-32,Football,Jr. Varsity,Boys,Div I,Western Canada
+31,1931-32,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+32,1932-33,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+33,1932-33,Football,Jr. Varsity,Boys,Div I,Not Awarded
+34,1932-33,Football,Sr. Varsity,Boys,Div I,Commercial High School
+35,1933-34,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+36,1933-34,Football,Jr. Varsity,Boys,Div I,St. Mary's College
+37,1933-34,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+38,1934-35,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+39,1934-35,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+40,1934-35,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+41,1935-36,Basketball,Jr. Varsity,Boys,Div I,East Calgary
+42,1935-36,Basketball,Sr. Varsity,Boys,Div I,East Calgary
+43,1935-36,Football,Jr. Varsity,Boys,Div I,Not Awarded
+44,1935-36,Football,Sr. Varsity,Boys,Div I,"Central Collegiate Institute 
+and Western Canada"
+45,1936-37,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+46,1936-37,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+47,1936-37,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+48,1936-37,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+49,1937-38,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+50,1937-38,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+51,1937-38,Football,Jr. Varsity,Boys,Div I,St. Mary's College
+52,1937-38,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+53,1938-39,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+54,1938-39,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+55,1938-39,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+56,1938-39,Football,Sr. Varsity,Boys,Div I,Western Canada
+57,1939-40,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+58,1939-40,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+59,1939-40,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+60,1939-40,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+61,1940-41,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+62,1940-41,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+63,1940-41,Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+64,1940-41,Football,Sr. Varsity,Boys,Div I,Western Canada
+65,1941-42,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+66,1941-42,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+67,1941-42,Football,Jr. Varsity,Boys,Div I,Not Awarded
+68,1941-42,Football,Sr. Varsity,Boys,Div I,Not Awarded
+69,1942-43,Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+70,1942-43,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+71,1942-43,Football,Jr. Varsity,Boys,Div I,Western Canada
+72,1942-43,Football,Sr. Varsity,Boys,Div I,Not Awarded
+73,1943-44,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+74,1943-44,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+75,1943-44,Football,Jr. Varsity,Boys,Div I,Western Canada
+76,1943-44,Football,Sr. Varsity,Boys,Div I,Not Awarded
+77,1944-45,Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+78,1944-45,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+79,1944-45,Football,Jr. Varsity,Boys,Div I,Not Awarded
+80,1944-45,Football,Sr. Varsity,Boys,Div I,Not Awarded
+81,1945-46,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+82,1945-46,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+83,1945-46,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+84,1945-46,Football,Jr. Varsity,Boys,Div I,Not Awarded
+85,1945-46,Football,Sr. Varsity,Boys,Div I,Not Awarded
+86,1946-47,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+87,1946-47,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+88,1946-47,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+89,1946-47,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+90,1946-47,Football,Jr. Varsity,Boys,Div I,Western Canada
+91,1946-47,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+92,1947-48,Basketball,Jr. Varsity,Boys,Div I,Not Awarded
+93,1947-48,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+94,1947-48,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+95,1947-48,Basketball,Sr. Varsity,Girls,Div I,Not Awarded
+96,1947-48,Football,Jr. Varsity,Boys,Div I,Western Canada
+97,1947-48,Football,Sr. Varsity,Boys,Div I,"Crescent Heights 
+and Western Canada"
+98,1948-49,Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+99,1948-49,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+100,1948-49,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+101,1948-49,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+102,1948-49,Football,Jr. Varsity,Boys,Div I,Western Canada
+103,1948-49,Football,Sr. Varsity,Boys,Div I,St. Mary's
+104,"
+
+1949-50",Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+105,"
+
+1949-50",Basketball,Jr. Varsity,Girls,Div I,Western Canada
+106,"
+
+1949-50",Basketball,Sr. Varsity,Boys,Div I,Western Canada
+107,"
+
+1949-50",Basketball,Sr. Varsity,Girls,Div I,Western Canada
+108,"
+
+1949-50",Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+109,"
+
+1949-50",Football,Sr. Varsity,Boys,Div I,Western Canada
+110,1950-51,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+111,1950-51,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+112,1950-51,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+113,1950-51,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+114,1950-51,Football,Jr. Varsity,Boys,Div I,Western Canada
+115,1950-51,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+116,1951-52,Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+117,1951-52,Basketball,Jr. Varsity,Girls,Div I,Crescent Heights
+118,1951-52,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+119,1951-52,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+120,1951-52,Football,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+121,1951-52,Football,Sr. Varsity,Boys,Div I,Western Canada
+122,1952-53,Basketball,Jr. Varsity,Boys,Div I,Central Collegiate Institute
+123,1952-53,Basketball,Jr. Varsity,Girls,Div I,Crescent Heights
+124,1952-53,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+125,1952-53,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+126,1952-53,Football,Jr. Varsity,Boys,Div I,St. Mary's
+127,1952-53,Football,Sr. Varsity,Boys,Div I,Western Canada
+128,1953-54,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+129,1953-54,Basketball,Jr. Varsity,Girls,Div I,Crescent Heights
+130,1953-54,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+131,1953-54,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+132,1953-54,Football,Jr. Varsity,Boys,Div I,St. Mary's
+133,1953-54,Football,Sr. Varsity,Boys,Div I,St. Mary's
+134,1954-55,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+135,1954-55,Basketball,Jr. Varsity,Girls,Div I,Central Collegiate Institute
+136,1954-55,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+137,1954-55,Basketball,Sr. Varsity,Girls,Div I,Crescent Heights
+138,1954-55,Football,Jr. Varsity,Boys,Div I,St. Mary's
+139,1954-55,Football,Sr. Varsity,Boys,Div I,St. Mary's
+140,1955-56,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+141,1955-56,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+142,1955-56,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+143,1955-56,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+144,1955-56,Football,Jr. Varsity,Boys,Div I,St. Mary's
+145,1955-56,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+146,1955-56,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+147,1955-56,Track and Field,Sr. Varsity,Boys,None,Western Canada
+148,1956-57,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+149,1956-57,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+150,1956-57,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+151,1956-57,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+152,1956-57,Football,Jr. Varsity,Boys,Div I,St. Mary's
+153,1956-57,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+154,1956-57,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+155,1956-57,Track and Field,Jr. Varsity,Girls,None,Crescent Heights
+156,1956-57,Track and Field,Sr. Varsity,Boys,None,"Central Memorial 
+and Western Canada"
+157,1956-57,Track and Field,Sr. Varsity,Girls,None,Crescent Heights
+158,1957-58,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+159,1957-58,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+160,1957-58,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+161,1957-58,Basketball,Sr. Varsity,Girls,Div I,Central Collegiate Institute
+162,1957-58,Football,Jr. Varsity,Boys,Div I,St. Mary's
+163,1957-58,Football,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+164,1957-58,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+165,1957-58,Track and Field,Jr. Varsity,Girls,None,Western Canada
+166,1957-58,Track and Field,Sr. Varsity,Boys,None,Crescent Heights
+167,1957-58,Track and Field,Sr. Varsity,Girls,None,Crescent Heights
+168,1958-59,Basketball,Jr. Varsity,Boys,Div I,St. Mary's
+169,1958-59,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+170,1958-59,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+171,1958-59,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+172,1958-59,Football,Jr. Varsity,Boys,Div I,Western Canada
+173,1958-59,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+174,1958-59,Track and Field,Jr. Varsity,Boys,None,Central Collegiate Instate
+175,1958-59,Track and Field,Jr. Varsity,Girls,None,Crescent Heights
+176,1958-59,Track and Field,Sr. Varsity,Boys,None,Viscount Bennett
+177,1958-59,Track and Field,Sr. Varsity,Girls,None,Crescent Heights
+178,1959-60,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+179,1959-60,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+180,1959-60,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+181,1959-60,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+182,1959-60,Football,Jr. Varsity,Boys,Div I,Western Canada
+183,1959-60,Football,Sr. Varsity,Boys,Div I,Queen Elizabeth
+184,1959-60,Track and Field,Jr. Varsity,Boys,None,Viscount Bennett
+185,1959-60,Track and Field,Jr. Varsity,Girls,None,Viscount Bennett
+186,1959-60,Track and Field,Sr. Varsity,Boys,None,Western Canada
+187,1959-60,Track and Field,Sr. Varsity,Girls,None,Western Canada
+188,1960-61,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+189,1960-61,Basketball,Jr. Varsity,Girls,Div I,Viscount Bennett
+190,1960-61,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+191,1960-61,Basketball,Sr. Varsity,Girls,Div I,William Aberhart
+192,1960-61,Football,Jr. Varsity,Boys,Div I,St. Mary's
+193,1960-61,Football,Sr. Varsity,Boys,Div I,Viscount Bennett
+194,1960-61,Soccer,Varsity,Boys,Div I,Crescent Heights
+195,1960-61,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+196,1960-61,Track and Field,Jr. Varsity,Girls,None,Viscount Bennett
+197,1960-61,Track and Field,Sr. Varsity,Boys,None,Western Canada
+198,1960-61,Track and Field,Sr. Varsity,Girls,None,"Western Canada, 
+William Aberhart 
+and Viscount Bennett"
+199,1960-61,Volleyball,Jr. Varsity,Girls,Div I,Crescent Heights
+200,1960-61,Volleyball,Sr. Varsity,Girls,Div I,Crescent Heights
+201,1961-62,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+202,1961-62,Basketball,Jr. Varsity,Girls,Div I,Central Memorial
+203,1961-62,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+204,1961-62,Basketball,Sr. Varsity,Girls,Div I,William Aberhart
+205,1961-62,Football,Jr. Varsity,Boys,Div I,St. Mary's
+206,1961-62,Football,Sr. Varsity,Boys,Div I,St. Mary's
+207,1961-62,Soccer,Varsity,Boys,Div I,Crescent Heights
+208,1961-62,Track and Field,Jr. Varsity,Boys,None,Central Collegiate Institute
+209,1961-62,Track and Field,Jr. Varsity,Girls,None,Viscount Bennett
+210,1961-62,Track and Field,Sr. Varsity,Boys,None,Viscount Bennett
+211,1961-62,Track and Field,Sr. Varsity,Girls,None,William Aberhart
+212,1961-62,Volleyball,Jr. Varsity,Girls,Div I,Crescent Heights
+213,1961-62,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+214,1962-63,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+215,1962-63,Basketball,Jr. Varsity,Girls,Div I,Viscount Bennett
+216,1962-63,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+217,1962-63,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+218,1962-63,Football,Jr. Varsity,Boys,Div I,St. Mary's
+219,1962-63,Football,Sr. Varsity,Boys,Div I,Henry Wise Wood
+220,1962-63,Soccer,Varsity,Boys,Div I,Crescent Heights
+221,1962-63,Swimming,Grand Aggregate,Coed,None,Viscount Bennett
+222,1962-63,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+223,1962-63,Track and Field,Jr. Varsity,Girls,None,"Viscount Bennett
+and Central Collegiate Institute"
+224,1962-63,Track and Field,Sr. Varsity,Boys,None,St. Mary's
+225,1962-63,Track and Field,Sr. Varsity,Girls,None,"Viscount Bennett 
+and Central Collegiate Institute"
+226,1962-63,Volleyball,Jr. Varsity,Girls,Div I,Viscount Bennett
+227,1962-63,Volleyball,Sr. Varsity,Girls,Div I,William Aberhart
+228,1963-64,Basketball,Jr. Varsity,Boys,Div I,St. Mary's
+229,1963-64,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+230,1963-64,Basketball,Sr. Varsity,Boys,Div I,Central Collegiate Institute
+231,1963-64,Basketball,Sr. Varsity,Girls,Div I,Crescent Heights
+232,1963-64,Football,Jr. Varsity,Boys,Div I,Crescent Heights
+233,1963-64,Football,Sr. Varsity,Boys,Div I,St. Mary's
+234,1963-64,Soccer,Varsity,Boys,Div I,Not Awarded
+235,1963-64,Swimming,Grand Aggregate,Coed,None,William Aberhart
+236,1963-64,Track and Field,Jr. Varsity,Boys,None,St. Mary's
+237,1963-64,Track and Field,Jr. Varsity,Girls,None,Viscount Bennett
+238,1963-64,Track and Field,Sr. Varsity,Boys,None,St. Mary's
+239,1963-64,Track and Field,Sr. Varsity,Girls,None,Queen Elizabeth
+240,1963-64,Volleyball,Jr. Varsity,Girls,Div I,James Fowler
+241,1963-64,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+242,1964-65,Basketball,Jr. Varsity,Boys,Div I,William Aberhart
+243,1964-65,Basketball,Jr. Varsity,Girls,Div I,St. Francis
+244,1964-65,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+245,1964-65,Basketball,Sr. Varsity,Girls,Div I,Viscount Bennett
+246,1964-65,Diving,Grand Aggregate,Coed,None,William Aberhart
+247,1964-65,Football,Jr. Varsity,Boys,Div I,Henry Wise Wood
+248,1964-65,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+249,1964-65,Soccer,Varsity,Boys,Div I,Not Awarded
+250,1964-65,Swimming,Grand Aggregate,Coed,None,James Fowler
+251,1964-65,Track and Field,Jr. Varsity,Boys,None,Viscount Bennett
+252,1964-65,Track and Field,Jr. Varsity,Girls,None,Queen Elizabeth
+253,1964-65,Track and Field,Sr. Varsity,Boys,None,St. Mary's
+254,1964-65,Track and Field,Sr. Varsity,Girls,None,Viscount Bennett
+255,1964-65,Volleyball,Jr. Varsity,Girls,Div I,James Fowler
+256,1964-65,Volleyball,Sr. Varsity,Girls,Div I,Henry Wise Wood
+257,1965-66,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+258,1965-66,Basketball,Jr. Varsity,Girls,Div I,St. Francis
+259,1965-66,Basketball,Sr. Varsity,Boys,Div I,Ernest Manning
+260,1965-66,Basketball,Sr. Varsity,Girls,Div I,Henry Wise Wood
+261,1965-66,Diving,Grand Aggregate,Coed,None,James Fowler
+262,1965-66,Football,Jr. Varsity,Boys,Div I,Henry Wise Wood
+263,1965-66,Football,Sr. Varsity,Boys,Div I,Queen Elizabeth
+264,1965-66,Soccer,Varsity,Boys,Div I,Not Awarded
+265,1965-66,Swimming,Grand Aggregate,Coed,None,Crescent Heights
+266,1965-66,Track and Field,Jr. Varsity,Boys,None,Viscount Bennett
+267,1965-66,Track and Field,Jr. Varsity,Girls,None,William Aberhart
+268,1965-66,Track and Field,Sr. Varsity,Boys,None,Western Canada
+269,1965-66,Track and Field,Sr. Varsity,Girls,None,Viscount Bennett
+270,1965-66,Volleyball,Jr. Varsity,Girls,Div I,St. Francis
+271,1965-66,Volleyball,Sr. Varsity,Girls,Div I,James Fowler
+272,1966-67,Basketball,Jr. Varsity,Boys,Div I,Bishop Grandin
+273,1966-67,Basketball,Jr. Varsity,Girls,Div I,Ernest Manning
+274,1966-67,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+275,1966-67,Basketball,Sr. Varsity,Girls,Div I,Viscount Bennett
+276,1966-67,Diving,Grand Aggregate,Coed,None,Henry Wise Wood
+277,1966-67,Football,Jr. Varsity,Boys,Div I,Viscount Bennett
+278,1966-67,Football,Sr. Varsity,Boys,Div I,Queen Elizabeth
+279,1966-67,Soccer,Varsity,Boys,Div I,Not Awarded
+280,1966-67,Swimming,Grand Aggregate,Coed,None,Not Awarded
+281,1966-67,Track and Field,Jr. Varsity,Boys,None,Western Canada
+282,1966-67,Track and Field,Jr. Varsity,Girls,None,William Aberhart
+283,1966-67,Track and Field,Sr. Varsity,Boys,None,Western Canada
+284,1966-67,Track and Field,Sr. Varsity,Girls,None,Viscount Bennett
+285,1966-67,Volleyball,Jr. Varsity,Girls,Div I,Viscount Bennett
+286,1966-67,Volleyball,Sr. Varsity,Girls,Div I,Viscount Bennett
+287,1967-68,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+288,1967-68,Basketball,Jr. Varsity,Girls,Div I,St. Mary's
+289,1967-68,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+290,1967-68,Basketball,Sr. Varsity,Girls,Div I,Crescent Heights
+291,1967-68,Diving,Grand Aggregate,Coed,None,Henry Wise Wood
+292,1967-68,Football,Jr. Varsity,Boys,Div I,James Fowler
+293,1967-68,Football,Sr. Varsity,Boys,Div I,Viscount Bennett
+294,1967-68,Football,Sr. Varsity,Boys,Div II,Bishop Grandin
+295,1967-68,Soccer,Varsity,Boys,Div I,Not Awarded
+296,1967-68,Swimming,Grand Aggregate,Coed,None,William Aberhart
+297,1967-68,Track and Field,Jr. Varsity,Boys,None,Western Canada
+298,1967-68,Track and Field,Jr. Varsity,Girls,None,Western Canada
+299,1967-68,Track and Field,Sr. Varsity,Boys,None,Henry Wise Wood
+300,1967-68,Track and Field,Sr. Varsity,Girls,None,Henry Wise Wood
+301,1967-68,Volleyball,Jr. Varsity,Girls,Div I,James Fowler
+302,1967-68,Volleyball,Sr. Varsity,Girls,Div I,Crescent Heights
+303,1968-69,Basketball,Jr. Varsity,Boys,Div I,James Fowler
+304,1968-69,Basketball,Jr. Varsity,Girls,Div I,St. Francis
+305,1968-69,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+306,1968-69,Basketball,Sr. Varsity,Girls,Div I,William Aberhart
+307,1968-69,Diving,Grand Aggregate,Coed,None,Not Awarded
+308,1968-69,Football,Jr. Varsity,Boys,Div I,James Fowler
+309,1968-69,Football,Sr. Varsity,Boys,Div I,Henry Wise Wood
+310,1968-69,Football,Sr. Varsity,Boys,Div II,Crescent Heights
+311,1968-69,Soccer,Varsity,Boys,Div I,Not Awarded
+312,1968-69,Swimming,Grand Aggregate,Coed,None,Not Awarded
+313,1968-69,Track and Field,Jr. Varsity,Boys,None,Western Canada
+314,1968-69,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+315,1968-69,Track and Field,Sr. Varsity,Boys,None,Western Canada
+316,1968-69,Track and Field,Sr. Varsity,Girls,None,Western Canada
+317,1968-69,Volleyball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+318,1968-69,Volleyball,Sr. Varsity,Girls,Div I,Crescent Heights
+319,1969-70,Badminton,Aggregate,Coed,Div I,Henry Wise Wood
+320,1969-70,Basketball,Jr. Varsity,Boys,Div I,James Fowler
+321,1969-70,Basketball,Jr. Varsity,Boys,Div II,Viscount Bennett
+322,1969-70,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+323,1969-70,Basketball,Sr. Varsity,Boys,Div I,James Fowler
+324,1969-70,Basketball,Sr. Varsity,Boys,Div II,Bishop Grandin
+325,1969-70,Basketball,Sr. Varsity,Girls,Div I,Ernest Manning
+326,1969-70,Diving,Grand Aggregate,Coed,None,Bishop Grandin
+327,1969-70,Football,Jr. Varsity,Boys,Div I,James Fowler
+328,1969-70,Football,Sr. Varsity,Boys,Div I,Viscount Bennett
+329,1969-70,Football,Sr. Varsity,Boys,Div II,Bishop Grandin
+330,1969-70,Soccer,Varsity,Boys,Div I,Not Awarded
+331,1969-70,Swimming,Grand Aggregate,Coed,None,Not Awarded
+332,1969-70,Track and Field,Jr. Varsity,Boys,None,Central Memorial
+333,1969-70,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+334,1969-70,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+335,1969-70,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+336,1969-70,Volleyball,Jr. Varsity,Girls,Div I,Crescent Heights
+337,1969-70,Volleyball,Sr. Varsity,Boys,Div I,Crescent Heights
+338,1969-70,Volleyball,Sr. Varsity,Girls,Div I,James Fowler
+339,1969-70,Wrestling,Sr. Varsity,Boys,None,Lord Beaverbrook
+340,Fall,Field Hockey,Jr. Varsity,Girls,None,James Fowler
+341,Fall,Badminton,Aggregate,Coed,Div I,Western Canada
+342,Fall,Basketball,Jr. Varsity,Boys,Div I,Henry Wise Wood
+343,Fall,Basketball,Jr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+344,Fall,Basketball,Jr. Varsity,Girls,Div I,St. Francis
+345,Fall,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+346,Fall,Basketball,Sr. Varsity,Boys,Div II,Lord Beaverbrook
+347,Fall,Basketball,Sr. Varsity,Girls,Div I,Bowness
+348,Fall,Diving,Grand Aggregate,Coed,None,Lord Beaverbrook
+349,Fall,Football,Jr. Varsity,Boys,Div I,Henry Wise Wood
+350,Fall,Football,Sr. Varsity,Boys,Div I,St. Francis
+351,Fall,Football,Sr. Varsity,Boys,Div II,William Aberhart
+352,Fall,Soccer,Varsity,Boys,Div I,Not Awarded
+353,Fall,Swimming,Grand Aggregate,Coed,None,Not Awarded
+354,Fall,Track and Field,Jr. Varsity,Boys,None,Ernest Manning
+355,Fall,Track and Field,Jr. Varsity,Girls,None,Western Canada
+356,Fall,Track and Field,Sr. Varsity,Boys,None,St. Francis
+357,Fall,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+358,Fall,Volleyball,Jr. Varsity,Girls,Div I,St. Mary's
+359,Fall,Volleyball,Sr. Varsity,Boys,Div I,Crescent Heights
+360,Fall,Volleyball,Sr. Varsity,Girls,Div I,Crescent Heights
+361,Fall,Wrestling,Sr. Varsity,Boys,None,Lord Beaverbrook
+362,1971-72,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+363,1971-72,Badminton,Aggregate,Coed,Div I,Henry Wise Wood
+364,1971-72,Badminton,Aggregate,Coed,Div II,Lord Beaverbrook
+365,1971-72,Basketball,Jr. Varsity,Boys,Div I,Lord Beaverbrook
+366,1971-72,Basketball,Jr. Varsity,Boys,Div II,Queen Elizabeth
+367,1971-72,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+368,1971-72,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+369,1971-72,Basketball,Sr. Varsity,Boys,Div II,Central Memorial
+370,1971-72,Basketball,Sr. Varsity,Girls,Div I,St. Mary’s
+371,1971-72,Diving,Grand Aggregate,Coed,None,Lord Beaverbrook
+372,1971-72,Football,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+373,1971-72,Football,Jr. Varsity,Boys,Div II,Bowness
+374,1971-72,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+375,1971-72,Football,Sr. Varsity,Boys,Div II,William Aberhart
+376,1971-72,Soccer,Varsity,Boys,Div I,Not Awarded
+377,1971-72,Swimming,Grand Aggregate,Coed,None,Not Awarded
+378,1971-72,Track and Field,Jr. Varsity,Boys,None,Western Canada
+379,1971-72,Track and Field,Jr. Varsity,Girls,None,Bishop Carroll
+380,1971-72,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+381,1971-72,Track and Field,Sr. Varsity,Girls,None,Western Canada
+382,1971-72,Volleyball,Jr. Varsity,Girls,Div I,Viscount Bennett
+383,1971-72,Volleyball,Sr. Varsity,Boys,Div I,William Aberhart
+384,1971-72,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+385,1971-72,Wrestling,Sr. Varsity,Boys,None,Viscount Bennett
+386,Fall,Field Hockey,Jr. Varsity,Girls,None,Forest Lawn
+387,Fall,Field Hockey,Varsity,Girls,Div I,James Fowler
+388,Fall,Badminton,Aggregate,Coed,Div I,Western Canada
+389,Fall,Badminton,Aggregate,Coed,Div II,James Fowler
+390,Fall,Basketball,Jr. Varsity,Boys,Div I,Bishop Grandin
+391,Fall,Basketball,Jr. Varsity,Boys,Div II,William Aberhart
+392,Fall,Basketball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+393,Fall,Basketball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+394,Fall,Basketball,Sr. Varsity,Boys,Div II,Bishop Carroll
+395,Fall,Basketball,Sr. Varsity,Girls,Div I,Ernest Manning
+396,Fall,Diving,Grand Aggregate,Coed,None,Lord Beaverbrook
+397,Fall,Football,Jr. Varsity,Boys,Div I,Bowness
+398,Fall,Football,Jr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+399,Fall,Football,Sr. Varsity,Boys,Div I,Viscount Bennett
+400,Fall,Football,Sr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+401,Fall,Soccer,Varsity,Boys,Div I,Not Awarded
+402,Fall,Swimming,Grand Aggregate,Coed,None,Not Awarded
+403,Fall,Track and Field,Jr. Varsity,Boys,None,Viscount Bennett
+404,Fall,Track and Field,Jr. Varsity,Girls,None,Western Canada
+405,Fall,Track and Field,Sr. Varsity,Boys,None,Western Canada
+406,Fall,Track and Field,Sr. Varsity,Girls,None,Western Canada
+407,Fall,Volleyball,Jr. Varsity,Girls,Div I,Viscount Bennett
+408,Fall,Volleyball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+409,Fall,Volleyball,Sr. Varsity,Girls,Div I,Bishop Grandin
+410,Fall,Wrestling,Sr. Varsity,Boys,None,Lord Beaverbrook
+411,Spring,Field Hockey,Jr. Varsity,Girls,None,Crescent Heights
+412,Spring,Field Hockey,Varsity,Girls,Div I,James Fowler
+413,Fall,Field Hockey,Jr. Varsity,Girls,None,William Aberhart
+414,Fall,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+415,Fall,Badminton,Aggregate,Coed,Div I,Western Canada
+416,Fall,Badminton,Aggregate,Coed,Div II,St. Mary’s
+417,Fall,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+418,Fall,Basketball,Jr. Varsity,Boys,Div II,St. Mary’s
+419,Fall,Basketball,Jr. Varsity,Girls,Div I,Bishop Grandin
+420,Fall,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+421,Fall,Basketball,Sr. Varsity,Boys,Div II,Queen Elizabeth
+422,Fall,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+423,Fall,Diving,Grand Aggregate,Coed,None,Not Awarded
+424,Fall,Football,Jr. Varsity,Boys,Div I,Lord Beaverbrook
+425,Fall,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+426,Fall,Football,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+427,Fall,Football,Sr. Varsity,Boys,Div II,Bishop Carroll
+428,Fall,Rugby,Sr. Varsity,Boys,Div I,"Crescent Heights, 
+William Aberhart 
+and Bowness"
+429,Fall,Soccer,Varsity,Boys,Div I,John G. Diefenbaker
+430,Fall,Swimming,Grand Aggregate,Coed,None,Not Awarded
+431,Fall,Track and Field,Jr. Varsity,Boys,None,Sir Winston Churchill
+432,Fall,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+433,Fall,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+434,Fall,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+435,Fall,Volleyball,Jr. Varsity,Boys,Div I,Bishop Carroll
+436,Fall,Volleyball,Jr. Varsity,Girls,Div I,Viscount Bennett
+437,Fall,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+438,Fall,Volleyball,Sr. Varsity,Girls,Div I,Crescent Heights
+439,Fall,Wrestling,Sr. Varsity,Boys,None,Lord Beaverbrook
+440,Spring,Field Hockey,Jr. Varsity,Girls,None,Lord Beaverbrook
+441,Spring,Field Hockey,Varsity,Girls,Div I,James Fowler
+442,Fall,Field Hockey,Jr. Varsity,Girls,None,Not Awarded
+443,Fall,Field Hockey,Varsity,Girls,Div I,"James Fowler 
+and Henry Wise Wood"
+444,Fall,Badminton,Aggregate,Coed,Div I,Bishop Grandin
+445,Fall,Badminton,Aggregate,Coed,Div II,Ernest Manning
+446,Fall,Basketball,Jr. Varsity,Boys,Div I,Queen Elizabeth
+447,Fall,Basketball,Jr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+448,Fall,Basketball,Jr. Varsity,Girls,Div I,Bishop Carroll
+449,Fall,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+450,Fall,Basketball,Sr. Varsity,Boys,Div II,Sir W. Churchill
+451,Fall,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+452,Fall,Diving,Grand Aggregate,Coed,None,Not Awarded
+453,Fall,Football,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+454,Fall,Football,Jr. Varsity,Boys,Div II,Queen Elizabeth
+455,Fall,Football,Sr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+456,Fall,Football,Sr. Varsity,Boys,Div II,John G. Diefenbaker
+457,Fall,Rugby,Sr. Varsity,Boys,Div I,"Crescent Heights 
+and Western Canada"
+458,Fall,Soccer,Varsity,Boys,Div I,Central Memorial
+459,Fall,Swimming,Grand Aggregate,Coed,None,Not Awarded
+460,Fall,Track and Field,Jr. Varsity,Boys,None,Central Memorial
+461,Fall,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+462,Fall,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+463,Fall,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+464,Fall,Volleyball,Jr. Varsity,Boys,Div I,Bishop Carroll
+465,Fall,Volleyball,Jr. Varsity,Girls,Div I,Bishop Carroll
+466,Fall,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+467,Fall,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+468,Fall,Wrestling,Sr. Varsity,Boys,None,Viscount Bennett
+469,Spring,Field Hockey,Jr. Varsity,Girls,None,James Fowler
+470,Spring,Field Hockey,Varsity,Girls,Div I,Lord Beaverbrook
+471,Fall,Field Hockey,Jr. Varsity,Girls,None,Queen Elizabeth
+472,Fall,Field Hockey,Varsity,Girls,Div I,Lord Beaverbrook
+473,Fall,Badminton,Aggregate,Coed,Div I,Bishop Grandin
+474,Fall,Badminton,Aggregate,Coed,Div II,Western Canada
+475,Fall,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+476,Fall,Basketball,Jr. Varsity,Boys,Div II,Western Canada
+477,Fall,Basketball,Jr. Varsity,Girls,Div I,Queen Elizabeth
+478,Fall,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+479,Fall,Basketball,Sr. Varsity,Boys,Div II,James Fowler
+480,Fall,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+481,Fall,Diving,Grand Aggregate,Coed,None,Ernest Manning
+482,Fall,Football,Jr. Varsity,Boys,Div I,Bishop Grandin
+483,Fall,Football,Jr. Varsity,Boys,Div II,Central Memorial
+484,Fall,Football,Sr. Varsity,Boys,Div I,St. Francis
+485,Fall,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+486,Fall,Rugby,Sr. Varsity,Boys,Div I,Crescent Heights
+487,Fall,Soccer,Varsity,Boys,Div I,Western Canada
+488,Fall,Swimming,Grand Aggregate,Coed,None,Henry Wise Wood
+489,Fall,Track and Field,Jr. Varsity,Boys,None,Crescent Heights
+490,Fall,Track and Field,Jr. Varsity,Girls,None,Queen Elizabeth
+491,Fall,Track and Field,Sr. Varsity,Boys,None,Henry Wise Wood
+492,Fall,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+493,Fall,Volleyball,Jr. Varsity,Boys,Div I,St. Mary’s
+494,Fall,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+495,Fall,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+496,Fall,Wrestling,Sr. Varsity,Boys,None,Forest Lawn
+497,Spring,Field Hockey,Jr. Varsity,Girls,None,Lord Beaverbrook
+498,Spring,Field Hockey,Varsity,Girls,Div I,Lord Beaverbrook
+499,1976-77,Badminton,Aggregate,Coed,Div I,Bishop Grandin
+500,1976-77,Badminton,Aggregate,Coed,Div II,Western Canada
+501,1976-77,Basketball,Jr. Varsity,Boys,Div I,Sir W. Churchill
+502,1976-77,Basketball,Jr. Varsity,Boys,Div II,Forest Lawn
+503,1976-77,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+504,1976-77,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+505,1976-77,Basketball,Sr. Varsity,Boys,Div II,William Aberhart
+506,1976-77,Basketball,Sr. Varsity,Girls,Div I,Queen Elizabeth
+507,1976-77,Basketball,Sr. Varsity,Girls,Div II,Ernest Manning
+508,1976-77,Diving,Grand Aggregate,Coed,None,Henry Wise Wood
+509,1976-77,Field Hockey,Jr. Varsity,Girls,None,Lord Beaverbrook
+510,1976-77,Field Hockey,Varsity,Girls,Div I,Lord Beaverbrook
+511,1976-77,Football,Jr. Varsity,Boys,Div I,St. Francis
+512,1976-77,Football,Jr. Varsity,Boys,Div II,Western Canada
+513,1976-77,Football,Sr. Varsity,Boys,Div I,St. Francis
+514,1976-77,Football,Sr. Varsity,Boys,Div II,Bishop Carroll
+515,1976-77,Rugby,Sr. Varsity,Boys,Div I,Crescent Heights
+516,1976-77,Soccer,Varsity,Boys,Div I,John G. Diefenbaker
+517,1976-77,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+518,1976-77,Track and Field,Jr. Varsity,Boys,None,Bishop Carroll
+519,1976-77,Track and Field,Jr. Varsity,Girls,None,Western Canada
+520,1976-77,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+521,1976-77,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+522,1976-77,Volleyball,Jr. Varsity,Boys,Div I,Bishop Carroll
+523,1976-77,Volleyball,Jr. Varsity,Girls,Div I,James Fowler
+524,1976-77,Volleyball,Sr. Varsity,Boys,Div I,Bishop Grandin
+525,1976-77,Volleyball,Sr. Varsity,Girls,Div I,Lord Beaverbrook
+526,1976-77,Wrestling,Sr. Varsity,Boys,None,Viscount Bennett
+527,1977-78,Badminton,Aggregate,Coed,Div I,St. Mary’s
+528,1977-78,Badminton,Aggregate,Coed,Div II,John G. Diefenbaker
+529,1977-78,Basketball,Jr. Varsity,Boys,Div I,Bishop Carroll
+530,1977-78,Basketball,Jr. Varsity,Boys,Div II,Ernest Manning
+531,1977-78,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+532,1977-78,Basketball,Sr. Varsity,Boys,Div I,St. Mary’s
+533,1977-78,Basketball,Sr. Varsity,Boys,Div II,Forest Lawn
+534,1977-78,Basketball,Sr. Varsity,Girls,Div I,Queen Elizabeth
+535,1977-78,Basketball,Sr. Varsity,Girls,Div II,Lord Beaverbrook
+536,1977-78,Diving,Grand Aggregate,Coed,None,Not Awarded
+537,1977-78,Field Hockey,Jr. Varsity,Girls,None,John G. Diefenbaker
+538,1977-78,Field Hockey,Varsity,Girls,Div I,Queen Elizabeth
+539,1977-78,Football,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+540,1977-78,Football,Jr. Varsity,Boys,Div II,Bishop Carroll
+541,1977-78,Football,Sr. Varsity,Boys,Div I,St. Francis
+542,1977-78,Football,Sr. Varsity,Boys,Div II,William Aberhart
+543,1977-78,Rugby,Jr. Varsity,Boys,Div I,John G. Diefenbaker
+544,1977-78,Rugby,Sr. Varsity,Boys,Div I,St. Mary's
+545,1977-78,Soccer,Varsity,Boys,Div I,Crescent Heights
+546,1977-78,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+547,1977-78,Track and Field,Jr. Varsity,Boys,None,Bishop Carroll
+548,1977-78,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+549,1977-78,Track and Field,Sr. Varsity,Boys,None,Crescent Heights
+550,1977-78,Track and Field,Sr. Varsity,Girls,None,Bishop Carroll
+551,1977-78,Volleyball,Jr. Varsity,Boys,Div I,Bishop Carroll
+552,1977-78,Volleyball,Jr. Varsity,Girls,Div I,Bishop Carroll
+553,1977-78,Volleyball,Sr. Varsity,Boys,Div I,St. Mary's
+554,1977-78,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+555,1977-78,Wrestling,Sr. Varsity,Boys,None,Viscount Bennett
+556,1978-79,Badminton,Aggregate,Coed,Div I,Bishop Carroll
+557,1978-79,Badminton,Aggregate,Coed,Div II,Lord Beaverbrook
+558,1978-79,Basketball,Jr. Varsity,Boys,Div I,Crescent Heights
+559,1978-79,Basketball,Jr. Varsity,Boys,Div II,Bishop Grandin
+560,1978-79,Basketball,Jr. Varsity,Girls,Div I,Bishop Carroll
+561,1978-79,Basketball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+562,1978-79,Basketball,Sr. Varsity,Boys,Div II,John G. Diefenbaker
+563,1978-79,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+564,1978-79,Basketball,Sr. Varsity,Girls,Div II,Bowness
+565,1978-79,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+566,1978-79,Field Hockey,Jr. Varsity,Girls,None,Sir Winston Churchill
+567,1978-79,Field Hockey,Varsity,Girls,Div I,Lord Beaverbrook
+568,1978-79,Football,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+569,1978-79,Football,Jr. Varsity,Boys,Div II,William Aberhart
+570,1978-79,Football,Sr. Varsity,Boys,Div I,St. Francis
+571,1978-79,Football,Sr. Varsity,Boys,Div II,John G Diefenbaker
+572,1978-79,Rugby,Jr. Varsity,Boys,Div I,St. Mary’s
+573,1978-79,Rugby,Sr. Varsity,Boys,Div I,Crescent Heights
+574,1978-79,Rugby,Sr. Varsity,Boys,Div II,Bishop Grandin
+575,1978-79,Soccer,Varsity,Boys,Div I,Bishop Grandin
+576,1978-79,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+577,1978-79,Track and Field,Jr. Varsity,Boys,None,Bishop Carroll
+578,1978-79,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+579,1978-79,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+580,1978-79,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+581,1978-79,Volleyball,Jr. Varsity,Boys,Div I,Bishop Carroll
+582,1978-79,Volleyball,Jr. Varsity,Girls,Div I,St. Mary’s
+583,1978-79,Volleyball,Sr. Varsity,Boys,Div I,St. Francis
+584,1978-79,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+585,1978-79,Wrestling,Sr. Varsity,Boys,None,Crescent Heights
+586,1979-80,Badminton,Aggregate,Coed,Div I,Father Lacombe
+587,1979-80,Badminton,Aggregate,Coed,Div II,Bowness
+588,1979-80,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+589,1979-80,Basketball,Jr. Varsity,Boys,Div II,Father Lacombe
+590,1979-80,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+591,1979-80,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+592,1979-80,Basketball,Sr. Varsity,Boys,Div II,Bowness
+593,1979-80,Basketball,Sr. Varsity,Girls,Div I,Bishop Carroll
+594,1979-80,Basketball,Sr. Varsity,Girls,Div II,Queen Elizabeth
+595,1979-80,Diving,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+596,1979-80,Field Hockey,Jr. Varsity,Girls,None,Bishop Carroll
+597,1979-80,Field Hockey,Varsity,Girls,Div I,Not Awarded
+598,1979-80,Football,Jr. Varsity,Boys,Div I,St. Francis
+599,1979-80,Football,Jr. Varsity,Boys,Div II,St. Francis
+600,1979-80,Football,Sr. Varsity,Boys,Div I,St. Francis
+601,1979-80,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+602,1979-80,Rugby,Jr. Varsity,Boys,Div I,Not Awarded
+603,1979-80,Rugby,Sr. Varsity,Boys,Div I,St. Mary’s
+604,1979-80,Rugby,Sr. Varsity,Boys,Div II,Not Awarded
+605,1979-80,Soccer,Varsity,Boys,Div I,Bishop Grandin
+606,1979-80,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+607,1979-80,Track and Field,Jr. Varsity,Boys,None,Bishop Carroll
+608,1979-80,Track and Field,Jr. Varsity,Girls,None,St. Francis
+609,1979-80,Track and Field,Sr. Varsity,Boys,None,Bishop Grandin
+610,1979-80,Track and Field,Sr. Varsity,Girls,None,Bishop Carroll
+611,1979-80,Volleyball,Grand Aggregate,Coed,None,Central Memorial
+612,1979-80,Volleyball,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+613,1979-80,Volleyball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+614,1979-80,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+615,1979-80,Volleyball,Sr. Varsity,Girls,Div I,Ernest Manning
+616,1979-80,Wrestling,Sr. Varsity,Boys,None,Crescent Heights
+617,1980-81,Badminton,Aggregate,Coed,Div I,Father Lacombe
+618,1980-81,Badminton,Aggregate,Coed,Div II,John G. Diefenbaker
+619,1980-81,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+620,1980-81,Basketball,Jr. Varsity,Boys,Div II,Father Lacombe
+621,1980-81,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+622,1980-81,Basketball,Sr. Varsity,Boys,Div I,Crescent Heights
+623,1980-81,Basketball,Sr. Varsity,Boys,Div II,Bowness
+624,1980-81,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+625,1980-81,Basketball,Sr. Varsity,Girls,Div II,Forest Lawn
+626,1980-81,Cross Country,Grand Aggregate,Coed,None,Sir Winston Churchill
+627,1980-81,Diving,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+628,1980-81,Field Hockey,Jr. Varsity,Girls,None,Central Memorial
+629,1980-81,Field Hockey,Varsity,Girls,Div I,St. Francis
+630,1980-81,Football,Jr. Varsity,Boys,Div I,Bishop Carroll
+631,1980-81,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+632,1980-81,Football,Sr. Varsity,Boys,Div I,Bishop Carroll
+633,1980-81,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+634,1980-81,Rugby,Jr. Varsity,Boys,Div I,St. Mary’s
+635,1980-81,Rugby,Sr. Varsity,Boys,Div I,St. Francis
+636,1980-81,Rugby,Sr. Varsity,Boys,Div II,James Fowler
+637,1980-81,Soccer,Varsity,Boys,Div I,Crescent Heights
+638,1980-81,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+639,1980-81,Track and Field,Jr. Varsity,Boys,None,Central Memorial
+640,1980-81,Track and Field,Jr. Varsity,Girls,None,Central Memorial
+641,1980-81,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+642,1980-81,Track and Field,Sr. Varsity,Girls,None,Central Memorial
+643,1980-81,Volleyball,Jr. Varsity,Boys,Div I,Father Lacombe
+644,1980-81,Volleyball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+645,1980-81,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+646,1980-81,Volleyball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+647,1980-81,Wrestling,Sr. Varsity,Boys,None,Crescent Heights
+648,1981-82,Badminton,Aggregate,Coed,Div I,Bishop Grandin
+649,1981-82,Badminton,Aggregate,Coed,Div II,Dr. E.P. Scarlett
+650,1981-82,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+651,1981-82,Basketball,Jr. Varsity,Boys,Div II,Western Canada
+652,1981-82,Basketball,Jr. Varsity,Girls,Div I,St. Francis
+653,1981-82,Basketball,Sr. Varsity,Boys,Div I,Viscount Bennett
+654,1981-82,Basketball,Sr. Varsity,Boys,Div II,James Fowler
+655,1981-82,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+656,1981-82,Basketball,Sr. Varsity,Girls,Div II,William Aberhart
+657,1981-82,Cross Country,Grand Aggregate,Coed,None,Sir Winston Churchill
+658,1981-82,Diving,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+659,1981-82,Field Hockey,Jr. Varsity,Girls,None,Bishop Carroll
+660,1981-82,Field Hockey,Varsity,Girls,Div I,St. Mary’s
+661,1981-82,Football,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+662,1981-82,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+663,1981-82,Football,Sr. Varsity,Boys,Div I,St. Francis
+664,1981-82,Football,Sr. Varsity,Boys,Div II,William Aberhart
+665,1981-82,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+666,1981-82,Rugby,Sr. Varsity,Boys,Div I,St. Francis
+667,1981-82,Rugby,Sr. Varsity,Boys,Div II,Sir Winston Churchill
+668,1981-82,Soccer,Varsity,Boys,Div I,Henry Wise Wood
+669,1981-82,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+670,1981-82,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+671,1981-82,Track and Field,Jr. Varsity,Girls,None,Sir Winston Churchill
+672,1981-82,Track and Field,Sr. Varsity,Boys,None,Central Memorial
+673,1981-82,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+674,1981-82,Volleyball,Jr. Varsity,Boys,Div I,Bishop Grandin
+675,1981-82,Volleyball,Jr. Varsity,Girls,Div I,St. Mary’s
+676,1981-82,Volleyball,Sr. Varsity,Boys,Div I,Bishop Grandin
+677,1981-82,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+678,1981-82,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+679,1982-83,Badminton,Aggregate,Coed,Div I,Bishop Carroll
+680,1982-83,Badminton,Aggregate,Coed,Div II,Western Canada
+681,1982-83,Basketball,Jr. Varsity,Boys,Div I,St. Francis
+682,1982-83,Basketball,Jr. Varsity,Boys,Div II,John G. Diefenbaker
+683,1982-83,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+684,1982-83,Basketball,Sr. Varsity,Boys,Div I,Father Lacombe
+685,1982-83,Basketball,Sr. Varsity,Boys,Div II,Bowness
+686,1982-83,Basketball,Sr. Varsity,Girls,Div I,St. Mary’s
+687,1982-83,Basketball,Sr. Varsity,Girls,Div II,William Aberhart
+688,1982-83,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+689,1982-83,Diving,Grand Aggregate,Coed,None,Bishop Carroll
+690,1982-83,Field Hockey,Jr. Varsity,Girls,None,Western Canada
+691,1982-83,Field Hockey,Varsity,Girls,Div I,St. Francis
+692,1982-83,Football,Jr. Varsity,Boys,Div I,Bishop Grandin
+693,1982-83,Football,Jr. Varsity,Boys,Div II,James Fowler
+694,1982-83,Football,Sr. Varsity,Boys,Div I,St. Francis
+695,1982-83,Football,Sr. Varsity,Boys,Div II,John G. Diefenbaker
+696,1982-83,Rugby,Jr. Varsity,Boys,Div I,Queen Elizabeth
+697,1982-83,Rugby,Sr. Varsity,Boys,Div I,St. Francis
+698,1982-83,Rugby,Sr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+699,1982-83,Soccer,Varsity,Boys,Div I,John G. Diefenbaker
+700,1982-83,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+701,1982-83,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+702,1982-83,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+703,1982-83,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+704,1982-83,Track and Field,Sr. Varsity,Girls,None,Bishop Carroll
+705,1982-83,Volleyball,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+706,1982-83,Volleyball,Jr. Varsity,Girls,Div I,St. Mary’s
+707,1982-83,Volleyball,Sr. Varsity,Boys,Div I,Father Lacombe
+708,1982-83,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+709,1982-83,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+710,1983-84,Badminton,Aggregate,Coed,Div I,Western Canada
+711,1983-84,Badminton,Aggregate,Coed,Div II,"Dr. E.P. Scarlett 
+and William Aberhart"
+712,1983-84,Basketball,Jr. Varsity,Boys,Div I,St. Francis
+713,1983-84,Basketball,Jr. Varsity,Boys,Div II,John G. Diefenbaker
+714,1983-84,Basketball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+715,1983-84,Basketball,Sr. Varsity,Boys,Div I,Bishop Carroll
+716,1983-84,Basketball,Sr. Varsity,Boys,Div II,James Fowler
+717,1983-84,Basketball,Sr. Varsity,Girls,Div I,Bishop Grandin
+718,1983-84,Basketball,Sr. Varsity,Girls,Div II,James Fowler
+719,1983-84,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+720,1983-84,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+721,1983-84,Field Hockey,Jr. Varsity,Girls,None,William Aberhart
+722,1983-84,Field Hockey,Varsity,Girls,Div I,Sir Winston Churchill
+723,1983-84,Football,Jr. Varsity,Boys,Div I,St. Francis
+724,1983-84,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+725,1983-84,Football,Sr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+726,1983-84,Football,Sr. Varsity,Boys,Div II,James Fowler
+727,1983-84,Rugby,Jr. Varsity,Boys,Div I,John G. Diefenbaker
+728,1983-84,Rugby,Sr. Varsity,Boys,Div I,Crescent Heights
+729,1983-84,Rugby,Sr. Varsity,Boys,Div II,Bowness
+730,1983-84,Soccer,Varsity,Boys,Div I,St. Mary’s
+731,1983-84,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+732,1983-84,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+733,1983-84,Track and Field,Jr. Varsity,Girls,None,Western Canada
+734,1983-84,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+735,1983-84,Track and Field,Sr. Varsity,Girls,None,Bishop Grandin
+736,1983-84,Volleyball,Jr. Varsity,Boys,Div I,Bishop Grandin
+737,1983-84,Volleyball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+738,1983-84,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+739,1983-84,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+740,1983-84,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+741,1984-85,Badminton,Aggregate,Coed,Div I,Western Canada
+742,1984-85,Badminton,Aggregate,Coed,Div II,Ernest Manning
+743,1984-85,Basketball,Jr. Varsity,Boys,Div I,Sir W. Churchill
+744,1984-85,Basketball,Jr. Varsity,Boys,Div II,Henry Wise Wood
+745,1984-85,Basketball,Jr. Varsity,Girls,Div I,Bishop Grandin
+746,1984-85,Basketball,Sr. Varsity,Boys,Div I,Bishop Grandin
+747,1984-85,Basketball,Sr. Varsity,Boys,Div II,Bowness
+748,1984-85,Basketball,Sr. Varsity,Girls,Div I,St. Mary’s
+749,1984-85,Basketball,Sr. Varsity,Girls,Div II,Bowness
+750,1984-85,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+751,1984-85,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+752,1984-85,Field Hockey,Jr. Varsity,Girls,None,Western Canada
+753,1984-85,Field Hockey,Varsity,Girls,Div I,Sir Winston Churchill
+754,1984-85,Football,Jr. Varsity,Boys,Div I,St. Francis
+755,1984-85,Football,Jr. Varsity,Boys,Div II,Henry Wise Wood
+756,1984-85,Football,Sr. Varsity,Boys,Div I,Crescent Heights
+757,1984-85,Football,Sr. Varsity,Boys,Div II,Ernest Manning
+758,1984-85,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+759,1984-85,Rugby,Sr. Varsity,Boys,Div I,Henry Wise Wood
+760,1984-85,Rugby,Sr. Varsity,Boys,Div II,Father Lacombe
+761,1984-85,Soccer,Varsity,Boys,Div I,St. Mary’s
+762,1984-85,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+763,1984-85,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+764,1984-85,Track and Field,Jr. Varsity,Girls,None,Western Canada
+765,1984-85,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+766,1984-85,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+767,1984-85,Volleyball,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+768,1984-85,Volleyball,Jr. Varsity,Girls,Div I,Western Canada
+769,1984-85,Volleyball,Sr. Varsity,Boys,Div I,Crescent Heights
+770,1984-85,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+771,1984-85,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+772,1985-86,Badminton,Aggregate,Coed,Div I,Western Canada
+773,1985-86,Badminton,Aggregate,Coed,Div II,James Fowler
+774,1985-86,Basketball,Jr. Varsity,Boys,Div I,Father Lacombe
+775,1985-86,Basketball,Jr. Varsity,Boys,Div II,Henry Wise Wood
+776,1985-86,Basketball,Jr. Varsity,Girls,Div I,St. Mary’s
+777,1985-86,Basketball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+778,1985-86,Basketball,Sr. Varsity,Boys,Div II,Bowness
+779,1985-86,Basketball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+780,1985-86,Basketball,Sr. Varsity,Girls,Div II,Bowness
+781,1985-86,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+782,1985-86,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+783,1985-86,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+784,1985-86,Field Hockey,Varsity,Girls,Div I,Western Canada
+785,1985-86,Football,Jr. Varsity,Boys,Div I,St. Francis
+786,1985-86,Football,Jr. Varsity,Boys,Div II,Father Lacombe
+787,1985-86,Football,Sr. Varsity,Boys,Div I,St. Francis
+788,1985-86,Football,Sr. Varsity,Boys,Div II,William Aberhart
+789,1985-86,Rugby,Jr. Varsity,Boys,Div I,Ernest Manning
+790,1985-86,Rugby,Sr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+791,1985-86,Rugby,Sr. Varsity,Boys,Div II,Western Canada
+792,1985-86,Soccer,Varsity,Boys,Div I,Father Lacombe
+793,1985-86,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+794,1985-86,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+795,1985-86,Track and Field,Jr. Varsity,Girls,None,Western Canada
+796,1985-86,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+797,1985-86,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+798,1985-86,Volleyball,Jr. Varsity,Boys,Div I,Father Lacombe
+799,1985-86,Volleyball,Jr. Varsity,Girls,Div I,Lord Beaverbrook
+800,1985-86,Volleyball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+801,1985-86,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+802,1985-86,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+803,1986-87,Badminton,Aggregate,Coed,Div I,Western Canada
+804,1986-87,Badminton,Aggregate,Coed,Div II,"St. Mary’s 
+and John G. Diefenbaker"
+805,1986-87,Basketball,Jr. Varsity,Boys,Div I,Bishop Grandin
+806,1986-87,Basketball,Jr. Varsity,Boys,Div II,St. Mary’s
+807,1986-87,Basketball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+808,1986-87,Basketball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+809,1986-87,Basketball,Sr. Varsity,Boys,Div II,John G. Diefenbaker
+810,1986-87,Basketball,Sr. Varsity,Girls,Div I,Bishop Grandin
+811,1986-87,Basketball,Sr. Varsity,Girls,Div II,Bowness
+812,1986-87,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+813,1986-87,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+814,1986-87,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+815,1986-87,Field Hockey,Varsity,Girls,Div I,St. Mary’s
+816,1986-87,Football,Jr. Varsity,Boys,Div I,St. Francis
+817,1986-87,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+818,1986-87,Football,Sr. Varsity,Boys,Div I,Bishop Grandin
+819,1986-87,Football,Sr. Varsity,Boys,Div II,Father Lacombe
+820,1986-87,Rugby,Jr. Varsity,Boys,Div I,Western Canada
+821,1986-87,Rugby,Sr. Varsity,Boys,Div I,Henry Wise Wood
+822,1986-87,Rugby,Sr. Varsity,Boys,Div II,John G. Diefenbaker
+823,1986-87,Soccer,Varsity,Boys,Div I,Western Canada
+824,1986-87,Swimming,Grand Aggregate,Coed,None,Sir Winston Churchill
+825,1986-87,Track and Field,Jr. Varsity,Boys,None,Western Canada
+826,1986-87,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+827,1986-87,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+828,1986-87,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+829,1986-87,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+830,1986-87,Volleyball,Jr. Varsity,Girls,Div I,Bishop Grandin
+831,1986-87,Volleyball,Sr. Varsity,Boys,Div I,Bishop Grandin
+832,1986-87,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+833,1986-87,Wrestling,Sr. Varsity,Boys,None,Henry Wise Wood
+834,1987-88,Badminton,Aggregate,Coed,Div I,Western Canada
+835,1987-88,Badminton,Aggregate,Coed,Div II,Dr. E.P. Scarlett
+836,1987-88,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+837,1987-88,Basketball,Jr. Varsity,Boys,Div II,Lord Beaverbrook
+838,1987-88,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+839,1987-88,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+840,1987-88,Basketball,Sr. Varsity,Boys,Div II,Lord Beaverbrook
+841,1987-88,Basketball,Sr. Varsity,Girls,Div I,St. Mary’s
+842,1987-88,Basketball,Sr. Varsity,Girls,Div II,William Aberhart
+843,1987-88,Cross Country,Grand Aggregate,Coed,None,Western Canada
+844,1987-88,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+845,1987-88,Field Hockey,Jr. Varsity,Girls,None,St. Mary’s
+846,1987-88,Field Hockey,Varsity,Girls,Div I,St. Mary’s
+847,1987-88,Football,Jr. Varsity,Boys,Div I,Lord Beaverbrook
+848,1987-88,Football,Jr. Varsity,Boys,Div II,Father Lacombe
+849,1987-88,Football,Sr. Varsity,Boys,Div I,St. Francis
+850,1987-88,Football,Sr. Varsity,Boys,Div II,Father Lacombe
+851,1987-88,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+852,1987-88,Rugby,Sr. Varsity,Boys,Div I,Western Canada
+853,1987-88,Rugby,Sr. Varsity,Boys,Div II,Ernest Manning
+854,1987-88,Soccer,Varsity,Boys,Div I,Father Lacombe
+855,1987-88,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+856,1987-88,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+857,1987-88,Track and Field,Jr. Varsity,Girls,None,Western Canada
+858,1987-88,Track and Field,Sr. Varsity,Boys,None,Western Canada
+859,1987-88,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+860,1987-88,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+861,1987-88,Volleyball,Jr. Varsity,Girls,Div I,Father Lacombe
+862,1987-88,Volleyball,Sr. Varsity,Boys,Div I,Western Canada
+863,1987-88,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+864,1987-88,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+865,1988-89,Badminton,Aggregate,Coed,Div I,Western Canada
+866,1988-89,Badminton,Aggregate,Coed,Div II,Forest Lawn
+867,1988-89,Basketball,Jr. Varsity,Boys,Div I,St. Mary’s
+868,1988-89,Basketball,Jr. Varsity,Boys,Div II,Crescent Heights
+869,1988-89,Basketball,Jr. Varsity,Girls,Div I,Bishop Grandin
+870,1988-89,Basketball,Jr. Varsity,Girls,Div II,John G. Diefenbaker
+871,1988-89,Basketball,Sr. Varsity,Boys,Div I,St. Mary’s
+872,1988-89,Basketball,Sr. Varsity,Boys,Div II,Crescent Heights
+873,1988-89,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+874,1988-89,Basketball,Sr. Varsity,Girls,Div II,Crescent Heights
+875,1988-89,Cross Country,Grand Aggregate,Coed,None,Western Canada
+876,1988-89,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+877,1988-89,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+878,1988-89,Field Hockey,Varsity,Girls,Div I,Crescent Heights
+879,1988-89,Football,Jr. Varsity,Boys,Div I,Henry Wise Wood
+880,1988-89,Football,Jr. Varsity,Boys,Div II,Crescent Heights
+881,1988-89,Football,Sr. Varsity,Boys,Div I,St. Francis
+882,1988-89,Football,Sr. Varsity,Boys,Div II,Ernest Manning
+883,1988-89,Rugby,Jr. Varsity,Boys,Div I,Western Canada
+884,1988-89,Rugby,Sr. Varsity,Boys,Div I,Western Canada
+885,1988-89,Rugby,Sr. Varsity,Boys,Div II,Lord Beaverbrook
+886,1988-89,Soccer,Varsity,Boys,Div I,Father Lacombe
+887,1988-89,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+888,1988-89,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+889,1988-89,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+890,1988-89,Track and Field,Sr. Varsity,Boys,None,Western Canada
+891,1988-89,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+892,1988-89,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+893,1988-89,Volleyball,Jr. Varsity,Girls,Div I,Western Canada
+894,1988-89,Volleyball,Sr. Varsity,Boys,Div I,Western Canada
+895,1988-89,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+896,1988-89,Wrestling,Jr. Varsity,Boys,None,Western Canada
+897,1988-89,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+898,1989-90,Badminton,Aggregate,Coed,Div I,Western Canada
+899,1989-90,Badminton,Aggregate,Coed,Div II,Bishop Carroll
+900,1989-90,Basketball,Jr. Varsity,Boys,Div I,Sir W. Churchill
+901,1989-90,Basketball,Jr. Varsity,Boys,Div II,Queen Elizabeth
+902,1989-90,Basketball,Jr. Varsity,Girls,Div I,Bishop Grandin
+903,1989-90,Basketball,Jr. Varsity,Girls,Div II,William Aberhart
+904,1989-90,Basketball,Sr. Varsity,Boys,Div I,Western Canada
+905,1989-90,Basketball,Sr. Varsity,Boys,Div II,Father Lacombe
+906,1989-90,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+907,1989-90,Basketball,Sr. Varsity,Girls,Div II,Bowness
+908,1989-90,Cross Country,Grand Aggregate,Coed,None,Bishop Grandin
+909,1989-90,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+910,1989-90,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+911,1989-90,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+912,1989-90,Football,Jr. Varsity,Boys,Div I,Henry Wise Wood
+913,1989-90,Football,Jr. Varsity,Boys,Div II,Ernest Manning
+914,1989-90,Football,Sr. Varsity,Boys,Div I,St. Francis
+915,1989-90,Football,Sr. Varsity,Boys,Div II,Ernest Manning
+916,1989-90,Rugby,Jr. Varsity,Boys,Div I,Central Memorial
+917,1989-90,Rugby,Sr. Varsity,Boys,Div II,Bishop Carroll
+918,1989-90,Soccer,Varsity,Boys,Div I,St. Francis
+919,1989-90,Swimming,Grand Aggregate,Coed,None,William Aberhart
+920,1989-90,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+921,1989-90,Track and Field,Jr. Varsity,Girls,None,Bishop Grandin
+922,1989-90,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+923,1989-90,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+924,1989-90,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+925,1989-90,Volleyball,Jr. Varsity,Boys,Div II,Central Memorial
+926,1989-90,Volleyball,Jr. Varsity,Girls,Div I,Western Canada
+927,1989-90,Volleyball,Jr. Varsity,Girls,Div II,John G. Diefenbaker
+928,1989-90,Volleyball,Sr. Varsity,Boys,Div I,Western Canada
+929,1989-90,Volleyball,Sr. Varsity,Boys,Div II,St. Mary’s
+930,1989-90,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+931,1989-90,Volleyball,Sr. Varsity,Girls,Div II,James Fowler
+932,1989-90,Wrestling,Jr. Varsity,Boys,None,Western Canada
+933,1989-90,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+934,1990-91,Badminton,Aggregate,Coed,Div I,Western Canada
+935,1990-91,Badminton,Aggregate,Coed,Div II,William Aberhart
+936,1990-91,Basketball,Jr. Varsity,Boys,Div I,Western Canada
+937,1990-91,Basketball,Jr. Varsity,Boys,Div II,James Fowler
+938,1990-91,Basketball,Jr. Varsity,Girls,Div I,Western Canada
+939,1990-91,Basketball,Jr. Varsity,Girls,Div II,Father Lacombe
+940,1990-91,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+941,1990-91,Basketball,Sr. Varsity,Boys,Div II,William Aberhart
+942,1990-91,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+943,1990-91,Basketball,Sr. Varsity,Girls,Div II,Bowness
+944,1990-91,Cross Country,Grand Aggregate,Coed,None,Bishop Carroll
+945,1990-91,Diving,Grand Aggregate,Coed,None,John G. Diefenbaker
+946,1990-91,Field Hockey,Jr. Varsity,Girls,None,Sir Winston Churchill
+947,1990-91,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+948,1990-91,Football,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+949,1990-91,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+950,1990-91,Football,Sr. Varsity,Boys,Div I,St. Francis
+951,1990-91,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+952,1990-91,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+953,1990-91,Rugby,Jr. Varsity,Boys,Div II,Central Memorial
+954,1990-91,Rugby,Sr. Varsity,Boys,Div I,Henry Wise Wood
+955,1990-91,Rugby,Sr. Varsity,Boys,Div II,William Aberhart
+956,1990-91,Soccer,Varsity,Boys,Div I,Sir Winston Churchill
+957,1990-91,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+958,1990-91,Track and Field,Jr. Varsity,Boys,None,Western Canada
+959,1990-91,Track and Field,Jr. Varsity,Girls,None,Western Canada
+960,1990-91,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+961,1990-91,Track and Field,Sr. Varsity,Girls,None,Western Canada
+962,1990-91,Volleyball,Jr. Varsity,Boys,Div I,James Fowler
+963,1990-91,Volleyball,Jr. Varsity,Boys,Div II,Bowness
+964,1990-91,Volleyball,Jr. Varsity,Girls,Div I,St. Francis
+965,1990-91,Volleyball,Jr. Varsity,Girls,Div II,William Aberhart
+966,1990-91,Volleyball,Sr. Varsity,Boys,Div I,Crescent Heights
+967,1990-91,Volleyball,Sr. Varsity,Boys,Div II,William Aberhart
+968,1990-91,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+969,1990-91,Volleyball,Sr. Varsity,Girls,Div II,Bowness
+970,1990-91,Wrestling,Jr. Varsity,Boys,None,Western Canada
+971,1990-91,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+972,1991-92,Badminton,Aggregate,Coed,Div I,Western Canada
+973,1991-92,Badminton,Aggregate,Coed,Div II,William Aberhart
+974,1991-92,Basketball,Jr. Varsity,Boys,Div I,Lester B. Pearson
+975,1991-92,Basketball,Jr. Varsity,Boys,Div II,Forest Lawn
+976,1991-92,Basketball,Jr. Varsity,Girls,Div I,Lester B. Pearson
+977,1991-92,Basketball,Jr. Varsity,Girls,Div II,St. Mary’s
+978,1991-92,Basketball,Sr. Varsity,Boys,Div I,St. Francis
+979,1991-92,Basketball,Sr. Varsity,Boys,Div II,Bowness
+980,1991-92,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+981,1991-92,Basketball,Sr. Varsity,Girls,Div II,Bowness
+982,1991-92,Cross Country,Grand Aggregate,Coed,None,Western Canada
+983,1991-92,Diving,Grand Aggregate,Coed,None,John G. Diefenbaker
+984,1991-92,Field Hockey,Jr. Varsity,Girls,None,Western Canada
+985,1991-92,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+986,1991-92,Football,Jr. Varsity,Boys,Div I,St. Francis
+987,1991-92,Football,Jr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+988,1991-92,Football,Sr. Varsity,Boys,Div I,Henry Wise Wood
+989,1991-92,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+990,1991-92,Rugby,Jr. Varsity,Boys,Div I,Bishop Grandin
+991,1991-92,Rugby,Jr. Varsity,Boys,Div II,Lester B. Pearson
+992,1991-92,Rugby,Sr. Varsity,Boys,Div I,Henry Wise Wood
+993,1991-92,Rugby,Sr. Varsity,Boys,Div II,Central Memorial
+994,1991-92,Soccer,Varsity,Boys,Div I,St. Francis
+995,1991-92,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+996,1991-92,Track and Field,Jr. Varsity,Boys,None,Western Canada
+997,1991-92,Track and Field,Jr. Varsity,Girls,None,Sir Winston Churchill
+998,1991-92,Track and Field,Sr. Varsity,Boys,None,Western Canada
+999,1991-92,Track and Field,Sr. Varsity,Girls,None,Western Canada
+1000,1991-92,Volleyball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1001,1991-92,Volleyball,Jr. Varsity,Boys,Div II,Queen Elizabeth
+1002,1991-92,Volleyball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1003,1991-92,Volleyball,Jr. Varsity,Girls,Div II,Father Lacombe
+1004,1991-92,Volleyball,Sr. Varsity,Boys,Div I,Father Lacombe
+1005,1991-92,Volleyball,Sr. Varsity,Boys,Div II,Bowness
+1006,1991-92,Volleyball,Sr. Varsity,Girls,Div I,William Aberhart
+1007,1991-92,Volleyball,Sr. Varsity,Girls,Div II,Bowness
+1008,1991-92,Wrestling,Jr. Varsity,Boys,None,Not Awarded
+1009,1991-92,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+1010,1992-93,Badminton,Aggregate,Coed,Div I,Western Canada
+1011,1992-93,Badminton,Aggregate,Coed,Div II,William Aberhart
+1012,1992-93,Basketball,Jr. Varsity,Boys,Div I,St. Francis
+1013,1992-93,Basketball,Jr. Varsity,Boys,Div II,Bowness
+1014,1992-93,Basketball,Jr. Varsity,Girls,Div I,Crescent Heights
+1015,1992-93,Basketball,Jr. Varsity,Girls,Div II,Henry Wise Wood
+1016,1992-93,Basketball,Sr. Varsity,Boys,Div I,Lord Beaverbrook
+1017,1992-93,Basketball,Sr. Varsity,Boys,Div II,Forest Lawn
+1018,1992-93,Basketball,Sr. Varsity,Girls,Div I,Western Canada
+1019,1992-93,Basketball,Sr. Varsity,Girls,Div II,Bowness
+1020,1992-93,Cross Country,Grand Aggregate,Coed,None,Bishop Carroll
+1021,1992-93,Diving,Grand Aggregate,Coed,None,Lord Beaverbrook
+1022,1992-93,Field Hockey,Jr. Varsity,Girls,None,Western Canada
+1023,1992-93,Field Hockey,Varsity,Girls,Div I,William Aberhart
+1024,1992-93,Football,Jr. Varsity,Boys,Div I,Lord Beaverbrook
+1025,1992-93,Football,Jr. Varsity,Boys,Div II,Father Lacombe
+1026,1992-93,Football,Sr. Varsity,Boys,Div I,St. Francis
+1027,1992-93,Football,Sr. Varsity,Boys,Div II,Bishop Carroll
+1028,1992-93,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1029,1992-93,Rugby,Jr. Varsity,Boys,Div II,Lester B. Pearson
+1030,1992-93,Rugby,Sr. Varsity,Boys,Div I,Western Canada
+1031,1992-93,Rugby,Sr. Varsity,Boys,Div II,Central Memorial
+1032,1992-93,Soccer,Varsity,Boys,Div I,Father Lacombe
+1033,1992-93,Swimming,Grand Aggregate,Coed,None,Lord Beaverbrook
+1034,1992-93,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+1035,1992-93,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+1036,1992-93,Track and Field,Sr. Varsity,Boys,None,Bishop Carroll
+1037,1992-93,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+1038,1992-93,Volleyball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1039,1992-93,Volleyball,Jr. Varsity,Boys,Div II,Queen Elizabeth
+1040,1992-93,Volleyball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+1041,1992-93,Volleyball,Jr. Varsity,Girls,Div II,St. Mary’s
+1042,1992-93,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+1043,1992-93,Volleyball,Sr. Varsity,Boys,Div II,Queen Elizabeth
+1044,1992-93,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+1045,1992-93,Volleyball,Sr. Varsity,Girls,Div II,Bowness
+1046,1992-93,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+1047,1993-94,Badminton,Aggregate,Coed,Div I,Western Canada
+1048,1993-94,Badminton,Aggregate,Coed,Div II,William Aberhart
+1049,1993-94,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1050,1993-94,Basketball,Jr. Varsity,Boys,Div II,St. Mary’s
+1051,1993-94,Basketball,Jr. Varsity,Girls,Div I,Lester B. Pearson
+1052,1993-94,Basketball,Jr. Varsity,Girls,Div II,Lord Beaverbrook
+1053,1993-94,Basketball,Sr. Varsity,Boys,Div I,Bishop Grandin
+1054,1993-94,Basketball,Sr. Varsity,Boys,Div II,Central Memorial
+1055,1993-94,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1056,1993-94,Basketball,Sr. Varsity,Girls,Div II,Bishop Carroll
+1057,1993-94,Cross Country,Grand Aggregate,Coed,None,Bishop Carroll
+1058,1993-94,Diving,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+1059,1993-94,Field Hockey,Jr. Varsity,Girls,None,Sir Winston Churchill
+1060,1993-94,Field Hockey,Varsity,Girls,Div I,Crescent Heights
+1061,1993-94,Football,Jr. Varsity,Boys,Div I,St. Francis
+1062,1993-94,Football,Jr. Varsity,Boys,Div II,Father Lacombe
+1063,1993-94,Football,Sr. Varsity,Boys,Div I,James Fowler
+1064,1993-94,Football,Sr. Varsity,Boys,Div II,Bowness
+1065,1993-94,Rugby,Jr. Varsity,Boys,Div I,Bishop Grandin
+1066,1993-94,Rugby,Sr. Varsity,Boys,Div I,St. Francis
+1067,1993-94,Rugby,Sr. Varsity,Boys,Div II,Bowness
+1068,1993-94,Soccer,Varsity,Boys,Div I,Father Lacombe
+1069,1993-94,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+1070,1993-94,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+1071,1993-94,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+1072,1993-94,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+1073,1993-94,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+1074,1993-94,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+1075,1993-94,Volleyball,Jr. Varsity,Boys,Div II,Central Memorial
+1076,1993-94,Volleyball,Jr. Varsity,Girls,Div I,Lord Beaverbrook
+1077,1993-94,Volleyball,Jr. Varsity,Girls,Div II,Henry Wise Wood
+1078,1993-94,Volleyball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+1079,1993-94,Volleyball,Sr. Varsity,Boys,Div II,Western Canada
+1080,1993-94,Volleyball,Sr. Varsity,Girls,Div I,Western Canada
+1081,1993-94,Volleyball,Sr. Varsity,Girls,Div II,Lord Beaverbrook
+1082,1993-94,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+1083,1994-95,Badminton,Aggregate,Coed,Div I,Western Canada
+1084,1994-95,Badminton,Aggregate,Coed,Div II,Lester B. Pearson
+1085,1994-95,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1086,1994-95,Basketball,Jr. Varsity,Boys,Div II,Father Lacombe
+1087,1994-95,Basketball,Jr. Varsity,Girls,Div I,Bishop Grandin
+1088,1994-95,Basketball,Jr. Varsity,Girls,Div II,St. Francis
+1089,1994-95,Basketball,Sr. Varsity,Boys,Div I,Lester B. Pearson
+1090,1994-95,Basketball,Sr. Varsity,Boys,Div II,Central Memorial
+1091,1994-95,Basketball,Sr. Varsity,Girls,Div I,William Aberhart
+1092,1994-95,Basketball,Sr. Varsity,Girls,Div II,Father Lacombe
+1093,1994-95,Cross Country,Grand Aggregate,Coed,None,Western Canada
+1094,1994-95,Diving,Grand Aggregate,Coed,None,John G. Diefenbaker
+1095,1994-95,Field Hockey,Jr. Varsity,Girls,None,St. Mary’s
+1096,1994-95,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+1097,1994-95,Football,Jr. Varsity,Boys,Div I,Bishop Carroll
+1098,1994-95,Football,Jr. Varsity,Boys,Div II,Father Lacombe
+1099,1994-95,Football,Sr. Varsity,Boys,Div I,St. Francis
+1100,1994-95,Football,Sr. Varsity,Boys,Div II,William Aberhart
+1101,1994-95,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1102,1994-95,Rugby,Jr. Varsity,Boys,Div II,Lester B. Pearson
+1103,1994-95,Rugby,Sr. Varsity,Boys,Div I,Crescent Heights
+1104,1994-95,Rugby,Sr. Varsity,Boys,Div II,Lester B. Pearson
+1105,1994-95,Soccer,Varsity,Boys,Div I,Father Lacombe
+1106,1994-95,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+1107,1994-95,Track and Field,Jr. Varsity,Boys,None,Dr. E.P. Scarlett
+1108,1994-95,Track and Field,Jr. Varsity,Girls,None,Dr. E.P. Scarlett
+1109,1994-95,Track and Field,Sr. Varsity,Boys,None,St. Francis
+1110,1994-95,Track and Field,Sr. Varsity,Girls,None,Dr. E.P. Scarlett
+1111,1994-95,Volleyball,Jr. Varsity,Boys,Div I,Western Canada
+1112,1994-95,Volleyball,Jr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+1113,1994-95,Volleyball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1114,1994-95,Volleyball,Jr. Varsity,Girls,Div II,Lord Beaverbrook
+1115,1994-95,Volleyball,Sr. Varsity,Boys,Div I,Bishop Carroll
+1116,1994-95,Volleyball,Sr. Varsity,Boys,Div II,Sir Winston Churchill
+1117,1994-95,Volleyball,Sr. Varsity,Girls,Div I,Bishop Carroll
+1118,1994-95,Volleyball,Sr. Varsity,Girls,Div II,Dr. E.P. Scarlett
+1119,1994-95,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+1120,1994-95,Wrestling,Sr. Varsity,Girls,None,Sir Winston Churchill
+1121,1995-96,Badminton,Aggregate,Coed,Div I,Western Canada
+1122,1995-96,Badminton,Aggregate,Coed,Div II,Bishop Carroll
+1123,1995-96,Basketball,Jr. Varsity,Boys,Div I,Sir W. Churchill
+1124,1995-96,Basketball,Jr. Varsity,Boys,Div II,Bishop McNally
+1125,1995-96,Basketball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1126,1995-96,Basketball,Jr. Varsity,Girls,Div II,Central Memorial
+1127,1995-96,Basketball,Sr. Varsity,Boys,Div I,Lord Beaverbrook
+1128,1995-96,Basketball,Sr. Varsity,Boys,Div II,James Fowler
+1129,1995-96,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1130,1995-96,Basketball,Sr. Varsity,Girls,Div II,St. Mary’s
+1131,1995-96,Cross Country,Grand Aggregate,Coed,None,Bishop Carroll
+1132,1995-96,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+1133,1995-96,Field Hockey,Jr. Varsity,Girls,None,William Aberhart
+1134,1995-96,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+1135,1995-96,Football,Jr. Varsity,Boys,Div I,St. Francis
+1136,1995-96,Football,Jr. Varsity,Boys,Div II,Western Canada
+1137,1995-96,Football,Sr. Varsity,Boys,Div I,St. Francis
+1138,1995-96,Football,Sr. Varsity,Boys,Div II,William Aberhart
+1139,1995-96,Rugby,Jr. Varsity,Boys,Div I,Lord Beaverbrook
+1140,1995-96,Rugby,Jr. Varsity,Boys,Div II,Bowness
+1141,1995-96,Rugby,Sr. Varsity,Boys,Div I,Bishop Grandin
+1142,1995-96,Rugby,Sr. Varsity,Boys,Div II,James Fowler
+1143,1995-96,Soccer,Varsity,Boys,Div I,Father Lacombe
+1144,1995-96,Swimming,Grand Aggregate,Coed,None,Lord Beaverbrook
+1145,1995-96,Track and Field,Jr. Varsity,Boys,None,Western Canada
+1146,1995-96,Track and Field,Jr. Varsity,Girls,None,Western Canada
+1147,1995-96,Track and Field,Sr. Varsity,Boys,None,Dr. E.P. Scarlett
+1148,1995-96,Track and Field,Sr. Varsity,Girls,None,Western Canada
+1149,1995-96,Volleyball,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+1150,1995-96,Volleyball,Jr. Varsity,Boys,Div II,John G. Diefenbaker
+1151,1995-96,Volleyball,Jr. Varsity,Girls,Div I,Lord Beaverbrook
+1152,1995-96,Volleyball,Jr. Varsity,Girls,Div II,St. Francis
+1153,1995-96,Volleyball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+1154,1995-96,Volleyball,Sr. Varsity,Boys,Div II,Dr. E.P. Scarlett
+1155,1995-96,Volleyball,Sr. Varsity,Girls,Div I,William Aberhart
+1156,1995-96,Volleyball,Sr. Varsity,Girls,Div II,St. Mary’s
+1157,1995-96,Wrestling,Sr. Varsity,Girls,None,Sir Winston Churchill
+1158,1996-97,Badminton,Aggregate,Coed,Div I,Western Canada
+1159,1996-97,Badminton,Aggregate,Coed,Div II,Bishop Carroll
+1160,1996-97,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1161,1996-97,Basketball,Jr. Varsity,Boys,Div II,Central Memorial
+1162,1996-97,Basketball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1163,1996-97,Basketball,Jr. Varsity,Girls,Div II,Bishop Carroll
+1164,1996-97,Basketball,Sr. Varsity,Boys,Div I,Sir Winston Churchill
+1165,1996-97,Basketball,Sr. Varsity,Boys,Div II,Central Memorial
+1166,1996-97,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1167,1996-97,Basketball,Sr. Varsity,Girls,Div II,Bishop McNally
+1168,1996-97,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+1169,1996-97,Field Hockey,Jr. Varsity,Girls,None,Sir Winston Churchill
+1170,1996-97,Field Hockey,Varsity,Girls,Div I,William Aberhart
+1171,1996-97,Football,Jr. Varsity,Boys,Div I,St. Francis
+1172,1996-97,Football,Jr. Varsity,Boys,Div II,St. Mary’s
+1173,1996-97,Football,Sr. Varsity,Boys,Div I,St. Francis
+1174,1996-97,Football,Sr. Varsity,Boys,Div II,St. Mary’s
+1175,1996-97,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1176,1996-97,Rugby,Jr. Varsity,Boys,Div II,John G. Diefenbaker
+1177,1996-97,Rugby,Sr. Varsity,Boys,Div I,Lord Beaverbrook
+1178,1996-97,Rugby,Sr. Varsity,Boys,Div II,Bowness
+1179,1996-97,Soccer,Varsity,Boys,Div I,Bishop McNally
+1180,1996-97,Swimming,Grand Aggregate,Coed,None,Dr. E.P. Scarlett
+1181,1996-97,Volleyball,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1182,1996-97,Volleyball,Jr. Varsity,Boys,Div II,Crescent Heights
+1183,1996-97,Volleyball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+1184,1996-97,Volleyball,Jr. Varsity,Girls,Div II,Central Memorial
+1185,1996-97,Volleyball,Sr. Varsity,Boys,Div I,Western Canada
+1186,1996-97,Volleyball,Sr. Varsity,Boys,Div II,William Aberhart
+1187,1996-97,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+1188,1996-97,Volleyball,Sr. Varsity,Girls,Div II,William Aberhart
+1189,1996-97,Wrestling,Sr. Varsity,Boys,None,Bishop Grandin
+1190,1996-97,Wrestling,Sr. Varsity,Girls,None,"Bishop Grandin 
+and Sir Winston Churchill"
+1191,1997-98,Badminton,Aggregate,Coed,Div I,Western Canada
+1192,1997-98,Badminton,Aggregate,Coed,Div II,William Aberhart
+1193,1997-98,Basketball,Jr. Varsity,Boys,Div I,St. Francis
+1194,1997-98,Basketball,Jr. Varsity,Boys,Div II,Central Memorial
+1195,1997-98,Basketball,Jr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1196,1997-98,Basketball,Jr. Varsity,Girls,Div II,Lord Beaverbrook
+1197,1997-98,Basketball,Sr. Varsity,Boys,Div I,William Aberhart
+1198,1997-98,Basketball,Sr. Varsity,Boys,Div II,Forest Lawn
+1199,1997-98,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1200,1997-98,Basketball,Sr. Varsity,Girls,Div II,Bowness
+1201,1997-98,Diving,Grand Aggregate,Coed,None,Sir Winston Churchill
+1202,1997-98,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+1203,1997-98,Field Hockey,Varsity,Girls,Div I,Henry Wise Wood
+1204,1997-98,Field Hockey,Varsity,Girls,Div II,Queen Elizabeth
+1205,1997-98,Football,Jr. Varsity,Boys,Div I,St. Francis
+1206,1997-98,Football,Jr. Varsity,Boys,Div II,Not Awarded
+1207,1997-98,Football,Sr. Varsity,Boys,Div I,St. Francis
+1208,1997-98,Football,Sr. Varsity,Boys,Div II,Not Awarded
+1209,1997-98,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1210,1997-98,Rugby,Jr. Varsity,Boys,Div II,Not Awarded
+1211,1997-98,Rugby,Sr. Varsity,Boys,Div I,Lord Beaverbrook
+1212,1997-98,Rugby,Sr. Varsity,Boys,Div II,Bishop Carroll
+1213,1997-98,Rugby,Varisty,Girls,None,Lord Beaverbrook
+1214,1997-98,Soccer,Varsity,Boys,Div I,Henry Wise Wood
+1215,1997-98,Soccer,Varsity,Boys,Div II,Crescent Heights
+1216,1997-98,Swimming,Grand Aggregate,Coed,None,Bishop Carroll
+1217,1997-98,Volleyball,Jr. Varsity,Boys,Div I,St. Francis
+1218,1997-98,Volleyball,Jr. Varsity,Boys,Div II,Not Awarded
+1219,1997-98,Volleyball,Jr. Varsity,Girls,Div I,Bishop Carroll
+1220,1997-98,Volleyball,Jr. Varsity,Girls,Div II,Bishop Carroll
+1221,1997-98,Volleyball,Sr. Varsity,Boys,Div I,St. Francis
+1222,1997-98,Volleyball,Sr. Varsity,Boys,Div II,Not Awarded
+1223,1997-98,Volleyball,Sr. Varsity,Girls,Div I,St. Francis
+1224,1997-98,Volleyball,Sr. Varsity,Girls,Div II,Not Awarded
+1225,1997-98,Wrestling,Sr. Varsity,Boys,None,Sir Winston Churchill
+1226,1997-98,Wrestling,Sr. Varsity,Girls,None,Sir Winston Churchill
+1227,1998-99,Badminton,Aggregate,Coed,Div I,Sir Winston Churchill
+1228,1998-99,Badminton,Aggregate,Coed,Div II,William Aberhart
+1229,1998-99,Basketball,Jr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1230,1998-99,Basketball,Jr. Varsity,Boys,Div II,Central Memorial
+1231,1998-99,Basketball,Jr. Varsity,Girls,Div I,Sir Winston Churchill
+1232,1998-99,Basketball,Jr. Varsity,Girls,Div II,Crescent Heights
+1233,1998-99,Basketball,Sr. Varsity,Boys,Div I,William Aberhart
+1234,1998-99,Basketball,Sr. Varsity,Boys,Div II,Central Memorial
+1235,1998-99,Basketball,Sr. Varsity,Girls,Div I,Dr. E.P. Scarlett
+1236,1998-99,Basketball,Sr. Varsity,Girls,Div II,Bishop Carroll
+1237,1998-99,Diving,Grand Aggregate,Coed,None,St. Francis
+1238,1998-99,Field Hockey,Jr. Varsity,Girls,None,Henry Wise Wood
+1239,1998-99,Field Hockey,Varsity,Girls,Div I,Sir Winston Churchill
+1240,1998-99,Field Hockey,Varsity,Girls,Div II,Bowness
+1241,1998-99,Football,Jr. Varsity,Boys,Div I,Sir Winston Churchill
+1242,1998-99,Football,Jr. Varsity,Boys,Div II,St. Mary's
+1243,1998-99,Football,Sr. Varsity,Boys,Div I,St. Francis
+1244,1998-99,Football,Sr. Varsity,Boys,Div II,Bishop Carroll
+1245,1998-99,Rugby,Jr. Varsity,Boys,Div I,Henry Wise Wood
+1246,1998-99,Rugby,Jr. Varsity,Boys,Div II,Not Awarded
+1247,1998-99,Rugby,Sr. Varsity,Boys,Div I,St. Francis
+1248,1998-99,Rugby,Sr. Varsity,Boys,Div II,Bishop Carroll
+1249,1998-99,Rugby,Varisty,Girls,None,Bishop Carroll
+1250,1998-99,Soccer,Varsity,Boys,Div I,Bishop McNally
+1251,1998-99,Soccer,Varsity,Boys,Div II,Crescent Heights
+1252,1998-99,Soccer,Varsity,Girls,Div I,Bishop Carroll
+1253,1998-99,Swimming,Grand Aggregate,Coed,None,Bishop Carroll
+1254,1998-99,Track and Field,Sr. Varsity,Boys,None,Western Canada
+1255,1998-99,Volleyball,Jr. Varsity,Boys,Div I,Bishop Grandin
+1256,1998-99,Volleyball,Jr. Varsity,Boys,Div II,St. Mary's
+1257,1998-99,Volleyball,Jr. Varsity,Girls,Div I,St. Mary's
+1258,1998-99,Volleyball,Jr. Varsity,Girls,Div II,Lord Beaverbrook
+1259,1998-99,Volleyball,Sr. Varsity,Boys,Div I,Dr. E.P. Scarlett
+1260,1998-99,Volleyball,Sr. Varsity,Boys,Div II,Bowness
+1261,1998-99,Volleyball,Sr. Varsity,Girls,Div I,Sir Winston Churchill
+1262,1998-99,Volleyball,Sr. Varsity,Girls,Div II,Central Memorial
+1263,1998-99,Wrestling,Sr. Varsity,Boys,None,Sir Winston Churchill
+1264,1998-99,Wrestling,Sr. Varsity,Girls,None,Lord Beaverbrook
+1265,1999-00,FOOTBALL,,,- Jr. Boys Div. I,James Fowler
+1266,1999-00,FOOTBALL,,,- Jr. Boys Div. II,John G. Diefenbaker
+1267,1999-00,FOOTBALL,,,- Sr. Boys Div. I,William Aberhart
+1268,1999-00,FOOTBALL,,,- Sr. Boys Div. II,Bowness
+1269,1999-00,GIRLS SOCCER,,,,Lord Beaverbrook
+1270,1999-00,CROSS COUNTRY,,,,Western Canada
+1271,1999-00,VOLLEYBALL,,,- Jr. Girls Div. I,Dr. E. P. Scarlett
+1272,1999-00,VOLLEYBALL,,,- Jr. Boys Div. I,William Aberhart
+1273,1999-00,VOLLEYBALL,,,- Sr. Girls Div. I,Sir Winston Churchill
+1274,1999-00,VOLLEYBALL,,,- Sr. Boys Div. I,Dr. E. P. Scarlett
+1275,1999-00,VOLLEYBALL,,,- Jr. Girls Div. II,William Aberhart
+1276,1999-00,VOLLEYBALL,,,- Jr. Boys Div. II,John G. Diefenbaker
+1277,1999-00,VOLLEYBALL,,,- Sr. Girls Div. II,Central Memorial
+1278,1999-00,VOLLEYBALL,,,- Sr. Boys Div. II,Lord Beaverbrook
+1279,1999-00,BADMINTON,,,,Sir Winston Churchill
+1280,1999-00,SWIMMING,,,,Bishop Carroll
+1281,1999-00,DIVING,,,,St. Francis
+1282,1999-00,WRESTLING,,,Boys,Bishop Grandin
+1283,1999-00,WRESTLING,,,Girls,Crescent Heights
+1284,1999-00,BASKETBALL,,,- Jr. Girls Div. I,Dr. E. P. Scarlett
+1285,1999-00,BASKETBALL,,,- Jr. Boys Div. I,Dr. E. P. Scarlett
+1286,1999-00,BASKETBALL,,,- Sr. Girls Div. I,Dr. E. P. Scarlett
+1287,1999-00,BASKETBALL,,,- Sr. Boys Div. I,William Aberhart
+1288,1999-00,BASKETBALL,,,- Jr. Girls Div. II,Bowness
+1289,1999-00,BASKETBALL,,,- Jr. Boys Div. II,Bishop McNally
+1290,1999-00,BASKETBALL,,,- Sr. Girls Div. II,Bishop Carroll
+1291,1999-00,BASKETBALL,,,- Sr. Boys Div. II,Central Memorial
+1292,1999-00,BOYS SOCCER,,,- Division I,Crescent Heights
+1293,1999-00,BOYS SOCCER,,,- Division II,Lester B. Pearson
+1294,1999-00,FIELD HOCKEY,,,- Junior Girls,Henry Wise Wood
+1295,1999-00,FIELD HOCKEY,,,- Sr. Div. II,John G. Diefenbaker
+1296,1999-00,FIELD HOCKEY,,,- Sr. Div. I,Henry Wise Wood
+1297,1999-00,RUGBY,,,- Girls,Lester B. Pearson
+1298,1999-00,RUGBY,,,- Jr. Boys Div. I,Henry Wise Wood
+1299,1999-00,RUGBY,,,- Jr. Boys Div. II,John G. Diefenbaker
+1300,1999-00,RUGBY,,,- Sr. Boys Div. I,Lester B. Pearson
+1301,1999-00,RUGBY,,,- Sr. Boys Div. II,Bowness
+1302,2000-01,FOOTBALL,,,- Jr. Boys Div. I,William Aberhart
+1303,2000-01,FOOTBALL,,,- Jr. Boys Div. II,Henry Wise Wood
+1304,2000-01,FOOTBALL,,,- Sr. Boys Div. I,Western Canada
+1305,2000-01,FOOTBALL,,,- Sr. Boys Div. II,Bowness
+1306,2000-01,GIRLS SOCCER,,,- Div. I,Lord Beaverbrook
+1307,2000-01,GIRLS SOCCER,,,- Div. II,Father Lacombe
+1308,2000-01,CROSS COUNTRY,,,,Western Canada
+1309,2000-01,VOLLEYBALL,,,- Jr. Girls Div. I,Dr. E. P. Scarlett
+1310,2000-01,VOLLEYBALL,,,- Jr. Girls Div. II,John G. Diefenbaker
+1311,2000-01,VOLLEYBALL,,,- Jr. Boys Div. I,Sir Winston Churchill
+1312,2000-01,VOLLEYBALL,,,- Jr. Boys Div. II,Father Lacombe
+1313,2000-01,VOLLEYBALL,,,- Sr. Girls Div. I,St. Mary's
+1314,2000-01,VOLLEYBALL,,,- Sr. Girls Div. II,Crescent Heights
+1315,2000-01,VOLLEYBALL,,,- Sr. Boys Div. I,Dr. E. P. Scarlett
+1316,2000-01,VOLLEYBALL,,,- Sr. Boys Div. II,Central Memorial
+1317,2000-01,BADMINTON,,,,Sir Winston Churchill
+1318,2000-01,SWIMMING,,,,Bishop Carroll
+1319,2000-01,DIVING,,,,St. Francis
+1320,2000-01,BASKETBALL,,,- Jr. Girls Div. I,Dr. E. P. Scarlett
+1321,2000-01,BASKETBALL,,,- Jr. Girls Div. II,Father Lacombe
+1322,2000-01,BASKETBALL,,,- Jr. Boys Div. I,St. Francis
+1323,2000-01,BASKETBALL,,,- Jr. Boys Div. II,Bishop McNally
+1324,2000-01,BASKETBALL,,,- Sr. Girls Div. I,St. Mary's
+1325,2000-01,BASKETBALL,,,- Sr. Girls Div. II,Crescent Heights
+1326,2000-01,BASKETBALL,,,- Sr. Boys Div. I,William Aberhart
+1327,2000-01,BASKETBALL,,,- Sr. Boys Div. II,John G. Diefenbaker
+1328,2000-01,WRESTLING,,,,Sir Winston Churchill
+1329,2000-01,BOYS SOCCER,,,- Div. I,William Aberhart
+1330,2000-01,BOYS SOCCER,,,- Div. II,Dr. E. P. Scarlett
+1331,2000-01,FIELD HOCKEY,,,- Jr. Girls,Lord Beaverbrook
+1332,2000-01,FIELD HOCKEY,,,- Sr. Girls Div. I,Henry Wise Wood
+1333,2000-01,FIELD HOCKEY,,,- Girls Div. II,Bowness
+1334,2000-01,RUGBY,,,- Girls,Lester B. Pearson
+1335,2000-01,RUGBY,,,- Jr. Boys Div. I,Henry Wise Wood
+1336,2000-01,RUGBY,,,- Jr. Boys Div. II,John G. Diefenbaker
+1337,2000-01,RUGBY,,,- Sr. Boys Div. I,Western Canada
+1338,2000-01,RUGBY,,,- Sr. Boys Div. II,Bowness
+1339,2001-02,FOOTBALL,,,- Jr. Boys Div. 1,Sir Winston Churchill
+1340,2001-02,FOOTBALL,,,- Jr. Boys Div. 2,Central Memorial
+1341,2001-02,FOOTBALL,,,- Sr. Boys Div. 1,Henry Wise Wood
+1342,2001-02,FOOTBALL,,,- Sr. Boys Div. 2,Bishop McNally
+1343,2001-02,GIRLS SOCCER,,,- Div. 1,Lord Beaverbrook
+1344,2001-02,GIRLS SOCCER,,,- Div. 2,Bishop O'Byrne
+1345,2001-02,CROSS COUNTRY,,,,Western Canada
+1346,2001-02,VOLLEYBALL,,,- Jr. Girls Div. 1,Dr. E. P. Scarlett
+1347,2001-02,VOLLEYBALL,,,- Jr. Girls Div. 2,Bishop O'Byrne
+1348,2001-02,VOLLEYBALL,,,- Jr. Boys Div. 1,Dr. E.P. Scarlett
+1349,2001-02,VOLLEYBALL,,,- Jr. Boys Div. 2,Father Lacombe
+1350,2001-02,VOLLEYBALL,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1351,2001-02,VOLLEYBALL,,,- Sr. Girls Div. 2,Crescent Heights
+1352,2001-02,VOLLEYBALL,,,- Sr. Boys Div. 1,Sir Winston Churchill
+1353,2001-02,VOLLEYBALL,,,- Sr. Boys Div. 2,Queen Elizabeth
+1354,2001-02,BADMINTON,,,,Western Canada
+1355,2001-02,SWIMMING,,,,Henry Wise Wood
+1356,2001-02,DIVING,,,,Dr. E.P. Scarlett
+1357,2001-02,BASKETBALL,,,- Jr. Girls Div. 1,Sir Winston Churchill
+1358,2001-02,BASKETBALL,,,- Jr. Girls Div. 2,Bishop Carroll
+1359,2001-02,BASKETBALL,,,- Jr. Boys Div. 1,St. Mary's
+1360,2001-02,BASKETBALL,,,- Jr. Boys Div. 2,Bishop O'Byrne
+1361,2001-02,BASKETBALL,,,- Sr. Girls Div. 1,Dr. E.P. Scarlett
+1362,2001-02,BASKETBALL,,,- Sr. Girls Div. 2,Central Memorial
+1363,2001-02,BASKETBALL,,,- Sr. Boys Div. 1,Lester B. Pearson
+1364,2001-02,BASKETBALL,,,- Sr. Boys Div. 2,Father Lacombe
+1365,2001-02,WRESTLING,,,- Male,John Diefenbaker
+1366,2001-02,WRESTLING,,,- Female,William Aberhart
+1367,2001-02,BOYS SOCCER,,,- Division 1,Not held due to labour unrest
+1368,2001-02,FIELD HOCKEY,,,- Jr. Girls,Not held due to labour unrest
+1369,2001-02,FIELD HOCKEY,,,- Sr. Girls Div. 1,Not held due to labour unrest
+1370,2001-02,FIELD HOCKEY,,,- Jr. Girls,Not held due to labour unrest
+1371,2001-02,FIELD HOCKEY,,,- Sr. Girls Div. 1,Not held due to labour unrest
+1372,2001-02,FIELD HOCKEY,,,- Sr. Girls Div. 2,Not held due to labour unrest
+1373,2001-02,RUGBY,,,- Girls,Not held due to labour unrest
+1374,2001-02,RUGBY,,,- Jr. Boys Div. 1,Not held due to labour unrest
+1375,2001-02,RUGBY,,,- Jr. Boys Div. 2,Not held due to labour unrest
+1376,2001-02,RUGBY,,,- Sr. Boys Div. 1,Not held due to labour unrest
+1377,2001-02,RUGBY,,,- Sr. Boys Div. 2,Not held due to labour unrest
+1378,2001-02,TRACK & FIELD ,,,,Not held due to labour unrest
+1379,2002-03,FOOTBALL,,,- Jr. Boys Div. 1,St. Francis
+1380,2002-03,FOOTBALL,,,- Jr. Boys Div. 2,Bishop Grandin
+1381,2002-03,FOOTBALL,,,- Sr. Boys Div. 1,St. Francis
+1382,2002-03,FOOTBALL,,,- Sr. Boys Div. 2,Bowness
+1383,2002-03,FOOTBALL,,,- Sr. Boys Div 3,Bishop Carroll
+1384,2002-03,GIRLS SOCCER,,,- Div. 1,Western Canada
+1385,2002-03,GIRLS SOCCER,,,- Div. 2,St. Francis
+1386,2002-03,CROSS COUNTRY,,,,Western Canada
+1387,2002-03,VOLLEYBALL,,,- Jr. Girls Div. 1,Western Canada
+1388,2002-03,VOLLEYBALL,,,- Jr. Girls Div. 2,John Diefenbaker
+1389,2002-03,VOLLEYBALL,,,- Jr. Boys Div. 1,Lord Beaverbrook
+1390,2002-03,VOLLEYBALL,,,- Jr. Boys Div. 2,St. Mary's
+1391,2002-03,VOLLEYBALL,,,- Sr. Girls Div. 1,Dr. E.P. Scarlett
+1392,2002-03,VOLLEYBALL,,,- Sr. Girls Div. 2,John Diefenbaker
+1393,2002-03,VOLLEYBALL,,,- Sr. Boys Div. 1,Sir Winston Churchill
+1394,2002-03,VOLLEYBALL,,,- Sr. Boys Div. 2,Bishop Carroll
+1395,2002-03,WRESTLING,,,- Male,John G. Diefenbaker
+1396,2002-03,WRESTLING,,,- Female,Sir Winston Churchill
+1397,2002-03,BADMINTON,,,Division I,Western Canada
+1398,2002-03,BADMINTON,,,Division II,Forest Lawn
+1399,2002-03,BADMINTON,,,‘A’ Level,Western Canada
+1400,2002-03,SWIMMING,,,,Bishop Carroll
+1401,2002-03,DIVING,,,,Dr. E.P. Scarlett
+1402,2002-03,BASKETBALL,,,- Jr. Girls Div. 1,Dr. E.P. Scarlett
+1403,2002-03,BASKETBALL,,,- Jr. Girls Div. 2,Bowness
+1404,2002-03,BASKETBALL,,,- Jr. Boys Div. 1,Lord Beaverbrook
+1405,2002-03,BASKETBALL,,,- Jr. Boys Div. 2,Father Lacombe
+1406,2002-03,BASKETBALL,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1407,2002-03,BASKETBALL,,,- Sr. Girls Div. 2,Father Lacombe
+1408,2002-03,BASKETBALL,,,- Sr. Boys Div. 1,Dr. E.P. Scarlett
+1409,2002-03,BASKETBALL,,,- Sr. Boys Div. 2,Ernest Manning
+1410,2002-03,BOYS SOCCER,,,- Division 1,William Aberhart
+1411,2002-03,BOYS SOCCER,,,- Division 2,Father Lacombe
+1412,2002-03,FIELD HOCKEY,,,- Jr. Girls,Sir Winston Churchill
+1413,2002-03,FIELD HOCKEY,,,- Sr. Girls Div. 1,Western Canada
+1414,2002-03,FIELD HOCKEY,,,- Sr. Girls Div. 2,John Diefenbaker
+1415,2002-03,RUGBY,,,- Girls,St. Francis
+1416,2002-03,RUGBY,,,- Jr. Boys ,Henry Wise Wood
+1417,2002-03,RUGBY,,,- Sr. Boys Div. 1,Henry Wise Wood
+1418,2002-03,RUGBY,,,- Sr. Boys Div. 2,Central Memorial
+1419,2002-03,TRACK & FIELD,,,,Dr. E.P. Scarlett
+1420,2003-04,CROSS COUNTRY,,,,Western Canada
+1421,2003-04,GIRLS SOCCER,,,- Div. 1,Lord Beaverbrook
+1422,2003-04,GIRLS SOCCER,,,- Div. 2,Central Memorial
+1423,2003-04,FOOTBALL,,,- Jr. Boys Div. 1,St. Francis
+1424,2003-04,FOOTBALL,,,- Jr. Boys Div. 2,Central Memorial
+1425,2003-04,FOOTBALL,,,- Jr. Boys Div 3,Bishop Grandin
+1426,2003-04,FOOTBALL,,,- Sr. Boys Div. 1,St. Francis
+1427,2003-04,FOOTBALL,,,- Sr. Boys Div. 2,Lord Beaverbrook
+1428,2003-04,FOOTBALL,,,- Sr. Boys Div 3,Bishop Grandin
+1429,2003-04,VOLLEYBALL,,,- Jr. Girls Div. 1,Dr. E.P. Scarlett
+1430,2003-04,VOLLEYBALL,,,- Jr. Girls Div. 2,John Diefenbaker
+1431,2003-04,VOLLEYBALL,,,- Jr. Boys Div. 1,Dr. E.P. Scarlett
+1432,2003-04,VOLLEYBALL,,,- Jr. Boys Div. 2,John Diefenbaker
+1433,2003-04,VOLLEYBALL,,,- Sr. Girls Div. 1,Lord Beaverbrook
+1434,2003-04,VOLLEYBALL,,,- Sr. Girls Div. 2,John Diefenbaker
+1435,2003-04,VOLLEYBALL,,,- Sr. Boys Div. 1,Lord Beaverbrook
+1436,2003-04,VOLLEYBALL,,,- Sr. Boys Div. 2,Bishop Carroll
+1437,2003-04,WRESTLING,,,- Male,Sir Winston Churchill
+1438,2003-04,WRESTLING,,,- Female,Sir Winston Churchill
+1439,2003-04,BADMINTON,,,Division I,Sir Winston Churchill
+1440,2003-04,BADMINTON,,,Division II,St. Mary’s
+1441,2003-04,BADMINTON,,,‘A’ Level,Western Canada
+1442,2003-04,SWIMMING,,,,Bishop Carroll
+1443,2003-04,DIVING,,,,Bishop Carroll
+1444,2003-04,BASKETBALL,,,- Jr. Girls Div. 1,Dr. E.P. Scarlett
+1445,2003-04,BASKETBALL,,,- Jr. Girls Div. 2,Bishop O’Byrne
+1446,2003-04,BASKETBALL,,,- Jr. Boys Div. 1,St. Francis
+1447,2003-04,BASKETBALL,,,- Jr. Boys Div. 2,John Diefenbaker
+1448,2003-04,BASKETBALL,,,- Sr. Girls Div. 1,Dr. E.P. Scarlett
+1449,2003-04,BASKETBALL,,,- Sr. Girls Div. 2,Crescent Heights
+1450,2003-04,BASKETBALL,,,- Sr. Boys Div. 1,St. Mary’s
+1451,2003-04,BASKETBALL,,,- Sr. Boys Div. 2,Bowness
+1452,2003-04,BOYS SOCCER,,,- Division 1,St. Francis
+1453,2003-04,BOYS SOCCER,,,- Division 2 ,Central Memorial
+1454,2003-04,FIELD HOCKEY,,,- Jr. Girls,Dr. E.P. Scarlett
+1455,2003-04,FIELD HOCKEY,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1456,2003-04,FIELD HOCKEY,,,- Sr. Girls Div. 2,John Diefenbaker
+1457,2003-04,RUGBY,,,- Girls,Bishop Carroll
+1458,2003-04,RUGBY,,,- Jr. Boys ,Bowness
+1459,2003-04,RUGBY,,,- Sr. Boys Div. 1,Bowness
+1460,2003-04,RUGBY,,,- Sr. Boys Div. 2,Bishop O’Byrne
+1461,2003-04,TRACK & FIELD,,,,Dr. E.P. Scarlett
+1462,2004-05,CROSS COUNTRY,,,,Western Canada
+1463,2004-05,GIRLS SOCCER,,,- Div. 1,Henry Wise Wood
+1464,2004-05,GIRLS SOCCER,,,- Div. 2,Bishop Carroll
+1465,2004-05,FOOTBALL,,,- Jr. Boys Div. 1,St. Francis
+1466,2004-05,FOOTBALL,,,- Jr. Boys Div. 2,Bishop Grandin
+1467,2004-05,FOOTBALL,,,- Jr. Boys Div 3,Centennial
+1468,2004-05,FOOTBALL,,,- Sr. Boys Div. 1,St. Francis
+1469,2004-05,FOOTBALL,,,- Sr. Boys Div. 2,St. Mary’s
+1470,2004-05,FOOTBALL,,,- Sr. Boys Div 3,Bishop O’Byrne
+1471,2004-05,VOLLEYBALL,,,- Jr. Girls Div. 1,Dr. E.P. Scarlett
+1472,2004-05,VOLLEYBALL,,,- Jr. Girls Div. 2,Queen Elizabeth
+1473,2004-05,VOLLEYBALL,,,- Jr. Boys Div. 1,Sir Winston Churchill
+1474,2004-05,VOLLEYBALL,,,- Jr. Boys Div. 2,John G. Diefenbaker
+1475,2004-05,VOLLEYBALL,,,- Sr. Girls Div. 1,Western Canada
+1476,2004-05,VOLLEYBALL,,,- Sr. Girls Div. 2,Ernest Manning
+1477,2004-05,VOLLEYBALL,,,- Sr. Boys Div. 1,Lord Beaverbrook
+1478,2004-05,VOLLEYBALL,,,- Sr. Boys Div. 2,Lester B. Pearson
+1479,2004-05,WRESTLING,,,- Male,John Diefenbaker
+1480,2004-05,WRESTLING,,,- Female,William Aberhart
+1481,2004-05,BADMINTON,,,Division I,Western Canada
+1482,2004-05,BADMINTON,,,Division II,St. Mary’s
+1483,2004-05,BADMINTON,,,‘A’ Level,Western Canada
+1484,2004-05,SWIMMING,,,,Bishop Carroll
+1485,2004-05,DIVING,,,,Bishop Carroll
+1486,2004-05,BASKETBALL,,,- Jr. Girls Div. 1,Dr. E.P. Scarlett
+1487,2004-05,BASKETBALL,,,- Jr. Girls Div. 2,Bishop O’Byrne
+1488,2004-05,BASKETBALL,,,- Jr. Girls Div. 3,Bishop McNally
+1489,2004-05,BASKETBALL,,,- Jr. Boys Div. 1,Western Canada
+1490,2004-05,BASKETBALL,,,- Jr. Boys Div. 2,John Diefenbaker
+1491,2004-05,BASKETBALL,,,- Jr. Boys Div. 3,Bishop Carroll
+1492,2004-05,BASKETBALL,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1493,2004-05,BASKETBALL,,,- Sr. Girls Div. 2,William Aberhart
+1494,2004-05,BASKETBALL,,,- Sr. Girls Div. 3,James Fowler
+1495,2004-05,BASKETBALL,,,- Sr. Boys Div. 1,Lord Beaverbrook
+1496,2004-05,BASKETBALL,,,- Sr. Boys Div. 2,Father Lacombe
+1497,2004-05,BASKETBALL,,,- Sr. Boys Div. 3,James Fowler
+1498,2004-05,BOYS SOCCER,,,- Division 1,Dr. E.P. Scarlett
+1499,2004-05,BOYS SOCCER,,,- Division 2,Crescent Heights
+1500,2004-05,FIELD HOCKEY,,,- Jr. Girls,Bowness
+1501,2004-05,FIELD HOCKEY,,,- Sr. Girls Div. 1,Western Canada
+1502,2004-05,FIELD HOCKEY,,,- Sr. Girls Div. 2,John Diefenbaker
+1503,2004-05,RUGBY,,,- Girls Div. 1,William Aberhart
+1504,2004-05,RUGBY,,,- Girls Div. 2,James Fowler
+1505,2004-05,RUGBY,,,- Jr. Boys ,Lord Beaverbrook
+1506,2004-05,RUGBY,,,- Sr. Boys Div. 1,Bowness
+1507,2004-05,RUGBY,,,- Sr. Boys Div. 2,Queen Elizabeth
+1508,2004-05,TRACK & FIELD,,,,Dr. E.P. Scarlett
+1509,2005-06,CROSS COUNTRY,,,,Western Canada
+1510,2005-06,GIRLS SOCCER,,,- Div. 1,Western Canada
+1511,2005-06,GIRLS SOCCER,,,- Div. 2,Centennial
+1512,2005-06,FOOTBALL,,,- Jr. Boys Div. 1,Henry Wise Wood
+1513,2005-06,FOOTBALL,,,- Jr. Boys Div. 2,Central Memorial
+1514,2005-06,FOOTBALL,,,- Jr. Boys Div 3,Centennial
+1515,2005-06,FOOTBALL,,,- Sr. Boys Div. 1,St. Francis
+1516,2005-06,FOOTBALL,,,- Sr. Boys Div. 2,St. Mary’s
+1517,2005-06,FOOTBALL,,,- Sr. Boys Div 3,James Fowler
+1518,2005-06,VOLLEYBALL,,,- Jr. Girls Div. 1,Sir Winston Churchill
+1519,2005-06,VOLLEYBALL,,,- Jr. Girls Div. 2,Bishop Grandin
+1520,2005-06,VOLLEYBALL,,,- Jr. Boys Div. 1,Western Canada
+1521,2005-06,VOLLEYBALL,,,- Jr. Boys Div. 2,Bowness
+1522,2005-06,VOLLEYBALL,,,- Sr. Girls Div. 1,Lord Beaverbrook
+1523,2005-06,VOLLEYBALL,,,- Sr. Girls Div. 2,Bishop Grandin
+1524,2005-06,VOLLEYBALL,,,- Sr. Boys Div. 1,Western Canada
+1525,2005-06,VOLLEYBALL,,,- Sr. Boys Div. 2,Father Lacombe
+1526,2005-06,WRESTLING,,,- Male,John Diefenbaker
+1527,2005-06,WRESTLING,,,- Female,William Aberhart
+1528,2005-06,BADMINTON,,,Division I,Sir Winston Churchill
+1529,2005-06,BADMINTON,,,Division II,John G. Diefenbaker
+1530,2005-06,BADMINTON,,,Division III,Father Lacombe
+1531,2005-06,BADMINTON,,,‘A’ Level,Western Canada
+1532,2005-06,SWIMMING,,,,Bishop Carroll
+1533,2005-06,DIVING,,,,William Aberhart
+1534,2005-06,BASKETBALL,,,- Jr. Girls Div. 1,Sir Winston Churchill
+1535,2005-06,BASKETBALL,,,- Jr. Girls Div. 2,Henry Wise Wood
+1536,2005-06,BASKETBALL,,,- Jr. Girls Div. 3,Centennial
+1537,2005-06,BASKETBALL,,,- Jr. Boys Div. 1,Lord Beaverbrook
+1538,2005-06,BASKETBALL,,,- Jr. Boys Div. 2,Bishop O’Byrne
+1539,2005-06,BASKETBALL,,,- Jr. Boys Div. 3,Centennial
+1540,2005-06,BASKETBALL,,,- Sr. Girls Div. 1,Dr. E.P. Scarlett
+1541,2005-06,BASKETBALL,,,- Sr. Girls Div. 2,Bishop O’Byrne
+1542,2005-06,BASKETBALL,,,- Sr. Girls Div. 3,Crescent Heights
+1543,2005-06,BASKETBALL,,,- Sr. Boys Div. 1,Bishop Grandin
+1544,2005-06,BASKETBALL,,,- Sr. Boys Div. 2,William Aberhart
+1545,2005-06,BASKETBALL,,,- Sr. Boys Div. 3,Centennial
+1546,2005-06,BOYS SOCCER,,,- Division 1,Bishop Grandin
+1547,2005-06,BOYS SOCCER,,,- Division 2,Crescent Heights
+1548,2005-06,FIELD HOCKEY,,,- Juniors,Sir Winston Churchill
+1549,2005-06,FIELD HOCKEY,,,- Sr. Girls Div. 1,Western Canada
+1550,2005-06,FIELD HOCKEY,,,- Sr. Girls Div. 2,Central Memorial
+1551,2005-06,RUGBY,,,- Girls Div. 1,John Diefenbaker
+1552,2005-06,RUGBY,,,- Girls Div. 2,Bishop Grandin
+1553,2005-06,RUGBY,,,- Jr. Boys ,Henry Wise Wood
+1554,2005-06,RUGBY,,,- Sr. Boys Div. 1,Bowness
+1555,2005-06,RUGBY,,,- Sr. Boys Div. 2,Sir Winston Churchill
+1556,2005-06,TRACK & FIELD,,,,Dr. E.P. Scarlett
+1557,2006-07,CROSS COUNTRY,,,,Western Canada
+1558,2006-07,GIRLS SOCCER,,,- Div. 1,Western Canada
+1559,2006-07,GIRLS SOCCER,,,- Div. 2,Bishop O’Byrne
+1560,2006-07,GIRLS SOCCER,,,- Div. 3,Crescent Heights
+1561,2006-07,FOOTBALL,,,- Jr. Boys Div. 1,Henry Wise Wood
+1562,2006-07,FOOTBALL,,,- Jr. Boys Div. 2,Bishop Grandin
+1563,2006-07,FOOTBALL,,,- Jr. Boys Div. 3,Dr. E.P. Scarlett
+1564,2006-07,FOOTBALL,,,- Sr. Boys Div. 1,Henry Wise Wood
+1565,2006-07,FOOTBALL,,,- Sr. Boys Div. 2,Centennial
+1566,2006-07,FOOTBALL,,,- Sr. Boys Div. 3,Ernest Manning
+1567,2006-07,VOLLEYBALL,,,- Jr. Girls Div. 1,Western Canada
+1568,2006-07,VOLLEYBALL,,,- Jr. Girls Div. 2,Centennial
+1569,2006-07,VOLLEYBALL,,,- Jr. Girls Div. 3,St. Gabriel
+1570,2006-07,VOLLEYBALL,,,- Jr. Boys Div. 1,William Aberhart
+1571,2006-07,VOLLEYBALL,,,- Jr. Boys Div. 2,Bowness
+1572,2006-07,VOLLEYBALL,,,- Jr. Boys Div. 3,Queen Elizabeth
+1573,2006-07,VOLLEYBALL,,,- Sr. Girls Div. 1,Western Canada
+1574,2006-07,VOLLEYBALL,,,- Sr. Girls Div. 2,Central Memorial
+1575,2006-07,VOLLEYBALL,,,- Sr. Girls Div. 3,Lester B. Pearson
+1576,2006-07,VOLLEYBALL,,,- Sr. Boys Div. 1,Western Canada
+1577,2006-07,VOLLEYBALL,,,- Sr. Boys Div. 2,Bishop Carroll
+1578,2006-07,VOLLEYBALL,,,- Sr. Boys Div. 3,Bishop Grandin
+1579,2006-07,WRESTLING,,,- Male,John G. Diefenbaker
+1580,2006-07,WRESTLING,,,- Female,William Aberhart
+1581,2006-07,BADMINTON,,,Division I,TIE -- Sir Winston Churchill/William Aberhart
+1582,2006-07,BADMINTON,,,Division II,Forest Lawn
+1583,2006-07,BADMINTON,,,Division III,Bowness
+1584,2006-07,BADMINTON,,,‘A’ Level,Western Canada
+1585,2006-07,SWIMMING,,,Team Aggregate,Dr. E.P. Scarlett
+1586,2006-07,DIVING,,,Team Aggregate,William Aberhart
+1587,2006-07,BASKETBALL,,,- Jr. Girls Div. 1,Western Canada
+1588,2006-07,BASKETBALL,,,- Jr. Girls Div. 2,Lord Beaverbrook
+1589,2006-07,BASKETBALL,,,- Jr. Girls Div. 3,Queen Elizabeth
+1590,2006-07,BASKETBALL,,,- Jr. Boys Div. 1,Centennial
+1591,2006-07,BASKETBALL,,,- Jr. Boys Div. 2,St. Mary’s
+1592,2006-07,BASKETBALL,,,- Jr. Boys Div. 3,Father Lacombe
+1593,2006-07,BASKETBALL,,,- Sr. Girls Div. 1,Dr. E.P. Scarlett
+1594,2006-07,BASKETBALL,,,- Sr. Girls Div. 2,Henry Wise Wood
+1595,2006-07,BASKETBALL,,,- Sr. Girls Div. 3,Crescent Heights
+1596,2006-07,BASKETBALL,,,- Sr. Boys Div. 1,Western Canada
+1597,2006-07,BASKETBALL,,,- Sr. Boys Div. 2,Notre Dame
+1598,2006-07,BASKETBALL,,,- Sr. Boys Div. 3,James Fowler
+1599,2006-07,BOYS SOCCER,,,- Division 1,Bishop Grandin
+1600,2006-07,BOYS SOCCER,,,- Division 2,Crescent Heights
+1601,2006-07,BOYS SOCCER,,,- Division 3,John G. Diefenbaker
+1602,2006-07,FIELD HOCKEY,,,- Juniors,St. Francis
+1603,2006-07,FIELD HOCKEY,,,- Sr. Girls Div. 1,Central Memorial
+1604,2006-07,FIELD HOCKEY,,,- Sr. Girls Div. 2,Notre Dame
+1605,2006-07,FIELD HOCKEY,,,- Sr. Girls Div. 3,Ernest Manning
+1606,2006-07,RUGBY,,,- Girls Div. 1,John G. Diefenbaker
+1607,2006-07,RUGBY,,,- Girls Div. 2,Bishop O’Byrne
+1608,2006-07,RUGBY,,,- Jr. Boys,Bowness
+1609,2006-07,RUGBY,,,- Sr. Boys Div. 1,St. Francis
+1610,2006-07,RUGBY,,,- Sr. Boys Div. 2,St. Mary’s
+1611,2006-07,TRACK & FIELD,,,Team Aggregate,Dr. E.P. Scarlett
+1612,2007-08,CROSS COUNTRY,,,,Western Canada
+1613,2007-08,GIRLS SOCCER,,,- Div. 1,Western Canada
+1614,2007-08,GIRLS SOCCER,,,- Div. 2,Notre Dame
+1615,2007-08,GIRLS SOCCER,,,- Div. 3,Queen Elizabeth
+1616,2007-08,FOOTBALL,,,- Jr. Boys Div. 1,Henry Wise Wood
+1617,2007-08,FOOTBALL,,,- Jr. Boys Div. 2,Central Memorial
+1618,2007-08,FOOTBALL,,,- Jr. Boys Div. 3,Crescent Heights
+1619,2007-08,FOOTBALL,,,- Sr. Boys Div. 1,St. Francis
+1620,2007-08,FOOTBALL,,,- Sr. Boys Div. 2,Notre Dame
+1621,2007-08,FOOTBALL,,,- Sr. Boys Div. 3,Crescent Heights
+1622,2007-08,VOLLEYBALL,,,- Jr. Girls Div. 1,William Aberhart
+1623,2007-08,VOLLEYBALL,,,- Jr. Girls Div. 2,John G. Diefenbaker
+1624,2007-08,VOLLEYBALL,,,-Jr Girls Div. 3,Queen Elizabeth
+1625,2007-08,VOLLEYBALL,,,- Jr. Boys Div. 1,Bishop Grandin
+1626,2007-08,VOLLEYBALL,,,- Jr. Boys Div. 2,Centennial
+1627,2007-08,VOLLEYBALL,,,- Jr Boys Div. 3,Queen Elizabeth
+1628,2007-08,VOLLEYBALL,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1629,2007-08,VOLLEYBALL,,,- Sr. Girls Div. 2,Notre Dame
+1630,2007-08,VOLLEYBALL,,,- Sr. Girls Div. 3,James Fowler
+1631,2007-08,VOLLEYBALL,,,- Sr. Boys Div. 1,St. Francis
+1632,2007-08,VOLLEYBALL,,,- Sr. Boys Div. 2,Ernest Manning
+1633,2007-08,VOLLEYBALL,,,- Sr. Boys Div. 3,Crescent Height
+1634,2007-08,WRESTLING,,,- Male,John G. Diefenbaker
+1635,2007-08,WRESTLING,,,- Female,TIE -- Sir Winston Churchill/William Aberhart
+1636,2007-08,SWIMMING,,,Team Aggregate,Bishop Carroll
+1637,2007-08,DIVING,,,Team Aggregate,Bishop Carroll
+1638,2007-08,BASKETBALL,,,- Jr. Girls Div. 1,St. Francis
+1639,2007-08,BASKETBALL,,,- Jr. Girls Div. 2,Bishop Grandin
+1640,2007-08,BASKETBALL,,,- Jr. Girls Div. 3,Notre Dame
+1641,2007-08,BASKETBALL,,,- Jr. Boys Div. 1,Bishop McNally
+1642,2007-08,BASKETBALL,,,- Jr. Boys Div. 2,Henry Wise Wood
+1643,2007-08,BASKETBALL,,,- Jr. Boys Div. 3,Ernest Manning
+1644,2007-08,BASKETBALL,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1645,2007-08,BASKETBALL,,,- Sr. Girls Div. 2,Bishop Grandin
+1646,2007-08,BASKETBALL,,,- Sr. Girls Div. 3,Forest Lawn
+1647,2007-08,BASKETBALL,,,- Sr. Boys Div. 1,Sir Winston Churchill
+1648,2007-08,BASKETBALL,,,- Sr. Boys Div. 2,Notre Dame
+1649,2007-08,BASKETBALL,,,- Sr. Boys Div. 3,Father Lacombe
+1650,2007-08,BADMINTON,,,Division I,Sir Winston Churchill
+1651,2007-08,BADMINTON,,,Division II,John G. Diefenbaker
+1652,2007-08,BADMINTON,,,Division III,Queen Elizabeth
+1653,2007-08,BOYS SOCCER,,,- Juniors,Sir Winston Churchill
+1654,2007-08,BOYS SOCCER,,,- Division 1,Western Canada
+1655,2007-08,BOYS SOCCER,,,- Division 2,Notre Dame
+1656,2007-08,BOYS SOCCER,,,- Division 3,Bishop O’Byrne
+1657,2007-08,FIELD HOCKEY,,,- Juniors,John G. Diefenbaker
+1658,2007-08,FIELD HOCKEY,,,- Sr. Girls Div. 1,Sir Winston Churchill
+1659,2007-08,FIELD HOCKEY,,,- Sr. Girls Div. 2,St. Mary’s
+1660,2007-08,FIELD HOCKEY,,,- Sr. Girls Div. 3,Ernest Manning
+1661,2007-08,RUGBY,,,- Girls Div. 1,Western Canada
+1662,2007-08,RUGBY,,,- Girls Div. 2,Bowness
+1663,2007-08,RUGBY,,,- Girls Div. 3,Ernest Manning
+1664,2007-08,RUGBY,,,- Jr. Boys,Henry Wise Wood
+1665,2007-08,RUGBY,,,- Sr. Boys Div. 1,Bowness
+1666,2007-08,RUGBY,,,- Sr. Boys Div. 2,St. Mary’s
+1667,2007-08,RUGBY,,,- Sr. Boys Div. 3,Forest Lawn
+1668,2007-08,TRACK & FIELD,,,- Girls Junior,Western Canada
+1669,2007-08,TRACK & FIELD,,,- Girls Intermediate,Dr. E.P. Scarlett
+1670,2007-08,TRACK & FIELD,,,- Girls Senior,Western Canada
+1671,2007-08,TRACK & FIELD,,,- Boys Junior,William Aberhart
+1672,2007-08,TRACK & FIELD,,,- Boys Intermediate,Dr. E.P. Scarlett
+1673,2007-08,TRACK & FIELD,,,- Boys Senior,Dr. E.P. Scarlett
+1674,2008-09,CROSS COUNTRY,,,,Western Canada
+1675,2008-09,GIRLS SOCCER,,,Division I,Bishop Carroll
+1676,2008-09,GIRLS SOCCER,,,Division II,Central Memorial
+1677,2008-09,GIRLS SOCCER,,,Division III,Ernest Manning
+1678,2008-09,FOOTBALL,,,Junior Div I,Bishop O’Byrne
+1679,2008-09,FOOTBALL,,,Junior Div II,John G. Diefenbaker
+1680,2008-09,FOOTBALL,,,Junior Div III,Dr. E.P. Scarlett
+1681,2008-09,FOOTBALL,,,Senior Div I,Henry Wise Wood
+1682,2008-09,FOOTBALL,,,Senior Div II,John G. Diefenbaker
+1683,2008-09,FOOTBALL,,,Senior Div III,Ernest Manning
+1684,2008-09,VOLLEYBALL,,,Junior Girls Div I,Dr. E.P. Scarlett
+1685,2008-09,VOLLEYBALL,,,Junior Girls Div II,St. Mary’s
+1686,2008-09,VOLLEYBALL,,,Junior Girls Div III,Bishop Grandin
+1687,2008-09,VOLLEYBALL,,,Junior Boys Div I,Sir Winston Churchill
+1688,2008-09,VOLLEYBALL,,,Junior Boys Div II,Dr. E.P. Scarlett
+1689,2008-09,VOLLEYBALL,,,Junior Boys Div III,Bishop O’Byrne
+1690,2008-09,VOLLEYBALL,,,Senior Girls Div I,Western Canada
+1691,2008-09,VOLLEYBALL,,,Senior Girls Div II,Bowness
+1692,2008-09,VOLLEYBALL,,,Senior Girls Div III,Notre Dame
+1693,2008-09,VOLLEYBALL,,,Senior Boys Div I,Bowness
+1694,2008-09,VOLLEYBALL,,,Senior Boys Div II,Bishop Grandin
+1695,2008-09,VOLLEYBALL,,,Senior Boys Div III,Bishop O’Byrne
+1696,2008-09,WRESTLING,,,Girls,Sir Winston Churchill
+1697,2008-09,WRESTLING,,,Boys,John G. Diefenbaker
+1698,2008-09,BADMINTON,,,Division I,William Aberhart
+1699,2008-09,BADMINTON,,,Division II,John G. Diefenbaker
+1700,2008-09,BADMINTON,,,Division III,Notre Dame
+1701,2008-09,SWIMMING,,,Team Aggregate,Bishop Carroll
+1702,2008-09,DIVING,,,Team Aggregate,Bishop Carroll
+1703,2008-09,BASKETBALL,,,Junior Girls Div I,Western Canada
+1704,2008-09,BASKETBALL,,,Junior Girls Div II,Bishop O’Byrne
+1705,2008-09,BASKETBALL,,,Junior Girls Div III,Notre Dame
+1706,2008-09,BASKETBALL,,,Junior Boys Div I,Bishop Grandin
+1707,2008-09,BASKETBALL,,,Junior Boys Div II,Dr. E.P. Scarlett
+1708,2008-09,BASKETBALL,,,Junior Boys Div III,Father Lacombe
+1709,2008-09,BASKETBALL,,,Senior Girls Div I,St. Mary’s
+1710,2008-09,BASKETBALL,,,Senior Girls Div II,Bishop O’Byrne
+1711,2008-09,BASKETBALL,,,Senior Girls Div III,Bishop McNally
+1712,2008-09,BASKETBALL,,,Senior Boys Div I,Sir Winston Churchill
+1713,2008-09,BASKETBALL,,,Senior Boys Div II,Bowness
+1714,2008-09,BASKETBALL,,,Senior Boys Div III,Ernest Manning
+1715,2008-09,BOYS SOCCER,,,Junior Division I,Western Canada
+1716,2008-09,BOYS SOCCER,,,Junior Division II,Lester B. Pearson
+1717,2008-09,BOYS SOCCER,,,Senior Division I,Western Canada
+1718,2008-09,BOYS SOCCER,,,Senior Division II,Notre Dame
+1719,2008-09,BOYS SOCCER,,,Senior Division III,Central Memorial
+1720,2008-09,FIELD HOCKEY,,,Junior,Western Canada
+1721,2008-09,FIELD HOCKEY,,,Senior Division I,Western Canada
+1722,2008-09,FIELD HOCKEY,,,Senior Division II,Queen Elizabeth
+1723,2008-09,FIELD HOCKEY,,,Senior Division III,Lester B. Pearson
+1724,2008-09,RUGBY,,,Girls Division I,Western Canada
+1725,2008-09,RUGBY,,,Girls Division II,Sir Winston Churchill
+1726,2008-09,RUGBY,,,Girls Division III,Bishop McNally
+1727,2008-09,RUGBY,,,Junior Boys,Bowness
+1728,2008-09,RUGBY,,,Senior Boys Division I,Bowness
+1729,2008-09,RUGBY,,,Senior Boys Division II,Bishop O’Byrne
+1730,2008-09,RUGBY,,,Senior Boys Division III,Father Lacombe
+1731,2008-09,TRACK & FIELD,,,Junior Girls,Dr. E.P. Scarlett
+1732,2008-09,TRACK & FIELD,,,Intermediate Girls,Dr. E.P. Scarlett
+1733,2008-09,TRACK & FIELD,,,Senior Girls,Dr. E.P. Scarlett
+1734,2008-09,TRACK & FIELD,,,Junior Boys,TIE -- William Aberhart/Western Canada
+1735,2008-09,TRACK & FIELD,,,Intermediate Boys,Centennial
+1736,2008-09,TRACK & FIELD,,,Senior Boys,Crescent Heights
+1737,2009-10,CROSS COUNTRY,,,Junior Girls,Western Canada
+1738,2009-10,CROSS COUNTRY,,,Intermediate Girls,William Aberhart
+1739,2009-10,CROSS COUNTRY,,,Senior Girls,Western Canada
+1740,2009-10,CROSS COUNTRY,,,Junior Boys,Western Canada
+1741,2009-10,CROSS COUNTRY,,,Intermediate Boys,Western Canada
+1742,2009-10,CROSS COUNTRY,,,Senior Boys,Dr. E.P. Scarlett
+1743,2009-10,GIRLS SOCCER,,,Division I,St. Francis
+1744,2009-10,GIRLS SOCCER,,,Division II,Central Memorial
+1745,2009-10,GIRLS SOCCER,,,Division III,Bishop McNally
+1746,2009-10,FOOTBALL,,,Junior Div I,Bishop O’Byrne
+1747,2009-10,FOOTBALL,,,Junior Div II,Bishop Grandin
+1748,2009-10,FOOTBALL,,,Junio Div III,William Aberhart
+1749,2009-10,FOOTBALL,,,Senior Div I,Notre Dame
+1750,2009-10,FOOTBALL,,,Senior Div II,Western Canada
+1751,2009-10,FOOTBALL,,,Senior Div III,William Aberahrt
+1752,2009-10,VOLLEYBALL,,,Junior Girls Div I,Western Canada
+1753,2009-10,VOLLEYBALL,,,Junior Girls Div II,Lord Beaverbrook
+1754,2009-10,VOLLEYBALL,,,Junior Girls Div III,Father Lacombe
+1755,2009-10,VOLLEYBALL,,,Junior Boys Div I,Bishop McNally
+1756,2009-10,VOLLEYBALL,,,Junior Boys Div II,John G. Diefenbaker
+1757,2009-10,VOLLEYBALL,,,Junior Boys Div III,Crescent Heights
+1758,2009-10,VOLLEYBALL,,,Senior Girls Div I,William Aberhart
+1759,2009-10,VOLLEYBALL,,,Senior Girls Div II,Bishop Grandin
+1760,2009-10,VOLLEYBALL,,,Senior Girls Div III,Crescent Heights
+1761,2009-10,VOLLEYBALL,,,Senior Boys Div I,Western Canada
+1762,2009-10,VOLLEYBALL,,,Senior Boys Div II,Lester B. Pearson
+1763,2009-10,VOLLEYBALL,,,Senior Boys Div III,Ernest Manning
+1764,2009-10,WRESTLING,,,Girls,Sir Winston Churchill
+1765,2009-10,WRESTLING,,,Boys,Bowness
+1766,2009-10,BADMINTON,,,Division I,William Aberhart
+1767,2009-10,BADMINTON,,,Division II,Henry Wise Wood
+1768,2009-10,BADMINTON,,,Division III,Queen Elizabeth
+1769,2009-10,BADMINTON,,,A Level,TIE -- Western Canada/Henry Wise Wood
+1770,2009-10,SWIMMING,,,Team Aggregate,Western Canada
+1771,2009-10,DIVING,,,Team Aggregate,Bishop Carroll
+1772,2009-10,BASKETBALL,,,Junior Girls Div I,Western Canada
+1773,2009-10,BASKETBALL,,,Junior Girls Div II,Bishop O`Byrne
+1774,2009-10,BASKETBALL,,,Junior Girls Div III,St. Timothy
+1775,2009-10,BASKETBALL,,,Junior Boys Div I,Bishop McNally
+1776,2009-10,BASKETBALL,,,Junior Boys Div II,John G. Diefenbaker
+1777,2009-10,BASKETBALL,,,Junior Boys Div III,Crescent Heights
+1778,2009-10,BASKETBALL,,,Senior Girls Div I,St. Francis
+1779,2009-10,BASKETBALL,,,Senior Girls Div II,Bishop Grandin
+1780,2009-10,BASKETBALL,,,Senior Girls Div III,Crescent Heights
+1781,2009-10,BASKETBALL,,,Senior Boys Div I,Western Canada
+1782,2009-10,BASKETBALL,,,Senior Boys Div II,Lester B. Pearson
+1783,2009-10,BASKETBALL,,,Senior Boys Div III,Ernest Manning
+1784,2009-10,BOYS SOCCER,,,Junior Div I,Notre Dame
+1785,2009-10,BOYS SOCCER,,,Junior Div II,John G. Diefenbaker
+1786,2009-10,BOYS SOCCER,,,Senior Div I,Bishop Grandin
+1787,2009-10,BOYS SOCCER,,,Senior Div II,John G. Diefenbaker
+1788,2009-10,BOYS SOCCER,,,Senior Div III,Lester B. Pearson
+1789,2009-10,FIELD HOCKEY,,,Junior-,Queen Elizabeth
+1790,2009-10,FIELD HOCKEY,,,Senior Div I,Central Memorial
+1791,2009-10,FIELD HOCKEY,,,Senior Div II,Henry Wise Wood
+1792,2009-10,FIELD HOCKEY,,,Senior Div III,Bishop O’Byrne
+1793,2009-10,RUGBY,,,Girls Div I,Western Canada
+1794,2009-10,RUGBY,,,Girls Div II,Centennial
+1795,2009-10,RUGBY,,,Girls Div III,Lester B. Pearson
+1796,2009-10,RUGBY,,,Junior Boys,Central Memorial
+1797,2009-10,RUGBY,,,Senior Boys Div I,Bowness
+1798,2009-10,RUGBY,,,Senior Boys Div II,Centennial
+1799,2009-10,RUGBY,,,Senior Boys Div III,Ernest Manning
+1800,2009-10,TRACK & FIELD,,,Junior Girls,Dr. E.P. Scarlett
+1801,2009-10,TRACK & FIELD,,,Intermediate Girls,Crescent Heights
+1802,2009-10,TRACK & FIELD,,,Senior Girls,Dr. E.P. Scarlett
+1803,2009-10,TRACK & FIELD,,,Junior Boys,Ernest Manning
+1804,2009-10,TRACK & FIELD,,,Intermediate Boys,William Aberhart
+1805,2009-10,TRACK & FIELD,,,Senior Boys,Western Canada
+1806,2010-11,CROSS COUNTRY,,,Junior Girls,Western Canada
+1807,2010-11,CROSS COUNTRY,,,Intermediate Girls,St. Francis
+1808,2010-11,CROSS COUNTRY,,,Senior Girls,William Aberhart
+1809,2010-11,CROSS COUNTRY,,,Junior Boys,Bishop Carroll
+1810,2010-11,CROSS COUNTRY,,,Intermediate Boys,Sir Winston Churchill
+1811,2010-11,CROSS COUNTRY,,,Senior Boys,Western Canada
+1812,2010-11,GIRLS SOCCER,,,Division I,Bishop Carroll
+1813,2010-11,GIRLS SOCCER,,,Division II,Bishop O’Byrne
+1814,2010-11,GIRLS SOCCER,,,Division III,Ernest Manning
+1815,2010-11,FOOTBALL,,,Junior Div I,Notre Dame
+1816,2010-11,FOOTBALL,,,Junior Div II,Central Memorial
+1817,2010-11,FOOTBALL,,,Junio Div III,St. Mary’s
+1818,2010-11,FOOTBALL,,,Senior Div I,Notre Dame
+1819,2010-11,FOOTBALL,,,Senior Div II,St. Mary’s
+1820,2010-11,FOOTBALL,,,Senior Div III,Dr. E.P. Scarlett
+1821,2010-11,VOLLEYBALL,,,Junior Girls Div I,William Aberhart
+1822,2010-11,VOLLEYBALL,,,Junior Girls Div II,Dr. E.P. Scarlett
+1823,2010-11,VOLLEYBALL,,,Junior Girls Div III,Bishop McNally
+1824,2010-11,VOLLEYBALL,,,Junior Boys Div I,Sir Winston Churchill
+1825,2010-11,VOLLEYBALL,,,Junior Boys Div II,St. Francis
+1826,2010-11,VOLLEYBALL,,,Junior Boys Div III,Crescent Heights
+1827,2010-11,VOLLEYBALL,,,Senior Girls Div I,Western Canada
+1828,2010-11,VOLLEYBALL,,,Senior Girls Div II,Bishop O’Byrne
+1829,2010-11,VOLLEYBALL,,,Senior Girls Div III,Queen Elizabeth
+1830,2010-11,VOLLEYBALL,,,Senior Boys Div I,Western Canada
+1831,2010-11,VOLLEYBALL,,,Senior Boys Div II,Central Memorial
+1832,2010-11,VOLLEYBALL,,,Senior Boys Div III,Ernest Manning
+1833,2010-11,WRESTLING,,,Girls,Sir Winston Churchill
+1834,2010-11,WRESTLING,,,Boys,Bowness
+1835,2010-11,BADMINTON,,,Division I,William Aberhart
+1836,2010-11,BADMINTON,,,Division II,Henry Wise Wood
+1837,2010-11,BADMINTON,,,Division III,Queen Elizabeth
+1838,2010-11,BADMINTON,,,A Level,Western Canada
+1839,2010-11,SWIMMING,,,Team Aggregate,Western Canada
+1840,2010-11,DIVING,,,Team Aggregate,Sir Winston Churchill
+1841,2010-11,BASKETBALL,,,Junior Girls Div I,Bishop O’Byrne
+1842,2010-11,BASKETBALL,,,Junior Girls Div II,Bowness
+1843,2010-11,BASKETBALL,,,Junior Girls Div III,Father Lacombe
+1844,2010-11,BASKETBALL,,,Junior Boys Div I,Bishop Grandin
+1845,2010-11,BASKETBALL,,,Junior Boys Div II,Sir Winston Churchill
+1846,2010-11,BASKETBALL,,,Junior Boys Div III,Crescent Heights
+1847,2010-11,BASKETBALL,,,Senior Girls Div I,Centennial
+1848,2010-11,BASKETBALL,,,Senior Girls Div II,Crescent Heights
+1849,2010-11,BASKETBALL,,,Senior Girls Div III,Ernest Manning
+1850,2010-11,BASKETBALL,,,Senior Boys Div I,Bishop Grandin
+1851,2010-11,BASKETBALL,,,Senior Boys Div II,Bowness
+1852,2010-11,BASKETBALL,,,Senior Boys Div III,James Fowler
+1853,2010-11,BOYS SOCCER,,,Junior Div I,Western Canada
+1854,2010-11,BOYS SOCCER,,,Junior Div II,William Aberhart
+1855,2010-11,BOYS SOCCER,,,Senior Div I,Dr. E.P. Scarlett
+1856,2010-11,BOYS SOCCER,,,Senior Div II,St. Mary’s
+1857,2010-11,BOYS SOCCER,,,Senior Div III,Bowness
+1858,2010-11,FIELD HOCKEY,,,Junior-,Dr. E.P. Scarlett
+1859,2010-11,FIELD HOCKEY,,,Senior Div I,John G. Diefenbaker
+1860,2010-11,FIELD HOCKEY,,,Senior Div II,Notre Dame
+1861,2010-11,FIELD HOCKEY,,,Senior Div III,James Fowler
+1862,2010-11,RUGBY,,,Girls Div I,Centennial
+1863,2010-11,RUGBY,,,Girls Div II,St. Mary’s
+1864,2010-11,RUGBY,,,Girls Div III,Bishop Grandin
+1865,2010-11,RUGBY,,,Junior Boys Div I,Henry Wise Wood
+1866,2010-11,RUGBY,,,Junior Boys Div II,Western Canada
+1867,2010-11,RUGBY,,,Senior Boys Div I,Bowness
+1868,2010-11,RUGBY,,,Senior Boys Div II,Sir Winston Churchill
+1869,2010-11,RUGBY,,,Senior Boys Div III,Queen Elizabeth
+1870,2010-11,TRACK & FIELD,,,Junior Girls,Crescent Heights
+1871,2010-11,TRACK & FIELD,,,Intermediate Girls,Dr. E.P. Scarlett
+1872,2010-11,TRACK & FIELD,,,Senior Girls,William Aberhart
+1873,2010-11,TRACK & FIELD,,,Junior Boys,Henry Wise Wood
+1874,2010-11,TRACK & FIELD,,,Intermediate Boys,Crescent Heights
+1875,2010-11,TRACK & FIELD,,,Senior Boys,Crescent Heights
+1876,2011-12,CROSS COUNTRY,,,Junior Girls,Dr. E.P. Scarlett
+1877,2011-12,CROSS COUNTRY,,,Intermediate Girls,William Aberhart
+1878,2011-12,CROSS COUNTRY,,,Senior Girls,Dr. E.P. Scarlett
+1879,2011-12,CROSS COUNTRY,,,Junior Boys,Bishop Carroll
+1880,2011-12,CROSS COUNTRY,,,Intermediate Boys,Ernest Manning
+1881,2011-12,CROSS COUNTRY,,,Senior Boys,St. Francis
+1882,2011-12,GIRLS SOCCER,,,Division I,Bishop Carroll
+1883,2011-12,GIRLS SOCCER,,,Division II,Ernest Manning
+1884,2011-12,GIRLS SOCCER,,,Division III,John G. Diefenbaker
+1885,2011-12,FOOTBALL,,,Junior Div I,Notre Dame
+1886,2011-12,FOOTBALL,,,Junior Div II,Central Memorial
+1887,2011-12,FOOTBALL,,,Junio Div III,Bishop Grandin
+1888,2011-12,FOOTBALL,,,Senior Div I,Bishop O’Byrne
+1889,2011-12,FOOTBALL,,,Senior Div II,Bishop Grandin
+1890,2011-12,FOOTBALL,,,Senior Div III,Bishop Carroll
+1891,2011-12,VOLLEYBALL,,,Junior Girls Div I,William Aberhart
+1892,2011-12,VOLLEYBALL,,,Junior Girls Div II,Bishop Grandin
+1893,2011-12,VOLLEYBALL,,,Junior Girls Div III,St. Gabriel
+1894,2011-12,VOLLEYBALL,,,Junior Boys Div I,Dr. E.P. Scarlett
+1895,2011-12,VOLLEYBALL,,,Junior Boys Div II,Bishop O’Byrne
+1896,2011-12,VOLLEYBALL,,,Junior Boys Div III,St. Martin de Porres
+1897,2011-12,VOLLEYBALL,,,Senior Girls Div I,Centennial
+1898,2011-12,VOLLEYBALL,,,Senior Girls Div II,Central Memorial
+1899,2011-12,VOLLEYBALL,,,Senior Girls Div III,Bishop McNally
+1900,2011-12,VOLLEYBALL,,,Senior Boys Div I,Dr. E.P. Scarlett
+1901,2011-12,VOLLEYBALL,,,Senior Boys Div II,Centennial
+1902,2011-12,VOLLEYBALL,,,Senior Boys Div III,St. Martin de Porres
+1903,2011-12,SWIMMING,,,Team Aggregate,Dr. E.P. Scarlett
+1904,2011-12,DIVING,,,Team Aggregate,William Aberhart
+1905,2011-12,WRESTLING,,,Girls,Western Canada
+1906,2011-12,WRESTLING,,,Boys,Sir Winston Churchill
+1907,2011-12,BADMINTON,,,Division I,John G. Diefenbaker
+1908,2011-12,BADMINTON,,,Division II,St. Mary’s
+1909,2011-12,BADMINTON,,,Division III,Queen Elizabeth
+1910,2011-12,BADMINTON,,,A Level,Western Canada
+1911,2011-12,BASKETBALL,,,Junior Girls Div I,Dr. E.P. Scarlett
+1912,2011-12,BASKETBALL,,,Junior Girls Div II,Bishop Grandin
+1913,2011-12,BASKETBALL,,,Junior Girls Div III,Ernest Manning
+1914,2011-12,BASKETBALL,,,Junior Boys Div I,St. Mary’s
+1915,2011-12,BASKETBALL,,,Junior Boys Div II,Centennial
+1916,2011-12,BASKETBALL,,,Junior Boys Div III,Ernest Manning
+1917,2011-12,BASKETBALL,,,Senior Girls Div I,Western Canada
+1918,2011-12,BASKETBALL,,,Senior Girls Div II,Dr. E.P. Scarlett
+1919,2011-12,BASKETBALL,,,Senior Girls Div III,Father Lacombe
+1920,2011-12,BASKETBALL,,,Senior Boys Div I,Notre Dame
+1921,2011-12,BASKETBALL,,,Senior Boys Div II,Father Lacombe
+1922,2011-12,BASKETBALL,,,Senior Boys Div III,Ernest Manning
+1923,2011-12,BOYS SOCCER,,,Junior Div I,Notre Dame
+1924,2011-12,BOYS SOCCER,,,Junior Div II,Sir Winston Churchill
+1925,2011-12,BOYS SOCCER,,,Senior Div I,Dr. E.P. Scarlett
+1926,2011-12,BOYS SOCCER,,,Senior Div II,Lord Beaverbrook
+1927,2011-12,BOYS SOCCER,,,Senior Div III,Bowness
+1928,2011-12,FIELD HOCKEY,,,Junior-,Queen Elizabeth
+1929,2011-12,FIELD HOCKEY,,,Senior Div I,Western Canada
+1930,2011-12,FIELD HOCKEY,,,Senior Div II,St. Francis
+1931,2011-12,FIELD HOCKEY,,,Senior Div III,James Fowler
+1932,2011-12,RUGBY,,,Girls Div I,Sir Winston Churchill
+1933,2011-12,RUGBY,,,Girls Div II,Central Memorial
+1934,2011-12,RUGBY,,,Girls Div III,Bishop McNally
+1935,2011-12,RUGBY,,,Junior Boys Div I,Western Canada
+1936,2011-12,RUGBY,,,Junior Boys Div II,Bishop Grandin
+1937,2011-12,RUGBY,,,Senior Boys Div I,Henry Wise Wood
+1938,2011-12,RUGBY,,,Senior Boys Div II,Bishop Carroll
+1939,2011-12,RUGBY,,,Senior Boys Div III,St. Mary’s
+1940,2011-12,TRACK & FIELD,,,Junior Girls,Ernest Manning
+1941,2011-12,TRACK & FIELD,,,Intermediate Girls,William Aberhart
+1942,2011-12,TRACK & FIELD,,,Senior Girls,Dr. E.P. Scarlett
+1943,2011-12,TRACK & FIELD,,,Junior Boys,Crescent Heights
+1944,2011-12,TRACK & FIELD,,,Intermediate Boys,Henry Wise Wood
+1945,2011-12,TRACK & FIELD,,,Senior Boys,Dr. E.P. Scarlett
+1946,2012-13,CROSS COUNTRY,,,Junior Girls,William Aberhart
+1947,2012-13,CROSS COUNTRY,,,Intermediate Girls,William Aberhart
+1948,2012-13,CROSS COUNTRY,,,Senior Girls,William Aberhart
+1949,2012-13,CROSS COUNTRY,,,Junior Boys,Dr. E.P. Scarlett
+1950,2012-13,CROSS COUNTRY,,,Intermediate Boys,Western Canada
+1951,2012-13,CROSS COUNTRY,,,Senior Boys,William Aberhart
+1952,2012-13,GIRLS SOCCER,,,Division I,Ernest Manning
+1953,2012-13,GIRLS SOCCER,,,Division II,Central Memorial
+1954,2012-13,GIRLS SOCCER,,,Division III,Lester B. Pearson
+1955,2012-13,FOOTBALL,,,Junior Div I,St. Francis
+1956,2012-13,FOOTBALL,,,Junior Div II,William Aberhart
+1957,2012-13,FOOTBALL,,,Junio Div III,Sir Winston Churchill
+1958,2012-13,FOOTBALL,,,Senior Div I,Notre Dame
+1959,2012-13,FOOTBALL,,,Senior Div II,St. Mary’s
+1960,2012-13,FOOTBALL,,,Senior Div III,Dr. E.P.Scarlett
+1961,2012-13,VOLLEYBALL,,,Junior Girls Div I,William Aberhart
+1962,2012-13,VOLLEYBALL,,,Junior Girls Div II,Ernest Manning
+1963,2012-13,VOLLEYBALL,,,Junior Girls Div III,Queen Elizabeth
+1964,2012-13,VOLLEYBALL,,,Junior Boys Div I,William Aberhart
+1965,2012-13,VOLLEYBALL,,,Junior Boys Div II,Lord Beaverbrook
+1966,2012-13,VOLLEYBALL,,,Junior Boys Div III,St. Martin de Porres
+1967,2012-13,VOLLEYBALL,,,Senior Girls Div I,William Aberhart
+1968,2012-13,VOLLEYBALL,,,Senior Girls Div II,Central Memorial
+1969,2012-13,VOLLEYBALL,,,Senior Girls Div III,Father Lacombe
+1970,2012-13,VOLLEYBALL,,,Senior Boys Div I,Sir Winston Churchill
+1971,2012-13,VOLLEYBALL,,,Senior Boys Div II,St. Mary’s
+1972,2012-13,VOLLEYBALL,,,Senior Boys Div III,St. Martin de Porres
+1973,2012-13,SWIMMING,,,Team Aggregate,Bishop Carroll
+1974,2012-13,DIVING,,,Team Aggregate,William Aberhart
+1975,2012-13,WRESTLING,,,Girls,Sir Winston Churchill
+1976,2012-13,WRESTLING,,,Boys,Sir Winston Churchill
+1977,2012-13,BADMINTON,,,Division I,John G. Diefenbaker
+1978,2012-13,BADMINTON,,,Division II,St. Francis
+1979,2012-13,BADMINTON,,,Division III,Ernest Manning
+1980,2012-13,BADMINTON,,,A Level,Western Canada
+1981,2012-13,BASKETBALL,,,Junior Girls Div I,Centennial
+1982,2012-13,BASKETBALL,,,Junior Girls Div II,Henry Wise Wood
+1983,2012-13,BASKETBALL,,,Junior Girls Div III,St. Timothy
+1984,2012-13,BASKETBALL,,,Junior Boys Div I,Bishop McNally
+1985,2012-13,BASKETBALL,,,Junior Boys Div II,St. Mary’s
+1986,2012-13,BASKETBALL,,,Junior Boys Div III,Bishop Carroll
+1987,2012-13,BASKETBALL,,,Senior Girls Div I,Sir Winston Churchill
+1988,2012-13,BASKETBALL,,,Senior Girls Div II,Ernest Manning
+1989,2012-13,BASKETBALL,,,Senior Girls Div III,Crescent Heights
+1990,2012-13,BASKETBALL,,,Senior Boys Div I,Bishop O’Byrne
+1991,2012-13,BASKETBALL,,,Senior Boys Div II,Lester B. Pearson
+1992,2012-13,BASKETBALL,,,Senior Boys Div III,Bishop Carroll
+1993,2012-13,BOYS SOCCER,,,Junior Div I,Western Canada
+1994,2012-13,BOYS SOCCER,,,Junior Div II,Lester B. Pearson
+1995,2012-13,BOYS SOCCER,,,Senior Div I,Bishop Grandin
+1996,2012-13,BOYS SOCCER,,,Senior Div II,Central Memorial
+1997,2012-13,BOYS SOCCER,,,Senior Div III,Crescent Heights
+1998,2012-13,FIELD HOCKEY,,,Junior-,Sir Winston Churchill
+1999,2012-13,FIELD HOCKEY,,,Senior Div I,Sir Winston Churchill
+2000,2012-13,FIELD HOCKEY,,,Senior Div II,Central Memorial
+2001,2012-13,FIELD HOCKEY,,,Senior Div III,Bishop Carroll
+2002,2012-13,RUGBY,,,Girls Div I,Western Canada
+2003,2012-13,RUGBY,,,Girls Div II,Bishop Grandin
+2004,2012-13,RUGBY,,,Girls Div III,Bishop O’Byrne
+2005,2012-13,RUGBY,,,Junior Boys Div I,Bowness
+2006,2012-13,RUGBY,,,Junior Boys Div II,Bishop Carroll
+2007,2012-13,RUGBY,,,Senior Boys Div I,Henry Wise Wood
+2008,2012-13,RUGBY,,,Senior Boys Div II,Bishop McNally
+2009,2012-13,RUGBY,,,Senior Boys Div III,Notre Dame
+2010,2012-13,TRACK & FIELD,,,Junior Girls,William Aberhart
+2011,2012-13,TRACK & FIELD,,,Intermediate Girls,Crescent Heights
+2012,2012-13,TRACK & FIELD,,,Senior Girls,William Aberhart
+2013,2012-13,TRACK & FIELD,,,Junior Boys,Dr. E.P. Scarlett
+2014,2012-13,TRACK & FIELD,,,Intermediate Boys,Crescent Heights
+2015,2012-13,TRACK & FIELD,,,Senior Boys,Dr. E.P. Scarlett
+2016,2013-14,CROSS COUNTRY,,,Junior Girls,Western Canada
+2017,2013-14,CROSS COUNTRY,,,Intermediate Girls,William Aberhart
+2018,2013-14,CROSS COUNTRY,,,Senior Girls,William Aberhart
+2019,2013-14,CROSS COUNTRY,,,Junior Boys,St. Timothy
+2020,2013-14,CROSS COUNTRY,,,Intermediate Boys,TIE -- Dr. E.P. Scarlett/St. Martin de Porres
+2021,2013-14,CROSS COUNTRY,,,Senior Boys,TIE -- Dr. E.P. Scarlett/William Aberhart
+2022,2013-14,GIRLS SOCCER,,,Division I,Ernest Manning
+2023,2013-14,GIRLS SOCCER,,,Division II,Centennial
+2024,2013-14,GIRLS SOCCER,,,Division III,St. Timothy
+2025,2013-14,FOOTBALL,,,Junior Div I,St. Francis
+2026,2013-14,FOOTBALL,,,Junior Div II,Robert Thirsk
+2027,2013-14,FOOTBALL,,,Junior Div III,Dr. E.P. Scarlett
+2028,2013-14,FOOTBALL,,,Senior Div I,Notre Dame
+2029,2013-14,FOOTBALL,,,Senior Div II,McNally/Lacombe
+2030,2013-14,FOOTBALL,,,Senior Div III,Forest Lawn
+2031,2013-14,VOLLEYBALL,,,Junior Girls Div I,William Aberhart
+2032,2013-14,VOLLEYBALL,,,Junior Girls Div II,Ernest Manning
+2033,2013-14,VOLLEYBALL,,,Junior Girls Div III,Crescent Heights
+2034,2013-14,VOLLEYBALL,,,Junior Boys Div I,William Aberhart
+2035,2013-14,VOLLEYBALL,,,Junior Boys Div II,Bishop Carroll
+2036,2013-14,VOLLEYBALL,,,Junior Boys Div III,Bishop McNally
+2037,2013-14,VOLLEYBALL,,,Senior Girls Div I,St. Francis
+2038,2013-14,VOLLEYBALL,,,Senior Girls Div II,Ernest Manning
+2039,2013-14,VOLLEYBALL,,,Senior Girls Div III,St. Gabriel
+2040,2013-14,VOLLEYBALL,,,Senior Boys Div I,Dr. E.P. Scarlett
+2041,2013-14,VOLLEYBALL,,,Senior Boys Div II,Ernest Manning
+2042,2013-14,VOLLEYBALL,,,Senior Boys Div III,Queen Elizabeth
+2043,2013-14,SWIMMING,,,Team Aggregate,Sir Winston Churchill
+2044,2013-14,DIVING,,,Team Aggregate,William Aberhart
+2045,2013-14,WRESTLING,,,Girls,Lester B. Pearson
+2046,2013-14,WRESTLING,,,Boys,Sir Winston Churchill
+2047,2013-14,BADMINTON,,,Division I,Sir Winston Churchill
+2048,2013-14,BADMINTON,,,Division II,St. Francis
+2049,2013-14,BADMINTON,,,Division III,Ernest Manning
+2050,2013-14,BADMINTON,,,A Level,Western Canada
+2051,2013-14,BASKETBALL,,,Junior Girls Div I,St. Francis
+2052,2013-14,BASKETBALL,,,Junior Girls Div II,Sir Winston Churchill
+2053,2013-14,BASKETBALL,,,Junior Girls Div III,Lord Beaverbrook
+2054,2013-14,BASKETBALL,,,Junior Boys Div I,Bishop McNally
+2055,2013-14,BASKETBALL,,,Junior Boys Div II,Crescent Heights
+2056,2013-14,BASKETBALL,,,Junior Boys Div III,Lord Beaverbrook
+2057,2013-14,BASKETBALL,,,Senior Girls Div I,Centennial
+2058,2013-14,BASKETBALL,,,Senior Girls Div II,Bishop Grandin
+2059,2013-14,BASKETBALL,,,Senior Girls Div III,Lord Beaverbrook
+2060,2013-14,BASKETBALL,,,Senior Boys Div I,Bishop McNally
+2061,2013-14,BASKETBALL,,,Senior Boys Div II,St. Mary’s
+2062,2013-14,BASKETBALL,,,Senior Boys Div III,Bishop Carroll
+2063,2013-14,BOYS SOCCER,,,Junior Div I,Robert Thirsk
+2064,2013-14,BOYS SOCCER,,,Junior Div II,Bishop Grandin
+2065,2013-14,BOYS SOCCER,,,Senior Div I,Bishop Grandin
+2066,2013-14,BOYS SOCCER,,,Senior Div II,St. Mary’s
+2067,2013-14,BOYS SOCCER,,,Senior Div III,Forest Lawn
+2068,2013-14,FIELD HOCKEY,,,Junior Div I,William Aberhart
+2069,2013-14,FIELD HOCKEY,,,Junior Div II,Notre Dame
+2070,2013-14,FIELD HOCKEY,,,Senior Div I,William Aberhart
+2071,2013-14,FIELD HOCKEY,,,Senior Div II,Centennial
+2072,2013-14,FIELD HOCKEY,,,Senior Div III,Bishop Grandin
+2073,2013-14,RUGBY,,,Girls Div I,Western Canada
+2074,2013-14,RUGBY,,,Girls Div II,Notre Dame
+2075,2013-14,RUGBY,,,Girls Div III,Bishop McNally
+2076,2013-14,RUGBY,,,Junior Boys Div I,Robert Thirsk
+2077,2013-14,RUGBY,,,Junior Boys Div II,Bowness
+2078,2013-14,RUGBY,,,Senior Boys Div I,Western Canada
+2079,2013-14,RUGBY,,,Senior Boys Div II,John G. Diefenbaker
+2080,2013-14,RUGBY,,,Senior Boys Div III,Sir Winston Churchill
+2081,2013-14,TRACK & FIELD,,,Junior Girls,Western Canada
+2082,2013-14,TRACK & FIELD,,,Intermediate Girls,William Aberhart
+2083,2013-14,TRACK & FIELD,,,Senior Girls,Ernest Manning
+2084,2013-14,TRACK & FIELD,,,Junior Boys,Dr. E.P. Scarlett
+2085,2013-14,TRACK & FIELD,,,Intermediate Boys,Dr. E.P. Scarlett
+2086,2013-14,TRACK & FIELD,,,Senior Boys,Crescent Heights
+2087,2014-15,CROSS COUNTRY,,,Junior Girls,Wiliam Aberhart
+2088,2014-15, ,,,Intermediate Girls,Western Canada
+2089,2014-15, ,,,Senior Girls,William Aberhart
+2090,2014-15, ,,,Junior Boys,Sir Winston Churchill
+2091,2014-15, ,,,Intermediate Boys,St. Timothy
+2092,2014-15, ,,,Senior Boys,Sir Winston Churchill
+2093,2014-15, ,,, , 
+2094,2014-15,GIRLS SOCCER,,,Division I,Bishop Carroll
+2095,2014-15, ,,,Division II,St. Francis
+2096,2014-15, ,,,Division III,Bishop McNally
+2097,2014-15, ,,, , 
+2098,2014-15,FOOTBALL,,,Junior Div I,St. Francis
+2099,2014-15, ,,,Junior Div II,William Aberhart
+2100,2014-15, ,,,Junior Div III,Crescent Heights
+2101,2014-15, ,,,Senior Div I,Notre Dame
+2102,2014-15, ,,,Senior Div II,McNally/Lacombe
+2103,2014-15, ,,,Senior Div III,Crescent Heights
+2104,2014-15, ,,, , 
+2105,2014-15,VOLLEYBALL,,,Junior Girls Div I,William Aberhart
+2106,2014-15, ,,,Junior Girls Div II,Ernest Manning
+2107,2014-15, ,,,Junior Girls Div III,Crescent Heights
+2108,2014-15, ,,,Junior Boys Div I,Dr. E.P. Scarlett
+2109,2014-15, ,,,Junior Boys Div II,Lord Beaverbrook
+2110,2014-15, ,,,Junior Boys Div III,Bishop McNally
+2111,2014-15, ,,,Senior Girls Div I,William Aberhart
+2112,2014-15, ,,,Senior Girls Div II,Ernest Manning
+2113,2014-15, ,,,Senior Girls Div III,Queen Elizabeth
+2114,2014-15, ,,,Senior Boys Div I,William Aberhart
+2115,2014-15, ,,,Senior Boys Div II,Notre Dame
+2116,2014-15, ,,,Senior Boys Div III,Lester B. Pearson
+2117,2014-15, ,,, , 
+2118,2014-15,SWIMMING,,,Team Aggregate,Sir Winston Churchill
+2119,2014-15, ,,, , 
+2120,2014-15,DIVING,,,Team Aggregate,William Aberhart
+2121,2014-15, ,,, , 
+2122,2014-15,WRESTLING,,,Girls,Sir Winston Churchill
+2123,2014-15, ,,,Boys,Crescent Heights
+2124,2014-15, ,,, , 
+2125,2014-15,BADMINTON,,,Division I,Sir Winston Churchill
+2126,2014-15, ,,,Division II,St. Francis
+2127,2014-15, ,,,Division III,Ernest Manning
+2128,2014-15,BASKETBALL,,,Junior Girls Div I,Centennial
+2129,2014-15, ,,,Junior Girls Div II,Bishop O'Byrne
+2130,2014-15, ,,,Junior Boys Div I,Bishop McNally
+2131,2014-15, ,,,Junior Boys Div II,Notre Dame
+2132,2014-15, ,,,Junior Boys Div III,James Fowler
+2133,2014-15, ,,,Senior Girls Div I,St. Francis
+2134,2014-15, ,,,Senior Girls Div II,Bishop O'Byrne
+2135,2014-15, ,,,Senior Girls Div III,Forest Lawn
+2136,2014-15, ,,,Senior Boys Div I,Bishop McNally
+2137,2014-15, ,,,Senior Boys Div II,Notre Dame
+2138,2014-15, ,,,Senior Boys Div III,John G. Diefenbaker
+2139,2014-15, ,,, , 
+2140,2014-15,BOYS SOCCER,,,Junior Div I,St. Mary's
+2141,2014-15, ,,,Junior Div II,Sir Winston Churchill
+2142,2014-15, ,,,Senior Div I,William Aberhart
+2143,2014-15, ,,,Senior Div II,Lord Beaverbrook
+2144,2014-15, ,,,Senior Div III,Lester B. Pearson
+2145,2014-15, ,,, , 
+2146,2014-15,FIELD HOCKEY,,,Junior Div I,William Aberhart
+2147,2014-15, ,,,Junior Div II,Queen Elizabeth
+2148,2014-15, ,,,Senior Div I,Western Canada
+2149,2014-15, ,,,Senior Div II,Queen Elizabeth
+2150,2014-15, ,,,Senior Div III,St. Timothy
+2151,2014-15, ,,, , 
+2152,2014-15,RUGBY,,,Girls Div I,Western Canada
+2153,2014-15, ,,,Girls Div II,Bowness
+2154,2014-15, ,,,Girls Div III,William Aberhart
+2155,2014-15, ,,,Junior Boys Div I,Henry Wise Wood
+2156,2014-15, ,,,Junior Boys Div II,Western Canada
+2157,2014-15, ,,,Senior Boys Div I,St. Francis
+2158,2014-15, ,,,Senior Boys Div II,Bishop O'Byrne
+2159,2014-15, ,,,Senior Boys Div III,Lester B. Pearson
+2160,2014-15, ,,, , 
+2161,2014-15,TRACK & FIELD,,,Junior Girls,Crescent Heights
+2162,2014-15, ,,,Intermediate Girls,TIE -- William Aberhart/Crescent Heights
+2163,2014-15, ,,,Senior Girls,Crescent Heights
+2164,2014-15, ,,,Junior Boys,William Aberhart
+2165,2014-15, ,,,Intermediate Boys,Crescent Heights
+2166,2014-15, ,,,Senior Boys,Crescent Heights
+2167,2015-16,CROSS COUNTRY,,,Junior Girls,William Aberhart
+2168,2015-16, ,,,Intermediate Girls,William Aberhart
+2169,2015-16, ,,,Senior Girls,William Aberhart
+2170,2015-16, ,,,Junior Boys,William Aberhart
+2171,2015-16, ,,,Intermediate Boys,St. Gabriel
+2172,2015-16, ,,,Senior Boys,St. Timothy
+2173,2015-16, ,,, , 
+2174,2015-16,GIRLS SOCCER,,,Senior Div 1,St. Mary's
+2175,2015-16, ,,,Senior Div 2,St. Francis
+2176,2015-16, ,,,Senior Div 3,Crescent Heights
+2177,2015-16, ,,,Senior Div 4,Robert Thirsk
+2178,2015-16, ,,, , 
+2179,2015-16,FOOTBALL,,,Junior Div 1,Henry Wise Wood
+2180,2015-16, ,,,Junior Div 2,William Aberhart
+2181,2015-16, ,,,Junior Div 3,McNally/Lacombe
+2182,2015-16, ,,,Senior Div 1,St. Francis
+2183,2015-16, ,,,Senior Div 2,Robert Thirsk
+2184,2015-16, ,,,Senior Div 3,Churchill/Bowness
+2185,2015-16, ,,, , 
+2186,2015-16,VOLLEYBALL,,,Junior Girls Div 1,Western Canada
+2187,2015-16, ,,,Junior Girls Div 2,Bishop Carroll
+2188,2015-16, ,,,Junior Girls Div 3,St. Timothy
+2189,2015-16, ,,,Junior Girls Div 4,Notre Dame
+2190,2015-16, ,,,Junior Boys Div 1,Western Canada
+2191,2015-16, ,,,Junior Boys Div 2,Bishop Grandin
+2192,2015-16, ,,,Junior Boys Div 3,James Fowler
+2193,2015-16, ,,,Senior Girls Div 1,William Aberhart
+2194,2015-16, ,,,Senior Girls Div 2,Lord Beaverbrook
+2195,2015-16, ,,,Senior Girls Div 3,St. Martin de Porres
+2196,2015-16, ,,,Senior Girls Div 4,Notre Dame
+2197,2015-16, ,,,Senior Boys Div 1,Dr. E.P. Scarlett
+2198,2015-16, ,,,Senior Boys Div 2,Notre Dame
+2199,2015-16, ,,,Senior Boys Div 3,John G. Diefenbaker
+2200,2015-16, ,,, , 
+2201,2015-16,SWIMMING,,,Bow Division Team Aggregate,Sir Winston Churchill
+2202,2015-16, ,,,Elbow Division Team Aggregate,Dr. E.P. Scarlett
+2203,2015-16, ,,, , 
+2204,2015-16,DIVING,,,Team Aggregate,William Aberhart
+2205,2015-16, ,,, , 
+2206,2015-16,WRESTLING,,,Girls,Sir Winston Churchill
+2207,2015-16, ,,,Boys,Crescent Heights
+2208,2015-16, ,,, , 
+2209,2015-16,BADMINTON,,,Div 1,Sir Winston Churchill
+2210,2015-16, ,,,Div 2,Ernest Manning
+2211,2015-16, ,,,Div 3,Bishop Grandin
+2212,2015-16,BASKETBALL,,,Junior Girls Div 1,Centennial
+2213,2015-16, ,,,Junior Girls Div 2,Ernest Manning
+2214,2015-16, ,,,Junior Girls Div 3,James Fowler
+2215,2015-16, ,,,Junior Boys Div 1,Bishop O'Byrne
+2216,2015-16, ,,,Junior Boys Div 2,St. Francis
+2217,2015-16, ,,,Junior Boys Div 3,Forest Lawn
+2218,2015-16, ,,,Senior Girls Div 1,St. Francis
+2219,2015-16, ,,,Senior Girls Div 2,Robert Thirsk
+2220,2015-16, ,,,Senior Girls Div 3,Forest Lawn
+2221,2015-16, ,,,Senior Boys Div 1,Bishop McNally
+2222,2015-16, ,,,Senior Boys Div 2,Western Canada
+2223,2015-16, ,,,Senior Boys Div 3,Central Memorial
+2224,2015-16, ,,, , 
+2225,2015-16,BOYS SOCCER,,,Junior Div 1,Notre Dame
+2226,2015-16, ,,,Junior Div 2,Sir Winston Churchill
+2227,2015-16, ,,,Senior Div 1,Ernest Manning
+2228,2015-16, ,,,Senior Div 2,Lester B. Pearson
+2229,2015-16, ,,,Senior Div 3,St. Gabriel
+2230,2015-16, ,,, , 
+2231,2015-16,FIELD HOCKEY,,,Junior Div 1,William Aberhart
+2232,2015-16, ,,,Junior Div 2,Bishop Grandin
+2233,2015-16, ,,,Senior Div 1,William Aberhart
+2234,2015-16, ,,,Senior Div 2,Bishop Carroll
+2235,2015-16, ,,,Senior Div 3,Lester B. Pearson
+2236,2015-16, ,,, , 
+2237,2015-16,RUGBY,,,Senior Girls Div 1,Sir Winston Churchill
+2238,2015-16, ,,,Senior Girls Div 2,Bishop Carroll
+2239,2015-16, ,,,Senior Girls Div 3,Robert Thirsk
+2240,2015-16, ,,,Junior Boys Div 1,Bishop O'Byrne
+2241,2015-16, ,,,Junior Boys Div 2,Robert Thirsk
+2242,2015-16, ,,,Senior Boys Div 1,Western Canada
+2243,2015-16, ,,,Senior Boys Div 2,William Aberhart
+2244,2015-16, ,,,Senior Boys Div 3,John G. Diefenbaker
+2245,2015-16, ,,, , 
+2246,2015-16,TRACK & FIELD,,,Junior Girls,Crescent Heights
+2247,2015-16, ,,,Intermediate Girls,Dr. E.P. Scarlett
+2248,2015-16, ,,,Senior Girls,Crescent Heights
+2249,2015-16, ,,,Junior Boys,Crescent Heights
+2250,2015-16, ,,,Intermediate Boys,Crescent Heights
+2251,2015-16, ,,,Senior Boys,William Aberhart
+2252,2016-17,CROSS COUNTRY,,,Junior Girls,William Aberhart
+2253,2016-17, ,,,Intermediate Girls,William Aberhart
+2254,2016-17, ,,,Senior Girls,William Aberhart
+2255,2016-17, ,,,Junior Boys,Sir Winston Churchill
+2256,2016-17, ,,,Intermediate Boys,William Aberhart
+2257,2016-17, ,,,Senior Boys,St. Gabriel
+2258,2016-17,GIRLS SOCCER,,,Senior Div 1,William Aberhart
+2259,2016-17, ,,,Senior Div 2,Sir Winston Churchill
+2260,2016-17, ,,,Senior Div 3,Crescent Heights
+2261,2016-17, ,,,Senior Div 4,St. Gabriel
+2262,2016-17,FOOTBALL,,,Junior Div 1,Henry Wise Wood
+2263,2016-17, ,,,Junior Div 2,St. Mary’s
+2264,2016-17, ,,,Senior Div 1,St. Francis
+2265,2016-17, ,,,Senior Div 2,St. Mary’s
+2266,2016-17, ,,,Senior Div 3,John G. Diefenbaker
+2267,2016-17,VOLLEYBALL,,,Junior Girls Div 1,St. Francis
+2268,2016-17, ,,,Junior Girls Div 2,Lord Beaverbrook
+2269,2016-17, ,,,Junior Girls Div 3,St. Gabriel
+2270,2016-17, ,,,Junior Boys Div 1,Dr. E.P. Scarlett
+2271,2016-17, ,,,Junior Boys Div 2,Bishop O’Byrne
+2272,2016-17, ,,,Junior Boys Div 3,Central Memorial
+2273,2016-17, ,,,Senior Girls Div 1,William Aberhart
+2274,2016-17, ,,,Senior Girls Div 2,Crescent Heights
+2275,2016-17, ,,,Senior Girls Div 3,John G. Diefenbaker
+2276,2016-17, ,,,Senior Boys Div 1,Dr. E.P. Scarlett
+2277,2016-17, ,,,Senior Boys Div 2,Bishop O’Byrne
+2278,2016-17, ,,,Senior Boys Div 3,John G. Diefenbaker
+2279,2016-17,SWIMMING,,,Bow Division Team Aggregate,Sir Winston Churchill
+2280,2016-17, ,,,Elbow Division Team Aggregate,Ernest Manning
+2281,2016-17,DIVING,,,Team Aggregate,William Aberhart
+2282,2016-17,WRESTLING,,,Girls,Sir Winston Churchill
+2283,2016-17, ,,,Boys,Sir Winston Churchill
+2284,2016-17,BADMINTON,,,Div 1,Sir Winston Churchill
+2285,2016-17, ,,,Div 2,St. Mary’s
+2286,2016-17, ,,,Div 3,Bishop McNally
+2287,2016-17,BASKETBALL,,,Junior Girls Div 1,Centennial
+2288,2016-17, ,,,Junior Girls Div 2,Robert Thirsk
+2289,2016-17, ,,,Junior Girls Div 3,John G. Diefenbaker
+2290,2016-17, ,,,Junior Boys Div 1,Bishop O’Byrnre
+2291,2016-17, ,,,Junior Boys Div 2,Sir Winston Churchill
+2292,2016-17, ,,,Junior Boys Div 3,Central Memorial
+2293,2016-17, ,,,Senior Girls Div 1,Western Canada
+2294,2016-17, ,,,Senior Girls Div 2,Bowness
+2295,2016-17, ,,,Senior Girls Div 3,Forest Lawn
+2296,2016-17, ,,,Senior Boys Div 1,Lester B. Pearson
+2297,2016-17, ,,,Senior Boys Div 2,William Aberhart
+2298,2016-17, ,,,Senior Boys Div 3,James Fowler
+2299,2016-17,BOYS SOCCER,,,Junior Div 1,William Aberhart
+2300,2016-17, ,,,Junior Div 2,James Fowler
+2301,2016-17, ,,,Senior Div 1,William Aberhart
+2302,2016-17, ,,,Senior Div 2,Robert Thirsk
+2303,2016-17, ,,,Senior Div 3,Queen Elizabeth
+2304,2016-17,FIELD HOCKEY,,,Junior Div 1,Western Canada
+2305,2016-17, ,,,Junior Div 2,Bishop Carroll
+2306,2016-17, ,,,Senior Div 1,Bishop Carroll
+2307,2016-17, ,,,Senior Div 2,Bishop Grandin
+2308,2016-17, ,,,Senior Div 3,St. Mary’s
+2309,2016-17,RUGBY,,,Senior Girls Div 1,Western Canada
+2310,2016-17, ,,,Senior Girls Div 2,St. Francis
+2311,2016-17, ,,,Senior Girls Div 3,Crescent Heights
+2312,2016-17, ,,,Junior Boys Div 1,St. Francis
+2313,2016-17, ,,,Junior Boys Div 2,Dr. E.P. Scarlett
+2314,2016-17, ,,,Senior Boys Div 1,Centennial
+2315,2016-17, ,,,Senior Boys Div 2,John G. Diefenbaker
+2316,2016-17, ,,,Senior Boys Div 3,Bishop McNally
+2317,2016-17,TRACK & FIELD,,,Junior Girls,Crescent Heights
+2318,2016-17, ,,,Intermediate Girls,William Aberhart
+2319,2016-17, ,,,Senior Girls,William Aberhart
+2320,2016-17, ,,,Junior Boys,Crescent Heights
+2321,2016-17, ,,,Intermediate Boys,Crescent Heights
+2322,2016-17, ,,,Senior Boys,William Aberhart
+2323,2017-18,CROSS COUNTRY,,,Junior Girls,Western Canada
+2324,2017-18, ,,,Intermediate Girls,Bishop Carroll
+2325,2017-18, ,,,Senior Girls,William Aberhart
+2326,2017-18, ,,,Junior Boys,William Aberhart
+2327,2017-18, ,,,Intermediate Boys,Sir Winston Churchill
+2328,2017-18, ,,,Senior Boys,William Aberhart
+2329,2017-18, ,,, , 
+2330,2017-18,GIRLS SOCCER,,,Senior Div 1,St. Mary's
+2331,2017-18, ,,,Senior Div 2,Lord Beaverbrook
+2332,2017-18, ,,,Senior Div 3,St. Gabriel
+2333,2017-18, ,,,Senior Div 4,Queen Elizabeth
+2334,2017-18, ,,, , 
+2335,2017-18,FOOTBALL,,,Junior Div 1,St. Francis
+2336,2017-18, ,,,Junior Div 2,Scarlett/Central
+2337,2017-18, ,,,Junior Div 3,Bowness/Churchill
+2338,2017-18, ,,,Senior Div 1,St. Francis
+2339,2017-18, ,,,Senior Div 2,William Aberhart
+2340,2017-18, ,,,Senior Div 3,Lord Beaverbrook
+2341,2017-18, ,,, , 
+2342,2017-18,VOLLEYBALL,,,Junior Girls Div 1,Western Canada
+2343,2017-18, ,,,Junior Girls Div 2,Bowness
+2344,2017-18, ,,,Junior Girls Div 3,St. Gabriel
+2345,2017-18, ,,,Junior Boys Div 1,Dr. E.P. Scarlett
+2346,2017-18, ,,,Junior Boys Div 2,Lord Beaverbrook
+2347,2017-18, ,,,Junior Boys Div 3,Father Lacombe
+2348,2017-18, ,,,Senior Girls Div 1,Western Canada
+2349,2017-18, ,,,Senior Girls Div 2,St. Mary's
+2350,2017-18, ,,,Senior Girls Div 3,James Fowler
+2351,2017-18, ,,,Senior Boys Div 1,Western Canada
+2352,2017-18, ,,,Senior Boys Div 2,St. Mary's
+2353,2017-18, ,,,Senior Boys Div 3,St. Martin de Porres
+2354,2017-18, ,,, , 
+2355,2017-18,SWIMMING,,,Bow Division Team Aggregate,Sir Winston Churchill
+2356,2017-18, ,,,Elbow Division Team Aggregate,Dr. E.P. Scarlett
+2357,2017-18, ,,, , 
+2358,2017-18,DIVING,,,Team Aggregate,Western Canada
+2359,2017-18, ,,, , 
+2360,2017-18,WRESTLING,,,Girls,Sir Winston Churchill
+2361,2017-18, ,,,Boys,Bishop Grandin
+2362,2017-18, ,,, , 
+2363,2017-18,BADMINTON,,,Div 1,Sir Winston Churchill
+2364,2017-18, ,,,Div 2,Ernest Manning
+2365,2017-18, ,,,Div 3,Father Lacombe
+2366,2017-18, ,,, , 
+2367,2017-18,BASKETBALL,,,Junior Girls Div 1,Centennial
+2368,2017-18, ,,,Junior Girls Div 2,Father Lacombe
+2369,2017-18, ,,,Junior Girls Div 3,Lord Beverbrook
+2370,2017-18, ,,,Junior Boys Div 1,Bishop O'Byrne
+2371,2017-18, ,,,Junior Boys Div 2,Centennial
+2372,2017-18, ,,,Junior Boys Div 3,Lord Beaverbrook
+2373,2017-18, ,,,Senior Girls Div 1,Centennial
+2374,2017-18, ,,,Senior Girls Div 2,Notre Dame
+2375,2017-18, ,,,Senior Girls Div 3,John G. Diefenbaker
+2376,2017-18, ,,,Senior Boys Div 1,Bishop O'Byrne
+2377,2017-18, ,,,Senior Boys Div 2,Centennial
+2378,2017-18, ,,,Senior Boys Div 3,Robert Thirsk
+2379,2017-18, ,,, , 
+2380,2017-18,BOYS SOCCER,,,Junior Div 1, Robert Thirsk
+2381,2017-18, ,,,Junior Div 2,Western Canada
+2382,2017-18, ,,,Senior Div 1,William Aberhart
+2383,2017-18, ,,,Senior Div 2,Bishop O’Byrne
+2384,2017-18, ,,,Senior Div 3,Bowness
+2385,2017-18, ,,, , 
+2386,2017-18,FIELD HOCKEY,,,Junior Div 1,Western Canada
+2387,2017-18, ,,,Junior Div 2,Dr. E.P. Scarlett
+2388,2017-18, ,,,Senior Div 1, William Aberhart
+2389,2017-18, ,,,Senior Div 2,Centennial
+2390,2017-18, ,,,Senior Div 3,Bowness
+2391,2017-18, ,,, , 
+2392,2017-18,RUGBY,,,Senior Girls Div 1,Western Canada
+2393,2017-18, ,,,Senior Girls Div 2,Centennial
+2394,2017-18, ,,,Senior Girls Div 3,Lord Beaverbrook
+2395,2017-18, ,,,Junior Girls Div 1,Notre Dame
+2396,2017-18, ,,,Junior Boys Div 1, Henry Wise Wood
+2397,2017-18, ,,,Junior Boys Div 2,Lester B. Pearson
+2398,2017-18, ,,,Senior Boys Div 1,St. Francis
+2399,2017-18, ,,,Senior Boys Div 2,Sir Winston Churchill
+2400,2017-18, ,,,Senior Boys Div 3,Notre Dame
+2401,2017-18, ,,, , 
+2402,2017-18,TRACK & FIELD,,,Junior Girls,Western Canada
+2403,2017-18, ,,,Intermediate Girls,Crescent Heights
+2404,2017-18, ,,,Senior Girls,William Aberhart
+2405,2017-18, ,,,Junior Boys,Crescent Heights
+2406,2017-18, ,,,Intermediate Boys,Crescent Heights
+2407,2017-18, ,,,Senior Boys,Crescent Heights
+2408,2018-19,CROSS COUNTRY,,,Junior Girls,Western Canada
+2409,2018-19, ,,,Intermediate Girls,Western Canada
+2410,2018-19, ,,,Senior Girls,William Aberhart
+2411,2018-19, ,,,Junior Boys,Western Canada
+2412,2018-19, ,,,Intermediate Boys,William Aberhart
+2413,2018-19, ,,,Senior Boys,Sir Winston Churchill
+2414,2018-19,GIRLS SOCCER,,,Senior Div 1,Bishop Carroll
+2415,2018-19, ,,,Senior Div 2,St. Francis
+2416,2018-19, ,,,Senior Div 3,Bishop Grandin
+2417,2018-19, ,,,Senior Div 4,Lord Beaverbrook
+2418,2018-19,FOOTBALL,,,Junior Div 1,St. Francis
+2419,2018-19, ,,,Junior Div 2,William Aberhart
+2420,2018-19, ,,,Senior Div 1,Notre Dame
+2421,2018-19, ,,,Senior Div 2,William Aberhart
+2422,2018-19, ,,,Senior Div 3,Western Canada
+2423,2018-19,VOLLEYBALL,,,Junior Girls Div 1,Western Canada
+2424,2018-19, ,,,Junior Girls Div 2,Bowness
+2425,2018-19, ,,,Junior Girls Div 3,Bishop McNally
+2426,2018-19, ,,,Junior Boys Div 1,Dr. E.P. Scarlett
+2427,2018-19, ,,,Junior Boys Div 2,All Saints
+2428,2018-19, ,,,Junior Boys Div 3,Bowness
+2429,2018-19, ,,,Senior Girls Div 1,Western Canada
+2430,2018-19, ,,,Senior Girls Div 2,Ernest Manning
+2431,2018-19, ,,,Senior Girls Div 3,Central Memorial
+2432,2018-19, ,,,Senior Boys Div 1,Western Canada
+2433,2018-19, ,,,Senior Boys Div 2,Crescent Heights
+2434,2018-19, ,,,Senior Boys Div 3,Central Memorial
+2435,2018-19,SWIMMING,,,Bow Division Team Aggregate,Sir Winston Churchill
+2436,2018-19, ,,,Elbow Division Team Aggregate,Dr. E.P. Scarlett
+2437,2018-19,DIVING,,,Team Aggregate,William Aberhart
+2438,2018-19,WRESTLING,,,Girls,Sir Winston Churchill
+2439,2018-19, ,,,Boys,Sir Winston Churchill
+2440,2018-19,BADMINTON,,,Div 1,Sir Winston Churchill
+2441,2018-19, ,,,Div 2,Bishop McNally
+2442,2018-19, ,,,Div 3,All Saints
+2443,2018-19,BASKETBALL,,,Junior Girls Div 1,Bowness
+2444,2018-19, ,,,Junior Girls Div 2,Father Lacombe
+2445,2018-19, ,,,Junior Girls Div 3,Henry Wise Wood
+2446,2018-19, ,,,Junior Boys Div 1,Bishop McNally
+2447,2018-19, ,,,Junior Boys Div 2,Lester B. Pearson
+2448,2018-19, ,,,Junior Boys Div 3,Henry Wise Wood
+2449,2018-19, ,,,Senior Girls Div 1,Bishop Carroll
+2450,2018-19, ,,,Senior Girls Div 2,Bishop O’Byrne
+2451,2018-19, ,,,Senior Girls Div 3,Henry Wise Wood
+2452,2018-19, ,,,Senior Boys Div 1,Western Canada
+2453,2018-19, ,,,Senior Boys Div 2,Notre Dame
+2454,2018-19, ,,,Senior Boys Div 3,Central Memorial
+2455,2018-19,BOYS SOCCER,,,Junior Div 1,Western Canada
+2456,2018-19, ,,,Junior Div 2,Crescent Heights
+2457,2018-19, ,,,Senior Div 1,St. Francis
+2458,2018-19, ,,,Senior Div 2,Lester B. Pearson
+2459,2018-19, ,,,Senior Div 3,Bowness
+2460,2018-19,FIELD HOCKEY,,,Junior Div 1,Dr. E.P. Scarlett
+2461,2018-19, ,,,Junior Div 2,William Aberhart
+2462,2018-19, ,,,Senior Div 1,Western Canada
+2463,2018-19, ,,,Senior Div 2,Queen Elizabeth
+2464,2018-19, ,,,Senior Div 3,Henry Wise Wood
+2465,2018-19,RUGBY,,,Senior Girls Div 1,Notre Dame
+2466,2018-19, ,,,Senior Girls Div 2,John G. Diefenbaker
+2467,2018-19, ,,,Senior Girls Div 3,Joane Cardinal Schubert
+2468,2018-19, ,,,Junior Girls Div 1,Western Canada
+2469,2018-19, ,,,Junior Boys Div 1,Western Canada
+2470,2018-19, ,,,Junior Boys Div 2,Ernest Manning
+2471,2018-19, ,,,Senior Boys Div 1,Henry Wise Wood
+2472,2018-19, ,,,Senior Boys Div 2,Lester B. Pearson
+2473,2018-19, ,,,Senior Boys Div 3,Central Memorial
+2474,2018-19,TRACK & FIELD,,,Junior Girls,William Aberhart
+2475,2018-19, ,,,Intermediate Girls,Crescent Heights
+2476,2018-19, ,,,Senior Girls,Crescent Heights
+2477,2018-19, ,,,Junior Boys,Crescent Heights
+2478,2018-19, ,,,Intermediate Boys,Crescent Heights
+2479,2018-19, ,,,Senior Boys,William Aberhart
+2480,2019-20,CROSS COUNTRY,,,Junior Girls,William Aberhart
+2481,2019-20,CROSS COUNTRY,,,Intermediate Girls,St. Timothy
+2482,2019-20,CROSS COUNTRY,,,Senior Girls,Western Canada
+2483,2019-20,CROSS COUNTRY,,,Junior Boys,William Aberhart
+2484,2019-20,CROSS COUNTRY,,,Intermediate Boys,William Aberhart
+2485,2019-20,CROSS COUNTRY,,,Senior Boys,William Aberhart
+2486,2019-20,GIRLS SOCCER,,,Senior Div 1,Ernest Manning
+2487,2019-20,GIRLS SOCCER,,,Senior Div 2,St. Francis
+2488,2019-20,GIRLS SOCCER,,,Senior Div 3,St. Gabriel
+2489,2019-20,GIRLS SOCCER,,,Senior Div 4,Lester B. Pearson
+2490,2019-20,FOOTBALL,,,Junior Div 1,Ernest Manning
+2491,2019-20,FOOTBALL,,,Junior Div 2,Notre Dame
+2492,2019-20,FOOTBALL,,,Junior Div 3,Churchill/Bowness
+2493,2019-20,FOOTBALL,,,Senior Div 1A,St. Francis
+2494,2019-20,FOOTBALL,,,Senior Div 1B,Ernest Manning
+2495,2019-20,FOOTBALL,,,Senior Div 2,All Saints
+2496,2019-20,FOOTBALL,,,Senior Div 3,Diefenbaker/Fowler
+2497,2019-20,VOLLEYBALL,,,Junior Girls Div 1,William Aberhart
+2498,2019-20,VOLLEYBALL,,,Junior Girls Div 2,Ernest Manning
+2499,2019-20,VOLLEYBALL,,,Junior Girls Div 3,St. Gabriel
+2500,2019-20,VOLLEYBALL,,,Junior Boys Div 1,William Aberhart
+2501,2019-20,VOLLEYBALL,,,Junior Boys Div 2,Joane Cardinal Schubert
+2502,2019-20,VOLLEYBALL,,,Junior Boys Div 3,John G. Diefenbaker
+2503,2019-20,VOLLEYBALL,,,Senior Girls Div 1,Western Canada
+2504,2019-20,VOLLEYBALL,,,Senior Girls Div 2,All Saints
+2505,2019-20,VOLLEYBALL,,,Senior Girls Div 3,James Fowler
+2506,2019-20,VOLLEYBALL,,,Senior Boys Div 1,William Aberhart
+2507,2019-20,VOLLEYBALL,,,Senior Boys Div 2,Bowness
+2508,2019-20,VOLLEYBALL,,,Senior Boys Div 3,Bishop McNally
+2509,2019-20,SWIMMING,,,Bow Division Team Aggregate,Sir Winston Churchill
+2510,2019-20,SWIMMING,,,Elbow Division Team Aggregate,Crescent Heights
+2511,2019-20,DIVING,,,Team Aggregate,William Aberhart
+2512,2019-20,WRESTLING,,,Girls,Crescent Heights
+2513,2019-20,WRESTLING,,,Boys,Sir Winston Churchill
+2514,2019-20,BADMINTON,,,Div 1,did not occur
+2515,2019-20,BADMINTON,,,Div 2,did not occur
+2516,2019-20,BADMINTON,,,Div 3,did not occur
+2517,2019-20,BASKETBALL,,,Junior Girls Div 1,Centennial
+2518,2019-20,BASKETBALL,,,Junior Girls Div 2,Henry Wise Wood
+2519,2019-20,BASKETBALL,,,Junior Girls Div 3,Forest Lawn
+2520,2019-20,BASKETBALL,,,Junior Boys Div 1,Father Lacombe
+2521,2019-20,BASKETBALL,,,Junior Boys Div 2,Bishop O’Byrne
+2522,2019-20,BASKETBALL,,,Junior Boys Div 3,Bowness
+2523,2019-20,BASKETBALL,,,Senior Girls Div 1,Western Canada
+2524,2019-20,BASKETBALL,,,Senior Girls Div 2,Joane Cardinal Schubert
+2525,2019-20,BASKETBALL,,,Senior Girls Div 3,Lord Beaverbrook
+2526,2019-20,BASKETBALL,,,Senior Boys Div 1,Bishop McNally
+2527,2019-20,BASKETBALL,,,Senior Boys Div 2,Ernest Manning
+2528,2019-20,BASKETBALL,,,Senior Boys Div 3,St. Gabriel
+2529,2019-20,BOYS SOCCER,,,Junior Div 1,did not occur due to Covid19 school closures
+2530,2019-20,BOYS SOCCER,,,Junior Div 2,did not occur due to Covid19 school closures
+2531,2019-20,BOYS SOCCER,,,Senior Div 1,did not occur due to Covid19 school closures
+2532,2019-20,BOYS SOCCER,,,Senior Div 2,did not occur due to Covid19 school closures
+2533,2019-20,BOYS SOCCER,,,Senior Div 3,did not occur due to Covid19 school closures
+2534,2019-20,FIELD HOCKEY,,,Junior Div 1,did not occur due to Covid19 school closures
+2535,2019-20,FIELD HOCKEY,,,Junior Div 2,did not occur due to Covid19 school closures
+2536,2019-20,FIELD HOCKEY,,,Senior Div 1,did not occur due to Covid19 school closures
+2537,2019-20,FIELD HOCKEY,,,Senior Div 2,did not occur due to Covid19 school closures
+2538,2019-20,FIELD HOCKEY,,,Senior Div 3,did not occur due to Covid19 school closures
+2539,2019-20,RUGBY,,,Senior Girls Div 1,did not occur due to Covid19 school closures
+2540,2019-20,RUGBY,,,Senior Girls Div 2,did not occur due to Covid19 school closures
+2541,2019-20,RUGBY,,,Senior Girls Div 3,did not occur due to Covid19 school closures
+2542,2019-20,RUGBY,,,Junior Boys Div 1,did not occur due to Covid19 school closures
+2543,2019-20,RUGBY,,,Junior Boys Div 2,did not occur due to Covid19 school closures
+2544,2019-20,RUGBY,,,Senior Boys Div 1,did not occur due to Covid19 school closures
+2545,2019-20,RUGBY,,,Senior Boys Div 2,did not occur due to Covid19 school closures
+2546,2019-20,RUGBY,,,Senior Boys Div 3,did not occur due to Covid19 school closures
+2547,2019-20,TRACK & FIELD,,,Junior Girls,did not occur due to Covid19 school closures
+2548,2019-20,TRACK & FIELD,,,Intermediate Girls,did not occur due to Covid19 school closures
+2549,2019-20,TRACK & FIELD,,,Senior Girls,did not occur due to Covid19 school closures
+2550,2019-20,TRACK & FIELD,,,Junior Boys,did not occur due to Covid19 school closures
+2551,2019-20,TRACK & FIELD,,,Intermediate Boys,did not occur due to Covid19 school closures
+2552,2019-20,TRACK & FIELD,,,Senior Boys,did not occur due to Covid19 school closures
