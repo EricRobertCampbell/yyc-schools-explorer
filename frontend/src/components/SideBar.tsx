@@ -306,7 +306,7 @@ const DiplomaExamResults = () => {
 						code: schoolCode,
 						name: schoolName
 					};
-					console.log({ option });
+					/*console.log({ option }); */
 					return option;
 				})
 				.filter((option) => !!option.name)
@@ -325,7 +325,15 @@ const DiplomaExamResults = () => {
 			return;
 		}
 		console.log({ schoolInfo });
-		setExamOptions(Object.keys(schoolInfo));
+		setExamOptions(
+			Object.entries(schoolInfo)
+				.filter((schoolEntry) => {
+					const [exam, results] = schoolEntry;
+					// @ts-expect-error
+					return !Object.values(results).every((result) => result === '');
+				})
+				.map(([exam, results]) => exam)
+		);
 	}, [selectedSchoolCode]);
 
 	// once they have selected a school and exam, load in the data
