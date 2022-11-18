@@ -3,10 +3,23 @@
 	width: 100vw;
 	border: solid 1px black;
 }
-.main {
+#main {
 	display: flex;
 	flex-direction: row;
 	align-items: start;
 	flex-grow: 1;
 	min-height: 500px;
+}
+#main.loading {
+	opacity: 0.25;
+	transition: opacity 200ms;
+	transition-delay: 200ms;
+}
+nav .active {
+	color: red;
+}
+nav .pending {
+	::before {
+		content: '...';
+	}
 }
