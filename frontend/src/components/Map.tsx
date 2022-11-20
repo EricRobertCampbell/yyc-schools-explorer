@@ -16,18 +16,17 @@ import {
 	Tooltip,
 	Legend
 } from 'chart.js';
+import { Link } from 'react-router-dom';
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 export const SchoolsMap = () => {
 	const basicSchoolInformation = useContext(BasicSchoolInformationContext);
-	// @ts-expect-error
 	const [makeCall, { data }] = useJsonFile('school_location_information.json');
-	const [schoolsWithLatLng, setSchoolsWithLatLng] = useState<$TSFixMe>();
+	const [schoolsWithLatLng, setSchoolsWithLatLng] = useState<{ [code: string]: $TSFixMe }>({});
 
 	// load the location data
 	useEffect(() => {
 		(async () => {
-			// @ts-expect-error
 			makeCall();
 		})();
 	}, []);
@@ -38,10 +37,11 @@ export const SchoolsMap = () => {
 			return;
 		}
 		console.log({ data });
-		const latLngInfo = Object.entries(data)
-			.map(([locationSchoolCode, otherLocationInfo]) => {
+		const latLngInfo = Object.entries(data).reduce(
+			// @ts-expect-error
+			(acc: typeof schoolsWithLatLng, [locationSchoolCode, otherLocationInfo]) => {
 				const matchingBasicInformation = Object.entries(basicSchoolInformation).find(
-					([basicSchoolInformationSchoolCode, basicInformation]: Array<$TSFixMe>) => {
+					([basicSchoolInformationSchoolCode, _basicInformation]: Array<$TSFixMe>) => {
 						return locationSchoolCode === basicSchoolInformationSchoolCode;
 					}
 				);
@@ -49,16 +49,16 @@ export const SchoolsMap = () => {
 					return null;
 				}
 				console.log({ matchingBasicInformation });
-				return {
+				acc[locationSchoolCode] = {
 					// @ts-expect-error
 					name: matchingBasicInformation[1].schoolName,
-					// @ts-expect-error
 					lat: otherLocationInfo.lat,
-					// @ts-expect-error
 					lng: otherLocationInfo.lng
 				};
-			})
-			.filter((elem) => !!elem);
+				return acc;
+			},
+			{}
+		);
 		console.log({ latLngInfo });
 		setSchoolsWithLatLng(latLngInfo);
 	}, [data, basicSchoolInformation]);
@@ -78,16 +78,20 @@ export const SchoolsMap = () => {
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 				/>{' '}
 				{schoolsWithLatLng
-					? Object.values(schoolsWithLatLng).map((school: $TSFixMe) => {
-							return (
-								<Marker position={[school.lat, school.lng]}>
-									<Popup>
-										<h3>{school.name}</h3>
-										<p>Other info here</p>
-									</Popup>
-								</Marker>
-							);
-					  })
+					? Object.entries(schoolsWithLatLng).map(
+							([code, school]: [string, $TSFixMe]) => {
+								return (
+									<Marker position={[school.lat, school.lng]}>
+										<Popup>
+											<h3>{school.name}</h3>
+											<Link to={`/schools/${code}`}>
+												Additional Information
+											</Link>
+										</Popup>
+									</Marker>
+								);
+							}
+					  )
 					: null}
 			</MapContainer>
 		</div>
