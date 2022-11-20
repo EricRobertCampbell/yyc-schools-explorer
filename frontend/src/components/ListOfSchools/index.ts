@@ -1,0 +1,1 @@
+export { ListOfSchools } from './ListOfSchools';

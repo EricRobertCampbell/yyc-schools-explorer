@@ -1,1 +1,1 @@
-export { IndividualSchoolInformation, loader } from './IndividualSchoolInformation';
+export { IndividualSchoolInformation } from './IndividualSchoolInformation';

@@ -1,13 +1,7 @@
 .App {
-	min-height: 100vh;
-	width: 100vw;
-	border: solid 1px black;
+	margin: 0;
 }
 #main {
-	display: flex;
-	flex-direction: row;
-	align-items: start;
-	flex-grow: 1;
 	min-height: 500px;
 }
 #main.loading {
@@ -22,4 +16,8 @@ nav .pending {
 	::before {
 		content: '...';
 	}
+}
+nav li {
+	display: inline;
+	margin: 0 5px;
 }
