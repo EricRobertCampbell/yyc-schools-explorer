@@ -6,14 +6,19 @@ import { useState, useEffect, useCallback } from 'react';
  *
  * @returns [ makeCall, {called, loading, error, data} ]. makeCall actually sets everything in motion - the rest are self explanatory. Before the function has been called, loading, error, and data are undefined.
  */
-export const useJsonFile = (filename: string) => {
+export const useJsonFile = (
+	filename: string
+): [
+	() => void,
+	{ called: boolean; loading: boolean | undefined; error: Error | undefined; data: unknown }
+] => {
 	const [called, setCalled] = useState<boolean>(false);
 	const [loading, setLoading] = useState<boolean | undefined>(undefined);
 	const [error, setError] = useState<Error | undefined>(undefined);
 	const [data, setData] = useState<unknown | undefined>(undefined);
 
 	const makeCall = useCallback(async () => {
-		console.log('In makeCall!');
+		//console.log('In makeCall!');
 		if (!called) {
 			setCalled(true);
 		}
@@ -22,9 +27,9 @@ export const useJsonFile = (filename: string) => {
 		setData(undefined);
 
 		try {
-			console.log('Making call');
+			//console.log('Making call');
 			const result = await fetch(`/data/${filename}`);
-			console.log('Awaiting JSON', result);
+			//console.log('Awaiting JSON', result);
 			const json = await result.json();
 
 			setLoading(false);
