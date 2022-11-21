@@ -1,13 +1,19 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import './App.css';
-import { $TSFixMe } from './types';
-import { SideBar } from './components';
-import { Home } from './components';
 import { BasicSchoolInformationProvider } from './contexts';
 import { useJsonFile } from './hooks';
+import { Outlet, NavLink, useLoaderData, useNavigation } from 'react-router-dom';
+
+export async function loader() {
+	const response = await fetch('/data/basic_school_information.json');
+	const json = await response.json();
+	return { schools: json };
+}
 
 function App() {
-	const [Component, setComponent] = useState<$TSFixMe>(() => () => <Home />);
+	// @ts-expect-error
+	const { schools } = useLoaderData();
+	const navigation = useNavigation();
 	// @ts-expect-error
 	const [makeCall, { data }] = useJsonFile('basic_school_information.json');
 
@@ -17,22 +23,47 @@ function App() {
 			await makeCall();
 		})();
 	}, []);
+
 	return (
-		<div className="App">
-			<header>
-				<h1>Alberta School Explorer</h1>
-			</header>
-			<div className="main">
-				<BasicSchoolInformationProvider value={data}>
-					<SideBar setComponent={setComponent} />
-					{Component ? (
-						<div>
-							<Component />
-						</div>
-					) : null}
-				</BasicSchoolInformationProvider>
+		<BasicSchoolInformationProvider value={data}>
+			<div className="App">
+				<header>
+					<h1>Alberta School Explorer</h1>
+					<nav>
+						<ul>
+							{[
+								['Home', '/'],
+								['School List', 'schools'],
+								['Map', 'map'],
+								['Academics', 'academics'],
+								['Athletics', 'athletics'],
+								['Accessibility', 'accessibility']
+							].map(([name, to]) => (
+								<li key={name}>
+									<NavLink
+										className={({ isActive, isPending }) => {
+											return isActive ? 'active' : isPending ? 'pending' : '';
+										}}
+										to={to}
+									>
+										{name}
+									</NavLink>
+								</li>
+							))}
+						</ul>
+					</nav>
+				</header>
+				<div
+					id="main"
+					className={
+						// @ts-expect-error
+						navigation === 'loading' ? 'loading' : ''
+					}
+				>
+					<Outlet />
+				</div>
 			</div>
-		</div>
+		</BasicSchoolInformationProvider>
 	);
 }
 
