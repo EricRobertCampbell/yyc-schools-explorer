@@ -14,18 +14,16 @@ function App() {
 	// @ts-expect-error
 	const { schools } = useLoaderData();
 	const navigation = useNavigation();
-	// @ts-expect-error
 	const [makeCall, { data }] = useJsonFile('basic_school_information.json');
 
 	useEffect(() => {
 		(async () => {
-			// @ts-expect-error
 			await makeCall();
 		})();
 	}, []);
 
 	return (
-		<BasicSchoolInformationProvider value={data}>
+		<BasicSchoolInformationProvider value={data as unknown}>
 			<div className="App">
 				<header>
 					<h1>Alberta School Explorer</h1>
