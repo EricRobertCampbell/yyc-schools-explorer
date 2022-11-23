@@ -23,7 +23,7 @@ function App() {
 	}, []);
 
 	return (
-		<BasicSchoolInformationProvider value={data as unknown}>
+		<BasicSchoolInformationProvider value={data}>
 			<div className="App">
 				<header>
 					<h1>Alberta School Explorer</h1>

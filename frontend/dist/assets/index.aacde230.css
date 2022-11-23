@@ -1,0 +1,1 @@
+.App{margin:0}#main{min-height:500px}#main.loading{opacity:.25;transition:opacity .2s;transition-delay:.2s}nav .active{color:red}nav .pending{::before {content: "...";}}nav li{display:inline;margin:0 5px}table{border-collapse:collapse}tbody tr{cursor:pointer;transition:background-color .5s}tbody tr:hover{background-color:#c7c7c7}

@@ -1,70 +1,91 @@
-/* :root { */
-/*   font-family: Inter, Avenir, Helvetica, Arial, sans-serif; */
-/*   font-size: 16px; */
-/*   line-height: 24px; */
-/*   font-weight: 400; */
+:root {
+	--blue-h: 226;
+	--blue-s: 100%;
+	--blue-l: 56%;
 
-/*   color-scheme: light dark; */
-/*   color: rgba(255, 255, 255, 0.87); */
-/*   background-color: #242424; */
+	--yellow-h: 51;
+	--yellow-s: 100%;
+	--yellow-l: 50%;
 
-/*   font-synthesis: none; */
-/*   text-rendering: optimizeLegibility; */
-/*   -webkit-font-smoothing: antialiased; */
-/*   -moz-osx-font-smoothing: grayscale; */
-/*   -webkit-text-size-adjust: 100%; */
-/* } */
+	--orange-h: 29;
+	--orange-s: 100%;
+	--orange-l: 50%;
 
-/* a { */
-/*   font-weight: 500; */
-/*   color: #646cff; */
-/*   text-decoration: inherit; */
-/* } */
-/* a:hover { */
-/*   color: #535bf2; */
-/* } */
+	/* Palette colours */
+	--blue: hsl(var(--blue-h), var(--blue-s), var(--blue-l));
+	--yellow: hsl(var(--yellow-h), var(--yellow-s), var(--yellow-l));
+	--orange: hsl(var(--orange-h), var(--orange-s), var(--orange-l));
 
-/* body { */
-/*   margin: 0; */
-/*   display: flex; */
-/*   place-items: center; */
-/*   min-width: 320px; */
-/*   min-height: 100vh; */
-/* } */
+	/* App / Branding Colours */
+	--primary-h: var(--blue-h);
+	--primary-s: var(--blue-s);
+	--primary-l: var(--blue-l);
+	--secondary-h: var(--yellow-h);
+	--secondary-s: var(--yellow-s);
+	--secondary-l: var(--yellow-l);
+	--tertiary-h: var(--orange-h);
+	--tertiary-s: var(--orange-s);
+	--tertiary-l: var(--orange-l);
 
-/* h1 { */
-/*   font-size: 3.2em; */
-/*   line-height: 1.1; */
-/* } */
+	--primary-10: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 5%));
+	--primary-20: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 10%));
+	--primary-30: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 15%));
+	--primary-40: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 20%));
+	--primary-50: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 25%));
+	--primary-60: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 30%));
+	--primary-70: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 40%));
+	--primary-80: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 45%));
 
-/* button { */
-/*   border-radius: 8px; */
-/*   border: 1px solid transparent; */
-/*   padding: 0.6em 1.2em; */
-/*   font-size: 1em; */
-/*   font-weight: 500; */
-/*   font-family: inherit; */
-/*   background-color: #1a1a1a; */
-/*   cursor: pointer; */
-/*   transition: border-color 0.25s; */
-/* } */
-/* button:hover { */
-/*   border-color: #646cff; */
-/* } */
-/* button:focus, */
-/* button:focus-visible { */
-/*   outline: 4px auto -webkit-focus-ring-color; */
-/* } */
+	--secondary-10: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 5%));
+	--secondary-20: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 10%));
+	--secondary-30: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 15%));
+	--secondary-40: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 20%));
+	--secondary-50: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 25%));
+	--secondary-60: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 30%));
+	--secondary-70: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 40%));
+	--secondary-80: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 45%));
 
-/* @media (prefers-color-scheme: light) { */
-/*   :root { */
-/*     color: #213547; */
-/*     background-color: #ffffff; */
-/*   } */
-/*   a:hover { */
-/*     color: #747bff; */
-/*   } */
-/*   button { */
-/*     background-color: #f9f9f9; */
-/*   } */
-/* } */
+	--tertiary-10: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 5%));
+	--tertiary-20: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 10%));
+	--tertiary-30: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 15%));
+	--tertiary-40: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 20%));
+	--tertiary-50: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 25%));
+	--tertiary-60: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 30%));
+	--tertiary-70: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 40%));
+	--tertiary-80: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 45%));
+
+	--primary-colour: var(--primary-10);
+	--primary-border-colour: var(--primary-10);
+	--primary-hover-colour: var(--primary-50);
+	--secondary-colour: var(--secondary-10);
+	--secondary-border-colour: var(--secondary-10);
+	--secondary-hover-colour: var(--secondary-50);
+	--tertiary-colour: var(--tertiary-10);
+	--tertiary-border-colour: var(--tertiary-10);
+	--tertiary-hover-colour: var(--tertiary-50);
+	--text-colour: black;
+
+	/* misc */
+	--basic-distance: 4px;
+	--basic-border-radius: var(--basic-distance);
+	--fast-time: 0.2s;
+	--medium-time: 0.5s;
+	--slow-time: 1s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: var(--text-colour);
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+
+body {
+	background-color: var(--blue-70);
+	color: var(--text-colour);
+	font-family: 'Open Sans', sans-serif;
+}
