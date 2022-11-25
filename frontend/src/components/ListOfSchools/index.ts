@@ -1,1 +1,1 @@
-export { ListOfSchools } from './ListOfSchools';
+export { ListOfSchools } from "./ListOfSchools";

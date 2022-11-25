@@ -1,76 +1,178 @@
 :root {
-	--blue-h: 226;
-	--blue-s: 100%;
-	--blue-l: 56%;
+  --blue-h: 226;
+  --blue-s: 100%;
+  --blue-l: 56%;
 
-	--yellow-h: 51;
-	--yellow-s: 100%;
-	--yellow-l: 50%;
+  --yellow-h: 51;
+  --yellow-s: 100%;
+  --yellow-l: 50%;
 
-	--orange-h: 29;
-	--orange-s: 100%;
-	--orange-l: 50%;
+  --orange-h: 29;
+  --orange-s: 100%;
+  --orange-l: 50%;
 
-	/* Palette colours */
-	--blue: hsl(var(--blue-h), var(--blue-s), var(--blue-l));
-	--yellow: hsl(var(--yellow-h), var(--yellow-s), var(--yellow-l));
-	--orange: hsl(var(--orange-h), var(--orange-s), var(--orange-l));
+  /* Palette colours */
+  --blue: hsl(var(--blue-h), var(--blue-s), var(--blue-l));
+  --yellow: hsl(var(--yellow-h), var(--yellow-s), var(--yellow-l));
+  --orange: hsl(var(--orange-h), var(--orange-s), var(--orange-l));
 
-	/* App / Branding Colours */
-	--primary-h: var(--blue-h);
-	--primary-s: var(--blue-s);
-	--primary-l: var(--blue-l);
-	--secondary-h: var(--yellow-h);
-	--secondary-s: var(--yellow-s);
-	--secondary-l: var(--yellow-l);
-	--tertiary-h: var(--orange-h);
-	--tertiary-s: var(--orange-s);
-	--tertiary-l: var(--orange-l);
+  /* App / Branding Colours */
+  --primary-h: var(--blue-h);
+  --primary-s: var(--blue-s);
+  --primary-l: var(--blue-l);
+  --secondary-h: var(--yellow-h);
+  --secondary-s: var(--yellow-s);
+  --secondary-l: var(--yellow-l);
+  --tertiary-h: var(--orange-h);
+  --tertiary-s: var(--orange-s);
+  --tertiary-l: var(--orange-l);
 
-	--primary-10: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 5%));
-	--primary-20: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 10%));
-	--primary-30: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 15%));
-	--primary-40: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 20%));
-	--primary-50: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 25%));
-	--primary-60: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 30%));
-	--primary-70: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 40%));
-	--primary-80: hsl(var(--primary-h), var(--primary-s), calc(var(--primary-l) + 45%));
+  --primary-10: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 5%)
+  );
+  --primary-20: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 10%)
+  );
+  --primary-30: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 15%)
+  );
+  --primary-40: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 20%)
+  );
+  --primary-50: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 25%)
+  );
+  --primary-60: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 30%)
+  );
+  --primary-70: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 40%)
+  );
+  --primary-80: hsl(
+    var(--primary-h),
+    var(--primary-s),
+    calc(var(--primary-l) + 45%)
+  );
 
-	--secondary-10: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 5%));
-	--secondary-20: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 10%));
-	--secondary-30: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 15%));
-	--secondary-40: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 20%));
-	--secondary-50: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 25%));
-	--secondary-60: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 30%));
-	--secondary-70: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 40%));
-	--secondary-80: hsl(var(--secondary-h), var(--secondary-s), calc(var(--secondary-l) + 45%));
+  --secondary-10: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 5%)
+  );
+  --secondary-20: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 10%)
+  );
+  --secondary-30: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 15%)
+  );
+  --secondary-40: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 20%)
+  );
+  --secondary-50: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 25%)
+  );
+  --secondary-60: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 30%)
+  );
+  --secondary-70: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 40%)
+  );
+  --secondary-80: hsl(
+    var(--secondary-h),
+    var(--secondary-s),
+    calc(var(--secondary-l) + 45%)
+  );
 
-	--tertiary-10: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 5%));
-	--tertiary-20: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 10%));
-	--tertiary-30: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 15%));
-	--tertiary-40: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 20%));
-	--tertiary-50: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 25%));
-	--tertiary-60: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 30%));
-	--tertiary-70: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 40%));
-	--tertiary-80: hsl(var(--tertiary-h), var(--tertiary-s), calc(var(--tertiary-l) + 45%));
+  --tertiary-10: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 5%)
+  );
+  --tertiary-20: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 10%)
+  );
+  --tertiary-30: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 15%)
+  );
+  --tertiary-40: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 20%)
+  );
+  --tertiary-50: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 25%)
+  );
+  --tertiary-60: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 30%)
+  );
+  --tertiary-70: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 40%)
+  );
+  --tertiary-80: hsl(
+    var(--tertiary-h),
+    var(--tertiary-s),
+    calc(var(--tertiary-l) + 45%)
+  );
 
-	--primary-colour: var(--primary-10);
-	--primary-border-colour: var(--primary-10);
-	--primary-hover-colour: var(--primary-50);
-	--secondary-colour: var(--secondary-10);
-	--secondary-border-colour: var(--secondary-10);
-	--secondary-hover-colour: var(--secondary-50);
-	--tertiary-colour: var(--tertiary-10);
-	--tertiary-border-colour: var(--tertiary-10);
-	--tertiary-hover-colour: var(--tertiary-50);
-	--text-colour: black;
+  --primary-colour: var(--primary-10);
+  --primary-border-colour: var(--primary-10);
+  --primary-hover-colour: var(--primary-50);
+  --secondary-colour: var(--secondary-10);
+  --secondary-border-colour: var(--secondary-10);
+  --secondary-hover-colour: var(--secondary-50);
+  --tertiary-colour: var(--tertiary-10);
+  --tertiary-border-colour: var(--tertiary-10);
+  --tertiary-hover-colour: var(--tertiary-50);
+  --text-colour: black;
 
-	/* misc */
-	--basic-distance: 4px;
-	--basic-border-radius: var(--basic-distance);
-	--fast-time: 0.2s;
-	--medium-time: 0.5s;
-	--slow-time: 1s;
+  /* misc */
+  --basic-distance: 4px;
+  --small-border-radius: var(--basic-distance);
+  --medium-border-radius: calc(2 * var(--basic-distance));
+  --large-border-radius: calc(3 * var(--basic-distance));
+  --fast-time: 0.2s;
+  --medium-time: 0.5s;
+  --slow-time: 1s;
+
+  --basic-width: 640px;
+  --article-width: var(--basic-width);
+  --medium-width: calc(1.5 * var(--basic-width));
 }
 
 h1,
@@ -79,13 +181,13 @@ h3,
 h4,
 h5,
 h6 {
-	color: var(--text-colour);
-	font-family: 'Roboto Slab', serif;
-	text-align: center;
+  color: var(--text-colour);
+  font-family: "Roboto Slab", serif;
+  text-align: center;
 }
 
 body {
-	background-color: var(--blue-70);
-	color: var(--text-colour);
-	font-family: 'Open Sans', sans-serif;
+  background-color: var(--blue-70);
+  color: var(--text-colour);
+  font-family: "Open Sans", sans-serif;
 }

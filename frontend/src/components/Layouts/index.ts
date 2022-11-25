@@ -1,0 +1,1 @@
+export { BasicArticleLayout } from "./BasicArticleLayout";
