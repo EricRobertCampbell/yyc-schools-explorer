@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from "react";
 
 /**
  * UseJsonFile - hook to load in the information from a JSON file in the public directory. Think of it like Apollo useLazyQuery.
@@ -7,39 +7,44 @@ import { useState, useEffect, useCallback } from 'react';
  * @returns [ makeCall, {called, loading, error, data} ]. makeCall actually sets everything in motion - the rest are self explanatory. Before the function has been called, loading, error, and data are undefined.
  */
 export const useJsonFile = (
-	filename: string
+  filename: string
 ): [
-	() => void,
-	{ called: boolean; loading: boolean | undefined; error: Error | undefined; data: unknown }
+  () => void,
+  {
+    called: boolean;
+    loading: boolean | undefined;
+    error: Error | undefined;
+    data: unknown;
+  }
 ] => {
-	const [called, setCalled] = useState<boolean>(false);
-	const [loading, setLoading] = useState<boolean | undefined>(undefined);
-	const [error, setError] = useState<Error | undefined>(undefined);
-	const [data, setData] = useState<unknown | undefined>(undefined);
+  const [called, setCalled] = useState<boolean>(false);
+  const [loading, setLoading] = useState<boolean | undefined>(undefined);
+  const [error, setError] = useState<Error | undefined>(undefined);
+  const [data, setData] = useState<unknown | undefined>(undefined);
 
-	const makeCall = useCallback(async () => {
-		//console.log('In makeCall!');
-		if (!called) {
-			setCalled(true);
-		}
-		setLoading(true);
-		setError(undefined);
-		setData(undefined);
+  const makeCall = useCallback(async () => {
+    //console.log('In makeCall!');
+    if (!called) {
+      setCalled(true);
+    }
+    setLoading(true);
+    setError(undefined);
+    setData(undefined);
 
-		try {
-			//console.log('Making call');
-			const result = await fetch(`/data/${filename}`);
-			//console.log('Awaiting JSON', result);
-			const json = await result.json();
+    try {
+      //console.log('Making call');
+      const result = await fetch(`/data/${filename}`);
+      //console.log('Awaiting JSON', result);
+      const json = await result.json();
 
-			setLoading(false);
-			setData(json);
-		} catch (e) {
-			console.error(e);
-			setLoading(false);
-			// @ts-expect-error
-			setError(e);
-		}
-	}, [filename, called]);
-	return [makeCall, { called, loading, error, data }];
+      setLoading(false);
+      setData(json);
+    } catch (e) {
+      console.error(e);
+      setLoading(false);
+      // @ts-expect-error
+      setError(e);
+    }
+  }, [filename, called]);
+  return [makeCall, { called, loading, error, data }];
 };

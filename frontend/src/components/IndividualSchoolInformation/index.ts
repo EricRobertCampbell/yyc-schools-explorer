@@ -1,1 +1,1 @@
-export { IndividualSchoolInformation } from './IndividualSchoolInformation';
+export { IndividualSchoolInformation } from "./IndividualSchoolInformation";
