@@ -28,8 +28,15 @@ export const DiplomaExamResults = () => {
     }
     setSchoolOptions(
       // @ts-expect-error
-      Object.keys(data)
-        .map((schoolCode) => {
+      Array.from(
+        new Set(
+          data
+            // @ts-expect-error
+            .map((examInfo: $TSFixMe) => examInfo.school_code)
+        )
+      )
+        // @ts-expect-error
+        .map((schoolCode: string) => {
           const schoolInfo = basicSchoolInformation[schoolCode];
           const schoolName = schoolInfo ? schoolInfo["schoolName"] : undefined;
 
@@ -40,7 +47,7 @@ export const DiplomaExamResults = () => {
           /*console.log({ option }); */
           return option;
         })
-        .filter((option) => !!option.name)
+        .filter((option: $TSFixMe) => !!option.name)
     );
   }, [basicSchoolInformation, data]);
 
@@ -51,20 +58,22 @@ export const DiplomaExamResults = () => {
       return;
     }
     // @ts-expect-error
-    const schoolInfo = data[selectedSchoolCode];
-    if (!schoolInfo) {
+    const schoolInfo = data.filter(
+      (examInfo: $TSFixMe) => examInfo.school_code === selectedSchoolCode
+    );
+    if (schoolInfo.length === 0) {
       setExamOptions([]);
       return;
     }
     console.log({ schoolInfo });
     setExamOptions(
-      Object.entries(schoolInfo)
-        .filter((schoolEntry) => {
-          const [_exam, results] = schoolEntry;
-          // @ts-expect-error
-          return !Object.values(results).every((result) => result === "");
-        })
-        .map(([exam, _results]) => exam)
+      Array.from(
+        new Set(
+          schoolInfo
+            .filter((examInfo: $TSFixMe) => examInfo.exam_mean !== null)
+            .map((examInfo: $TSFixMe) => examInfo.exam)
+        )
+      )
     );
   }, [selectedSchoolCode]);
 
@@ -117,7 +126,6 @@ export const DiplomaExamResults = () => {
         )}
         isOptionEqualToValue={(option, value) => option.value === value.value}
       />
-
       <br />
       <Autocomplete
         id="exam"
@@ -136,6 +144,7 @@ export const DiplomaExamResults = () => {
             }))
             .sort((a, b) => a.label.localeCompare(b.label)),
         ]}
+        isOptionEqualToValue={(option, value) => option.value === value.value}
       />
       <DiplomaExamGraph code={selectedSchoolCode} exam={selectedExam} />
     </>
