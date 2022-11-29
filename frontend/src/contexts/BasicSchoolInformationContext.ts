@@ -1,7 +1,8 @@
-import { createContext } from 'react';
+import { createContext } from "react";
 
 // types and classes
-import { $TSFixMe } from '../types';
+import { $TSFixMe } from "../types";
 
 export const BasicSchoolInformationContext = createContext<$TSFixMe>(undefined);
-export const BasicSchoolInformationProvider = BasicSchoolInformationContext.Provider;
+export const BasicSchoolInformationProvider =
+  BasicSchoolInformationContext.Provider;

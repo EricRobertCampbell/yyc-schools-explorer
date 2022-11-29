@@ -1,0 +1,5 @@
+div#main-article {
+  max-width: var(--article-width);
+  display: flex;
+  flex-direction: column;
+}

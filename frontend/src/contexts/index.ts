@@ -1,1 +1,4 @@
-export { BasicSchoolInformationContext, BasicSchoolInformationProvider } from './BasicSchoolInformationContext'
+export {
+  BasicSchoolInformationContext,
+  BasicSchoolInformationProvider,
+} from "./BasicSchoolInformationContext";
