@@ -1,4 +1,4 @@
-import { useContext, useState, useEffect } from "react";
+import { useContext, useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import TextField from "@mui/material/TextField";
 import { BasicSchoolInformationContext } from "../../contexts";
@@ -14,8 +14,7 @@ export const ListOfSchools = () => {
   const [parsedData, setParsedData] = useState<Array<$TSFixMe>>([]);
   const [dataToDisplay, setDataToDisplay] = useState<Array<$TSFixMe>>([]);
   const [searchData, setSearchData] = useState<string>("");
-  const [searchTimeout, setSearchTimeout] =
-    useState<ReturnType<typeof setTimeout>>();
+  const searchTimeout = useRef<ReturnType<typeof setTimeout>>();
   const [search, setSearch] = useState<string>(""); // what is actually being searched for
 
   // parse the loaded in data
@@ -65,9 +64,9 @@ export const ListOfSchools = () => {
         value={searchData}
         onChange={(e) => {
           setSearchData(e.target.value);
-          clearTimeout(searchTimeout);
+          clearTimeout(searchTimeout.current);
           const newTimeout = setTimeout(() => setSearch(e.target.value), 500);
-          setSearchTimeout(newTimeout);
+          searchTimeout.current = newTimeout;
         }}
       />
       <table>
