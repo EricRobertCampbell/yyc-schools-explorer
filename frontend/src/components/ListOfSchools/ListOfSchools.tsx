@@ -61,7 +61,9 @@ export const ListOfSchools = () => {
         name="search"
         id="search"
         label="Search Schools"
-        sx={{ alignSelf: "flex-start" }}
+        sx={{
+          alignSelf: "flex-start",
+        }}
         value={searchData}
         onChange={(e) => {
           setSearchData(e.target.value);
