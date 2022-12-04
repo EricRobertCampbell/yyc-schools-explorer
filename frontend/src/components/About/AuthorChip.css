@@ -1,0 +1,8 @@
+a img.social-link {
+  height: 2em;
+  padding: 0 calc(2 * var(--basic-distance));
+}
+
+img.profile-picture {
+  border-radius: 50%;
+}

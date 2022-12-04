@@ -41,6 +41,7 @@ function App() {
                 ["Academics", "academics"],
                 ["Athletics", "athletics"],
                 ["Accessibility", "accessibility"],
+                ["About", "about"],
               ].map(([name, to]) => (
                 <li key={name}>
                   <NavLink

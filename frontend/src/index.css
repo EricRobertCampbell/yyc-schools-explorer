@@ -175,6 +175,10 @@
   --medium-width: calc(1.5 * var(--basic-width));
 }
 
+root {
+  line-height: 1.5;
+}
+
 h1,
 h2,
 h3,

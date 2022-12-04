@@ -1,0 +1,18 @@
+section#about {
+  width: var(--article-width);
+}
+section.author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: calc(4 * var(--basic-distance));
+}
+section.author > img {
+  width: 8em;
+  height: 8em;
+  flex-grow: 0;
+  flex-shrink: 0;
+  align-content: start;
+}
+section.author > div.info {
+}
