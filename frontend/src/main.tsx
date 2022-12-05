@@ -12,6 +12,7 @@ import { SchoolsMap } from "./components/Map";
 import { Academics } from "./components/Academics";
 import { Athletics } from "./components/Athletics";
 import { Accessibility } from "./components/Accessibility";
+import { About } from "./components/About";
 
 const router = createBrowserRouter([
   {
@@ -38,6 +39,7 @@ const router = createBrowserRouter([
           { path: "academics", element: <Academics /> },
           { path: "athletics", element: <Athletics /> },
           { path: "accessibility", element: <Accessibility /> },
+          { path: "about", element: <About /> },
         ],
       },
     ],
